@@ -2,5 +2,6 @@
 	<editor_only base_id="200000" editor_only="true" name="editor_only"/>
 	<mkp_ext base_id="400000" enabled_in_simulation="true" name="mkp_ext"/>
 	<mkp_int base_id="300000" enabled_in_simulation="true" name="mkp_int"/>
+	<nav base_id="500000" editor_only="true" enabled_in_simulation="true" name="nav"/>
 	<world base_id="100000" editor_only="false" name="world"/>
 </table>
