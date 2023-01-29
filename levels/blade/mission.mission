@@ -1,4 +1,6 @@
 <table>
 	<editor_only file="editor_only/editor_only"/>
+	<mkp_ext file="mkp_ext/mkp_ext"/>
+	<mkp_int file="mkp_int/mkp_int"/>
 	<world file="world/world"/>
 </table>
