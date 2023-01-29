@@ -6,7 +6,49 @@
 			<unit_data _prev_pos="-600 -500 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vehicles/str_vehicle_truck_boxvan/str_vehicle_truck_boxvan" name_id="str_vehicle_truck_boxvan_001" position="-600 -500 0" rotation="0 0 0 -1" unit_id="100001"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="800 -3100 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/vehicles/str_vehicle_truck_boxvan/str_vehicle_truck_boxvan" name_id="str_vehicle_truck_boxvan_002" position="-700 -3100 0" rotation="0 0 -0.707107 -0.707107" unit_id="100000"/>
+			<unit_data _prev_pos="-175 -3100 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/vehicles/str_vehicle_truck_boxvan/str_vehicle_truck_boxvan" name_id="str_vehicle_truck_boxvan_002" position="975 -3100 0" rotation="0 0 -0.707107 -0.707107" unit_id="100000"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10025 -2800 100" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_palletrack_a" name_id="ind_prop_warehouse_palletrack_a_001" position="5700 -2800 3125" rotation="0 0 0 -1" unit_id="100002"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10450 -3350 100" _prev_rot="0 0 0 -1" continent="world" local_pos="425 -550 0" local_rot="0 0 0 1" name="units/payday2/props/ind_prop_mill_lumber_stacks/ind_prop_mill_lumber_stack_single" name_id="ind_prop_mill_lumber_stack_single_001" position="6125 -3350 3125" rotation="0 0 0 -1" unit_id="100003"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10550 -3550 100" _prev_rot="0 0 0 -1" continent="world" local_pos="525 -750 0" local_rot="0 0 0 1" name="units/payday2/props/ind_prop_mill_lumber_stacks/ind_prop_mill_lumber_stack_single_covered" name_id="ind_prop_mill_lumber_stack_single_covered_001" position="6225 -3550 3125" rotation="0 0 0 -1" unit_id="100004"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5875 -2975 100" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/ind_prop_mill_lumber_stacks/ind_prop_mill_lumber_stacks" name_id="ind_prop_mill_lumber_stacks_001" position="5875 -2975 100" rotation="0 0 0 -1" unit_id="100005"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10500 -3750 100" _prev_rot="0 0 0 -1" continent="world" local_pos="475 -950 0" local_rot="0 0 0 1" name="units/payday2/props/ind_prop_mill_lumber_stacks/ind_prop_mill_lumber_stacks_covered" name_id="ind_prop_mill_lumber_stacks_covered_001" position="6175 -3750 3125" rotation="0 0 0 -1" unit_id="100006"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10225 -4450 100" _prev_rot="0 0 0 -1" continent="world" local_pos="200 -1650 0" local_rot="0 0 0 1" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack" name_id="mad_prop_log_bigstack_001" position="5900 -4450 3125" rotation="0 0 0 -1" unit_id="100007"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5875 -2975 280" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/ind_prop_mill_lumber_stacks/ind_prop_mill_lumber_stacks" name_id="ind_prop_mill_lumber_stacks_002" position="5875 -2975 280" rotation="0 0 0 -1" unit_id="100008"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1375 -9775 100" _prev_rot="0 0 0.669131 -0.743145" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="gen_prop_container_a_red_001" position="1375 -9775 100" rotation="0 0 0.669131 -0.743145" unit_id="100010"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3376.1 -7115.38 100" _prev_rot="0 0 -0.649448 -0.760406" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="gen_prop_container_a_red_002" position="3370.36 -7177.25 100" rotation="0 0 -0.649448 -0.760406" unit_id="100009"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6250 -6250 100" _prev_rot="0 0 0.199368 -0.979925" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="gen_prop_container_a_red_003" position="6250 -6250 100" rotation="0 0 0.453991 -0.891007" unit_id="100011"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6016.38 -5601.54 100" _prev_rot="0 0 0.743145 -0.66913" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="gen_prop_container_a_red_004" position="6048.44 -5440.01 100" rotation="0 0 0.743145 -0.66913" unit_id="100012"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7450 -3575 100" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vehicles/ind_vehicle_truck_forklift/ind_vehicle_truck_forklift" name_id="ind_vehicle_truck_forklift_001" position="7450 -3575 100" rotation="0 0 0 -1" unit_id="100013"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6150 -4500 100" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vehicles/ind_vehicle_truck_forklift/ind_vehicle_truck_forklift_raised" name_id="ind_vehicle_truck_forklift_raised_001" position="6150 -4500 100" rotation="0 0 0 -1" unit_id="100014"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5875 -2975 455" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/ind_prop_mill_lumber_stacks/ind_prop_mill_lumber_stacks" name_id="ind_prop_mill_lumber_stacks_003" position="5875 -2975 460" rotation="0 0 0 -1" unit_id="100015"/>
 		</table>
 	</statics>
 	<values>
