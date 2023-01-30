@@ -267,14 +267,14 @@
 				</entry>
 			</entry>
 			<entry key="unit_data" type="table">
-				<entry key="_prev_pos" type="vector3" value="2075 -3075 100"/>
+				<entry key="_prev_pos" type="vector3" value="2075 -3650 100"/>
 				<entry key="_prev_rot" type="quaternion" value="0 0 0 -1"/>
 				<entry key="continent" type="string" value="nav"/>
 				<entry key="local_pos" type="vector3" value="0 0 0"/>
 				<entry key="local_rot" type="quaternion" value="0 0 0 1"/>
 				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
 				<entry key="name_id" type="string" value="nav_surface_012"/>
-				<entry key="position" type="vector3" value="2075 -3650 100"/>
+				<entry key="position" type="vector3" value="2300 -3650 100"/>
 				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 				<entry key="unit_id" type="number" value="12"/>
 			</entry>
@@ -661,11 +661,11 @@
 				<entry key="_prev_pos" type="vector3" value="5400 -8400 100"/>
 				<entry key="_prev_rot" type="quaternion" value="0 0 0 -1"/>
 				<entry key="continent" type="string" value="nav"/>
-				<entry key="local_pos" type="vector3" value="-725 2775 0"/>
+				<entry key="local_pos" type="vector3" value="0 0 0"/>
 				<entry key="local_rot" type="quaternion" value="0 0 0 1"/>
 				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
 				<entry key="name_id" type="string" value="nav_surface_031"/>
-				<entry key="position" type="vector3" value="5400 -8400 100"/>
+				<entry key="position" type="vector3" value="5925 -8400 100"/>
 				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 				<entry key="unit_id" type="number" value="31"/>
 			</entry>

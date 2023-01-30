@@ -2495,7 +2495,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="2885 -5950 117" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" disable_on_ai_graph="true" local_pos="-735 -4200 0" local_rot="0 0 0.707107 0.707107" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_010" position="2885 -5950 117" rotation="0 0 0.707107 -0.707107" unit_id="300927">
+			<unit_data _prev_pos="2885 -5950 117" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_010" position="2660 -5950 117" rotation="0 0 0.707107 -0.707107" unit_id="300927">
 				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 0.556863 0" font_size="6.1" render_template="diffuse_vc_decal" text="workshop" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
@@ -2939,7 +2939,7 @@
 			<unit_data _prev_pos="8200 -2000 100" _prev_rot="0 0 1 -4.37114e-008" continent="mkp_int" local_pos="200 1200 0" local_rot="0 0 -1 4.37114e-008" mesh_variation="display_off" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_1222" position="8200 -2000 100" rotation="0 0 1 -4.37114e-008" unit_id="300175"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="8800 -3700 0" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_construction_floor/com_int_construction_wood_pile" name_id="com_int_construction_wood_pile_001" position="8800 -3700 0" rotation="0 0 0 -1" unit_id="300182"/>
+			<unit_data _prev_pos="9200 -3700 9400" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_construction_floor/com_int_construction_wood_pile" name_id="com_int_construction_wood_pile_001" position="6925 -3700 10125" rotation="0 0 0 -1" unit_id="300182"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="8000 -5075 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_stairs_top" name_id="mkp_int_stairs_top_005" position="8000 -5075 0" rotation="0 0 0.707107 -0.707107" unit_id="300162"/>
@@ -3498,6 +3498,552 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="400 -15050 0" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="-3200 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_020" position="400 -15100 0" rotation="0 0 0 -1" unit_id="300336"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9575 -14450 500" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="3200 0 -9600" local_rot="0.5 0.5 0.5 0.5" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_021" position="9575 -15350 500" rotation="0 0 0 -1" unit_id="300337"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9575 -14450 -2700" _prev_rot="0 0.707107 0 -0.707107" continent="mkp_int" local_pos="0 0 -9600" local_rot="0.707107 0 0 0.707107" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_022" position="9575 -15350 -2700" rotation="0 0.707107 0 -0.707107" unit_id="300338"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9575 -11250 500" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="3200 0 -6400" local_rot="0.5 0.5 0.5 0.5" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_023" position="9575 -12150 500" rotation="0 0 0 -1" unit_id="300339"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9575 -11250 -2700" _prev_rot="0 0.707107 0 -0.707107" continent="mkp_int" local_pos="0 0 -6400" local_rot="0.707107 0 0 0.707107" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_024" position="9575 -12150 -2700" rotation="0 0.707107 0 -0.707107" unit_id="300340"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9575 -8050 500" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="3200 0 -3200" local_rot="0.5 0.5 0.5 0.5" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_028" position="9575 -8950 500" rotation="0 0 0 -1" unit_id="300341"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9575 -8050 -2700" _prev_rot="0 0.707107 0 -0.707107" continent="mkp_int" local_pos="0 0 -3200" local_rot="0.707107 0 0 0.707107" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_029" position="9575 -8950 -2700" rotation="0 0.707107 0 -0.707107" unit_id="300342"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9575 -4850 -2700" _prev_rot="0.5 0.5 0.5 -0.5" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_030" position="9575 -5750 -2700" rotation="0.5 0.5 0.5 -0.5" unit_id="301121"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9575 -8950 -2700" _prev_rot="0 0.707107 0 -0.707107" continent="mkp_int" local_pos="0 0 -3200" local_rot="0.707107 0 0 0.707107" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_032" position="9575 1450 -2700" rotation="0 0.707107 0 -0.707107" unit_id="301126"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9575 -8950 500" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="3200 0 -3200" local_rot="0.5 0.5 0.5 0.5" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_033" position="9575 1450 500" rotation="0 0 0 -1" unit_id="301127"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9575 -12150 -2700" _prev_rot="0 0.707107 0 -0.707107" continent="mkp_int" local_pos="0 0 -6400" local_rot="0.707107 0 0 0.707107" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_034" position="9575 -1750 -2700" rotation="0 0.707107 0 -0.707107" unit_id="301128"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9575 -15350 500" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="3200 0 -9600" local_rot="0.5 0.5 0.5 0.5" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_035" position="9575 -4950 500" rotation="0 0 0 -1" unit_id="301129"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9575 -4950 -2700" _prev_rot="0 0.707107 0 -0.707107" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_036" position="9575 -4950 -2700" rotation="0 0.707107 0 -0.707107" unit_id="301130"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9575 -12150 500" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="3200 0 -6400" local_rot="0.5 0.5 0.5 0.5" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_037" position="9575 -1750 500" rotation="0 0 0 -1" unit_id="301131"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12775 -4950 -2700" _prev_rot="0 0.707107 0 -0.707107" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_038" position="12775 -4950 -2700" rotation="-0.5 0.5 -0.5 -0.5" unit_id="301132"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-700 -9025 25" _prev_rot="0 0 -0.707107 -0.707107" continent="mkp_int" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_017" position="-675 -8925 25" rotation="0 0 -0.707107 -0.707107" unit_id="301125">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 0 0" font_size="6.58049" render_template="diffuse_vc_decal" text="ENEMY SPAWN" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-675 -2975 25" _prev_rot="0 0 -0.707107 -0.707107" continent="mkp_int" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_018" position="-675 -2925 25" rotation="0 0 -0.707107 -0.707107" unit_id="301133">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 0 0" font_size="6.58049" render_template="diffuse_vc_decal" text="ENEMY SPAWN" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="1275 1075 25" _prev_rot="0 0 0 -1" continent="mkp_int" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_019" position="1275 1075 25" rotation="0 0 0 -1" unit_id="301134">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 0 0" font_size="6.58049" render_template="diffuse_vc_decal" text="ENEMY SPAWN" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="5175 1075 25" _prev_rot="0 0 0 -1" continent="mkp_int" disable_on_ai_graph="true" local_pos="-75 -25 -75" local_rot="0 0 0.707107 0.707107" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_020" position="3775 1075 25" rotation="0 0 0 -1" unit_id="301135">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 0 0" font_size="6.58049" render_template="diffuse_vc_decal" text="ENEMY SPAWN" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="9025 -2775 25" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_021" position="9075 -2275 25" rotation="0 0 0.707107 -0.707107" unit_id="301136">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 0 0" font_size="6.58049" render_template="diffuse_vc_decal" text="ENEMY SPAWN" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="9075 -7550 25" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_022" position="9075 -7600 25" rotation="0 0 0.707107 -0.707107" unit_id="301137">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 0 0" font_size="6.58049" render_template="diffuse_vc_decal" text="ENEMY SPAWN" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="3125 -10275 108" _prev_rot="0 0 0 -1" continent="mkp_int" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_023" position="3075 -10150 108" rotation="0 0 0 -1" unit_id="301138">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 0 0" font_size="6.58049" render_template="diffuse_vc_decal" text="ENEMY SPAWN" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="5525 -12625 108" _prev_rot="0 0 0 -1" continent="mkp_int" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_024" position="5700 -12600 108" rotation="0 0 0 -1" unit_id="301139">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 0 0" font_size="6.58049" render_template="diffuse_vc_decal" text="ENEMY SPAWN" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="9550 -875 195.812" _prev_rot="0 0.707107 0 -0.707107" continent="mkp_int" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_025" position="9550 -875 195.812" rotation="-0.5 0.5 0.5 -0.5" unit_id="301140">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="10" render_template="diffuse_vc_decal" text="CONTAINER SHIP" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="9550 -875 195.812" _prev_rot="-0.5 0.5 0.5 -0.5" continent="mkp_int" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_026" position="9550 -8275 195.812" rotation="-0.5 0.5 0.5 -0.5" unit_id="301141">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="10" render_template="diffuse_vc_decal" text="CONTAINER SHIP" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="7400 -6200 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_428" position="7400 -6200 300" rotation="0 0 0.707107 -0.707107" unit_id="301142"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7800 -6775 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="575 400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_429" position="7800 -6775 300" rotation="0 0 0.707107 -0.707107" unit_id="301143"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7400 -6775 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="575 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_430" position="7400 -6775 300" rotation="0 0 0.707107 -0.707107" unit_id="301144"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7000 -6775 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="575 -400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_431" position="7000 -6775 300" rotation="0 0 0.707107 -0.707107" unit_id="301145"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7025 -6400 0" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="200 -375 0" local_rot="0 0 -0.707107 0.707107" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_432" position="7025 -6400 300" rotation="0 0 1 -0" unit_id="301146"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7425 -6000 300" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_433" position="7425 -6000 300" rotation="0 0 1 -0" unit_id="301147"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7400 -5600 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="-600 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_434" position="7400 -5600 300" rotation="0 0 0.707107 -0.707107" unit_id="301148"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7800 -5600 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="-600 400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_435" position="7800 -5600 300" rotation="0 0 0.707107 -0.707107" unit_id="301149"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7400 -5200 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="-1000 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_436" position="7400 -5200 300" rotation="0 0 0.707107 -0.707107" unit_id="301150"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7000 -5200 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="-1000 -400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_437" position="7000 -5200 300" rotation="0 0 0.707107 -0.707107" unit_id="301151"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7025 -5200 0" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="-1000 -375 0" local_rot="0 0 -0.707107 0.707107" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_438" position="7025 -5200 300" rotation="0 0 1 -0" unit_id="301152"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7025 -5600 300" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_439" position="7025 -5600 300" rotation="0 0 1 -0" unit_id="301153"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7800 -6200 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_440" position="7800 -6200 300" rotation="0 0 0.707107 -0.707107" unit_id="301154"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7425 -6000 300" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_441" position="7425 -6400 300" rotation="0 0 1 -0" unit_id="301155"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7425 -6400 300" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_442" position="7425 -5600 300" rotation="0 0 1 -0" unit_id="301156"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7025 -5600 300" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_443" position="7025 -6000 300" rotation="0 0 1 -0" unit_id="301157"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7800 -10000 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_461" position="7800 -10000 300" rotation="0 0 0.707107 -0.707107" unit_id="301158"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7400 -10000 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 -400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_462" position="7400 -10000 300" rotation="0 0 0.707107 -0.707107" unit_id="301159"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7000 -10000 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 -800 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_463" position="7000 -10000 300" rotation="0 0 0.707107 -0.707107" unit_id="301160"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6600 -10000 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 -1200 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_464" position="6600 -10000 300" rotation="0 0 0.707107 -0.707107" unit_id="301161"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6200 -10000 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 -1600 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_465" position="6200 -10000 300" rotation="0 0 0.707107 -0.707107" unit_id="301162"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5800 -10000 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 -2000 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_466" position="5800 -10000 300" rotation="0 0 0.707107 -0.707107" unit_id="301163"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="4600 -10000 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 -3200 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_467" position="4600 -10000 300" rotation="0 0 0.707107 -0.707107" unit_id="301164"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="4200 -10000 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 -3600 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_468" position="4200 -10000 300" rotation="0 0 0.707107 -0.707107" unit_id="301165"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3800 -10000 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 -4000 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_469" position="3800 -10000 300" rotation="0 0 0.707107 -0.707107" unit_id="301166"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3400 -10000 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 -4400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_470" position="3400 -10000 300" rotation="0 0 0.707107 -0.707107" unit_id="301167"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -10000 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 -4800 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_471" position="3000 -10000 300" rotation="0 0 0.707107 -0.707107" unit_id="301168"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2600 -10000 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 -5200 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_472" position="2600 -10000 300" rotation="0 0 0.707107 -0.707107" unit_id="301169"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2200 -10000 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 -5600 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_473" position="2200 -10000 300" rotation="0 0 0.707107 -0.707107" unit_id="301170"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 -10000 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 -7400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_474" position="400 -10000 300" rotation="0 0 0.707107 -0.707107" unit_id="301171"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 -10000 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 -7000 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_475" position="800 -10000 300" rotation="0 0 0.707107 -0.707107" unit_id="301172"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1000 -10000 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 -6800 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_476" position="1000 -10000 300" rotation="0 0 0.707107 -0.707107" unit_id="301173"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2975 -10000 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_275" position="2975 -10000 300" rotation="0 0 0 -1" unit_id="301174"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2975 -9600 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_276" position="2975 -9600 300" rotation="0 0 0 -1" unit_id="301175"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2975 -9200 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 800 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_203" position="2975 -9200 300" rotation="0 0 0 -1" unit_id="301176"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2975 -8800 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 1200 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_204" position="2975 -8800 300" rotation="0 0 0 -1" unit_id="301177"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2975 -8400 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 1600 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_221" position="2975 -8400 300" rotation="0 0 0 -1" unit_id="301178"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2975 -8000 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 2000 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_222" position="2975 -8000 300" rotation="0 0 0 -1" unit_id="301179"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2975 -7600 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 2400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_223" position="2975 -7600 300" rotation="0 0 0 -1" unit_id="301180"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2975 -7200 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 2800 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_227" position="2975 -7200 300" rotation="0 0 0 -1" unit_id="301181"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2500 -6775 400" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_477" position="2500 -6775 400" rotation="0 0 0.707107 -0.707107" unit_id="301182"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2500 -6800 400" _prev_rot="0 0 -0.707107 -0.707107" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_1m_a" name_id="mkp_int_wall_1m_a_055" position="2500 -6800 400" rotation="0 0 -0.707107 -0.707107" unit_id="301183"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2400 -6300 400" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="-575 3700 100" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_2m_a" name_id="mkp_int_wall_2m_a_003" position="2400 -6300 400" rotation="0 0 0 -1" unit_id="301184"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2400 -5700 400" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="-575 4300 100" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_1m_a" name_id="mkp_int_wall_1m_a_056" position="2400 -5700 400" rotation="0 0 0 -1" unit_id="301185"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2400 -5600 400" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_478" position="2400 -5600 400" rotation="0 0 0.707107 -0.707107" unit_id="301186"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2975 -5600 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 4400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_228" position="2975 -5600 300" rotation="0 0 0 -1" unit_id="301187"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -5600 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="25 4400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_239" position="3000 -5600 300" rotation="0 0 0 -1" unit_id="301188"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2975 -5200 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 4800 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_229" position="2975 -5200 300" rotation="0 0 0 -1" unit_id="301189"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2975 -4800 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 5200 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_230" position="2975 -4800 300" rotation="0 0 0 -1" unit_id="301190"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2975 -4400 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 5600 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_179" position="2975 -4400 300" rotation="0 0 0 -1" unit_id="301191"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2975 -4000 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 6000 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_180" position="2975 -4000 300" rotation="0 0 0 -1" unit_id="301192"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2975 -3600 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 6400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_197" position="2975 -3600 300" rotation="0 0 0 -1" unit_id="301193"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2975 -3200 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 6800 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_198" position="2975 -3200 300" rotation="0 0 0 -1" unit_id="301194"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2975 -2800 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 7200 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_205" position="2975 -2800 300" rotation="0 0 0 -1" unit_id="301195"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2975 -2400 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 7600 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_206" position="2975 -2400 300" rotation="0 0 0 -1" unit_id="301196"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2600 -2000 300" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="-375 8000 0" local_rot="0 0 -0.707107 0.707107" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_479" position="2600 -2000 300" rotation="0 0 0.707107 -0.707107" unit_id="301197"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2200 -2000 300" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="-775 8000 0" local_rot="0 0 -0.707107 0.707107" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_480" position="2200 -2000 300" rotation="0 0 0.707107 -0.707107" unit_id="301198"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -2000 300" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="25 8000 0" local_rot="0 0 -0.707107 0.707107" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_481" position="3000 -2000 300" rotation="0 0 0.707107 -0.707107" unit_id="301199"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3400 -2000 300" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="425 8000 0" local_rot="0 0 -0.707107 0.707107" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_482" position="3400 -2000 300" rotation="0 0 0.707107 -0.707107" unit_id="301200"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3800 -2000 300" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="825 8000 0" local_rot="0 0 -0.707107 0.707107" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_483" position="3800 -2000 300" rotation="0 0 0.707107 -0.707107" unit_id="301201"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="4200 -2000 300" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="1225 8000 0" local_rot="0 0 -0.707107 0.707107" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_484" position="4200 -2000 300" rotation="0 0 0.707107 -0.707107" unit_id="301202"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="4600 -2000 300" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="1625 8000 0" local_rot="0 0 -0.707107 0.707107" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_485" position="4600 -2000 300" rotation="0 0 0.707107 -0.707107" unit_id="301203"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5800 -2000 300" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="2825 8000 0" local_rot="0 0 -0.707107 0.707107" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_486" position="5800 -2000 300" rotation="0 0 0.707107 -0.707107" unit_id="301204"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6200 -2000 300" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="3225 8000 0" local_rot="0 0 -0.707107 0.707107" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_487" position="6200 -2000 300" rotation="0 0 0.707107 -0.707107" unit_id="301205"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6600 -2000 300" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="3625 8000 0" local_rot="0 0 -0.707107 0.707107" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_488" position="6600 -2000 300" rotation="0 0 0.707107 -0.707107" unit_id="301206"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7000 -2000 300" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="4025 8000 0" local_rot="0 0 -0.707107 0.707107" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_489" position="7000 -2000 300" rotation="0 0 0.707107 -0.707107" unit_id="301207"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7400 -2000 300" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="4425 8000 0" local_rot="0 0 -0.707107 0.707107" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_490" position="7400 -2000 300" rotation="0 0 0.707107 -0.707107" unit_id="301208"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7800 -2000 300" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="4825 8000 0" local_rot="0 0 -0.707107 0.707107" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_491" position="7800 -2000 300" rotation="0 0 0.707107 -0.707107" unit_id="301209"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -2400 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="25 7600 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_207" position="3000 -2400 300" rotation="0 0 0 -1" unit_id="301210"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -2800 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="25 7200 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_208" position="3000 -2800 300" rotation="0 0 0 -1" unit_id="301211"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -3200 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="25 6800 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_209" position="3000 -3200 300" rotation="0 0 0 -1" unit_id="301212"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -3600 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="25 6400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_210" position="3000 -3600 300" rotation="0 0 0 -1" unit_id="301213"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -4000 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="25 6000 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_181" position="3000 -4000 300" rotation="0 0 0 -1" unit_id="301214"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -4400 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="25 5600 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_182" position="3000 -4400 300" rotation="0 0 0 -1" unit_id="301215"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -4800 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="25 5200 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_240" position="3000 -4800 300" rotation="0 0 0 -1" unit_id="301216"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -5200 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="25 4800 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_241" position="3000 -5200 300" rotation="0 0 0 -1" unit_id="301217"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3375 -5600 400" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="400 4400 100" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_492" position="3375 -5600 400" rotation="0 0 0 -1" unit_id="301218"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3375 -6000 400" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_493" position="3375 -6000 400" rotation="0 0 0 -1" unit_id="301219"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3375 -6400 400" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="400 3600 100" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_494" position="3375 -6400 400" rotation="0 0 0 -1" unit_id="301220"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3375 -6800 400" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="400 3200 100" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_495" position="3375 -6800 400" rotation="0 0 0 -1" unit_id="301221"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -6775 400" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="25 3225 100" local_rot="0 0 -0.707107 0.707107" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_496" position="3000 -6775 400" rotation="0 0 0.707107 -0.707107" unit_id="301222"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -6800 400" _prev_rot="0 0 -0.707107 -0.707107" continent="mkp_int" local_pos="25 3200 100" local_rot="0 0 0.707107 0.707107" name="units/payday2/architecture/mkp/mkp_int_wall_1m_a" name_id="mkp_int_wall_1m_a_057" position="3000 -6800 400" rotation="0 0 -0.707107 -0.707107" unit_id="301223"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -7600 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="25 2400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_231" position="3000 -7600 300" rotation="0 0 0 -1" unit_id="301224"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -7200 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="25 2800 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_232" position="3000 -7200 300" rotation="0 0 0 -1" unit_id="301225"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -8000 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="25 2000 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_233" position="3000 -8000 300" rotation="0 0 0 -1" unit_id="301226"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -8400 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="25 1600 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_234" position="3000 -8400 300" rotation="0 0 0 -1" unit_id="301227"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -8800 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="25 1200 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_211" position="3000 -8800 300" rotation="0 0 0 -1" unit_id="301228"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -9200 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="25 800 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_212" position="3000 -9200 300" rotation="0 0 0 -1" unit_id="301229"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -9600 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="25 400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_287" position="3000 -9600 300" rotation="0 0 0 -1" unit_id="301230"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3000 -10000 300" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="25 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_288" position="3000 -10000 300" rotation="0 0 0 -1" unit_id="301231"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2375 -6100 400" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_497" position="2400 -6100 400" rotation="0 0 0 -1" unit_id="301232"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2400 -6800 400" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_498" position="2400 -6700 400" rotation="0 0 0 -1" unit_id="301233"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2400 -6800 100" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_1m_a" name_id="mkp_int_wall_1m_a_058" position="2400 -6800 400" rotation="0 0 0 -1" unit_id="301234"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2900 -5600 400" _prev_rot="0 0 -0.707107 -0.707107" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_1m_a" name_id="mkp_int_wall_1m_a_059" position="2900 -5625 400" rotation="0 0 -0.707107 -0.707107" unit_id="301235"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2900 -5625 400" _prev_rot="0 0 -0.707107 -0.707107" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_1m_a" name_id="mkp_int_wall_1m_a_060" position="3000 -5625 400" rotation="0 0 -0.707107 -0.707107" unit_id="301236"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2400 -5600 400" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_499" position="3000 -5200 400" rotation="0 0 0.707107 -0.707107" unit_id="301237"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 -2000 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_500" position="400 -2000 300" rotation="0 0 0.707107 -0.707107" unit_id="301238"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1000 -2000 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 600 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_501" position="1000 -2000 300" rotation="0 0 0.707107 -0.707107" unit_id="301239"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 -2000 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_502" position="800 -2000 300" rotation="0 0 0.707107 -0.707107" unit_id="301240"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2850 -2100 100" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_ext_wall_8m_a" name_id="mkp_ext_wall_8m_a_193" position="2850 -2100 100" rotation="0 0 1 -0" unit_id="301241"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2850 -2100 400" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="0 0 300" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_ext_wall_8m_a" name_id="mkp_ext_wall_8m_a_194" position="2850 -2100 400" rotation="0 0 1 0" unit_id="301242"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2850 -2900 400" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="0 800 300" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_ext_wall_8m_a" name_id="mkp_ext_wall_8m_a_195" position="2850 -2900 400" rotation="0 0 1 0" unit_id="301243"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2850 -2900 100" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="0 800 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_ext_wall_8m_a" name_id="mkp_ext_wall_8m_a_196" position="2850 -2900 100" rotation="0 0 1 0" unit_id="301244"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2900 -2925 100" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="-50 800 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_ext_wall_8m_a" name_id="mkp_ext_wall_8m_a_197" position="2900 -2900 100" rotation="0 0 1 0" unit_id="301245"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2900 -2925 400" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="-50 800 300" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_ext_wall_8m_a" name_id="mkp_ext_wall_8m_a_198" position="2900 -2900 400" rotation="0 0 1 0" unit_id="301246"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2900 -2125 400" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="-50 0 300" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_ext_wall_8m_a" name_id="mkp_ext_wall_8m_a_199" position="2900 -2100 400" rotation="0 0 1 0" unit_id="301247"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2900 -2125 100" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="-50 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_ext_wall_8m_a" name_id="mkp_ext_wall_8m_a_200" position="2900 -2100 100" rotation="0 0 1 0" unit_id="301248"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2850 -7225 100" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_ext_wall_8m_a" name_id="mkp_ext_wall_8m_a_201" position="2850 -6900 100" rotation="0 0 1 -0" unit_id="301249"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2850 -7225 400" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="0 0 300" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_ext_wall_8m_a" name_id="mkp_ext_wall_8m_a_202" position="2850 -6900 400" rotation="0 0 1 -0" unit_id="301250"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2850 -8025 100" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="0 800 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_ext_wall_8m_a" name_id="mkp_ext_wall_8m_a_203" position="2850 -7700 100" rotation="0 0 1 -0" unit_id="301251"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2850 -8025 400" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="0 800 300" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_ext_wall_8m_a" name_id="mkp_ext_wall_8m_a_204" position="2850 -7700 400" rotation="0 0 1 -0" unit_id="301252"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2875 -6900 100" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_ext_wall_8m_a" name_id="mkp_ext_wall_8m_a_205" position="2900 -6900 100" rotation="0 0 1 -0" unit_id="301253"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2875 -6900 400" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="0 0 300" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_ext_wall_8m_a" name_id="mkp_ext_wall_8m_a_206" position="2900 -6900 400" rotation="0 0 1 -0" unit_id="301254"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2875 -7700 100" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="0 800 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_ext_wall_8m_a" name_id="mkp_ext_wall_8m_a_207" position="2900 -7700 100" rotation="0 0 1 -0" unit_id="301255"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2875 -7700 400" _prev_rot="0 0 1 -0" continent="mkp_int" local_pos="0 800 300" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_ext_wall_8m_a" name_id="mkp_ext_wall_8m_a_208" position="2900 -7700 400" rotation="0 0 1 -0" unit_id="301256"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9075 -550 25" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" disable_on_ai_graph="true" local_pos="-75 -25 -75" local_rot="0 0 0.707107 0.707107" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_027" position="9075 0 25" rotation="0 0 0.707107 -0.707107" unit_id="301257">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 0 0" font_size="6.58049" render_template="diffuse_vc_decal" text="ENEMY SPAWN" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-675 -5500 25" _prev_rot="0 0 -0.707107 -0.707107" continent="mkp_int" disable_on_ai_graph="true" local_pos="-75 -25 -75" local_rot="0 0 0.707107 0.707107" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_028" position="-675 -5750 25" rotation="0 0 -0.707107 -0.707107" unit_id="301258">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 0 0" font_size="6.58049" render_template="diffuse_vc_decal" text="ENEMY SPAWN" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="7400 -5200 300" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_503" position="7800 -5200 300" rotation="0 0 0.707107 -0.707107" unit_id="301259"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3775 1075 25" _prev_rot="0 0 0 -1" continent="mkp_int" disable_on_ai_graph="true" local_pos="-75 -25 -75" local_rot="0 0 0.707107 0.707107" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_029" position="7050 1075 25" rotation="0 0 0 -1" unit_id="301260">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 0 0" font_size="6.58049" render_template="diffuse_vc_decal" text="ENEMY SPAWN" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
 		</table>
 	</statics>
 	<values>
