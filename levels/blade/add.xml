@@ -236,13 +236,8 @@
 	</add>
 	<add from_db="true" path="units/payday2/characters/civ_male_casual_1/civ_male_casual_1" type="unit">
 		<unit path="units/payday2/characters/civ_male_casual_1/civ_male_casual_1"/>
-		<animation_state_machine path="anims/units/enemies/cop/cop_machine"/>
 		<animation_states path="anims/units/enemies/cop/std"/>
 		<animation_states path="anims/units/enemies/cop/civilian"/>
-		<object path="units/payday2/characters/civ_male_casual_1/civ_male_casual_1"/>
-		<material_config path="units/payday2/characters/civ_male_casual_1/civ_male_casual_1"/>
-		<sequence_manager path="units/payday2/characters/ragdoll"/>
-		<animation_def path="anims/units/enemies/cop/cop_def"/>
 		<animation_subset path="anims/units/enemies/cop/std"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
@@ -260,7 +255,52 @@
 		<animation_subset path="anims/units/enemies/cop/hostile_bow"/>
 		<animation_subset path="anims/units/enemies/cop/combat_bow"/>
 		<animation_subset path="anims/units/enemies/cop/combat_bullpup"/>
-		<bnk path="soundbanks/regular_vox"/>
 		<unit load="true" path="units/payday2/characters/civ_male_casual_1/civ_male_casual_1_husk"/>
+		<animation_def path="anims/units/enemies/cop/cop_def"/>
+		<animation_state_machine path="anims/units/enemies/cop/cop_machine"/>
+		<bnk path="soundbanks/regular_vox"/>
+		<material_config path="units/payday2/characters/civ_male_casual_1/civ_male_casual_1"/>
+		<object path="units/payday2/characters/civ_male_casual_1/civ_male_casual_1"/>
+		<sequence_manager path="units/payday2/characters/ragdoll"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_ext_wall_4m_a" type="unit">
+		<material_config path="units/payday2/architecture/mkp/mkp"/>
+		<object path="units/payday2/architecture/mkp/mkp_ext_wall_4m_a"/>
+		<unit path="units/payday2/architecture/mkp/mkp_ext_wall_4m_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_b" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_railing"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_b"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_b"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_b_v2" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_railing_v2"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_b_v2"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_b_v2"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_a_v2" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_railing_v2"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_a_v2"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_a_v2"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_a" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_railing"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_a"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_c" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_railing"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_c"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_c"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_c_base" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_railing"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_c_base"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_c_base"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_c_base_half" type="unit">
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_c_base_half"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_c_base_half"/>
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_railing"/>
 	</add>
 </table>
