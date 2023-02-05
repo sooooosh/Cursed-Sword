@@ -223,12 +223,6 @@
 		<object path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m"/>
 		<unit path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m"/>
 	</add>
-	<add from_db="true" path="units/payday2/props/gen_prop_car_goal_marker/gen_prop_car_goal_marker_11x5" type="unit">
-		<material_config path="units/payday2/props/gen_prop_car_goal_marker/gen_prop_car_goal_marker"/>
-		<object path="units/payday2/props/gen_prop_car_goal_marker/gen_prop_car_goal_marker_11x5"/>
-		<sequence_manager path="units/payday2/props/gen_prop_car_goal_marker/gen_prop_car_goal_marker"/>
-		<unit path="units/payday2/props/gen_prop_car_goal_marker/gen_prop_car_goal_marker_11x5"/>
-	</add>
 	<add from_db="true" path="units/test/jocke/plane_black_temp" type="unit">
 		<material_config path="units/test/jocke/plane_black_temp"/>
 		<object path="units/test/jocke/plane_black_temp"/>
@@ -299,8 +293,47 @@
 		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_c_base"/>
 	</add>
 	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_c_base_half" type="unit">
-		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_c_base_half"/>
-		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_c_base_half"/>
 		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_railing"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_c_base_half"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_c_base_half"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_rooftop_ladder_a/ind_prop_rooftop_ladder_a_red_bottom" type="unit">
+		<material_config path="units/payday2/props/ind_prop_rooftop_ladder_a/ind_prop_rooftop_ladder_a_red"/>
+		<object path="units/payday2/props/ind_prop_rooftop_ladder_a/ind_prop_rooftop_ladder_a_red_bottom"/>
+		<unit path="units/payday2/props/ind_prop_rooftop_ladder_a/ind_prop_rooftop_ladder_a_red_bottom"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_rooftop_ladder_a/ind_prop_rooftop_ladder_a_red_top" type="unit">
+		<material_config path="units/payday2/props/ind_prop_rooftop_ladder_a/ind_prop_rooftop_ladder_a_red"/>
+		<object path="units/payday2/props/ind_prop_rooftop_ladder_a/ind_prop_rooftop_ladder_a_red_top"/>
+		<unit path="units/payday2/props/ind_prop_rooftop_ladder_a/ind_prop_rooftop_ladder_a_red_top"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/dev_ladder/dev_ladder" type="unit">
+		<material_config path="units/dev_tools/dev_ladder/dev_ladder"/>
+		<object path="units/dev_tools/dev_ladder/dev_ladder"/>
+		<sequence_manager path="units/dev_tools/dev_ladder/dev_ladder"/>
+		<unit path="units/dev_tools/dev_ladder/dev_ladder"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/bnk/bnk_railing_2m" type="unit">
+		<material_config path="units/payday2/architecture/bnk/bnk_int"/>
+		<object path="units/payday2/architecture/bnk/bnk_railing_2m"/>
+		<unit path="units/payday2/architecture/bnk/bnk_railing_2m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/com_int_gallery/com_int_gallery_lobby_glass_4m" type="unit">
+		<material_config path="units/payday2/architecture/com_int_gallery/com_int_gallery_lobby_glass"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
+		<effect load="true" path="effects/payday2/particles/window/mallcrasher_window_large"/>
+		<object path="units/payday2/architecture/com_int_gallery/com_int_gallery_lobby_glass_4m"/>
+		<sequence_manager path="units/payday2/architecture/com_int_gallery/com_int_gallery_lobby_glass_4m"/>
+		<unit path="units/payday2/architecture/com_int_gallery/com_int_gallery_lobby_glass_4m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/air_int_terminal/air_terminal_pieces_ceiling_beam_2m" type="unit">
+		<material_config path="units/payday2/architecture/air_ext_terminal/air_ext_terminal"/>
+		<object path="units/payday2/architecture/air_int_terminal/air_terminal_pieces_ceiling_beam_2m"/>
+		<unit path="units/payday2/architecture/air_int_terminal/air_terminal_pieces_ceiling_beam_2m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_beam_big_2m" type="unit">
+		<unit path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_beam_big_2m"/>
+		<object path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_beam_big_2m"/>
+		<material_config path="units/payday2/architecture/ind/ind_v2"/>
 	</add>
 </table>

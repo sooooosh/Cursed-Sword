@@ -1,9 +1,9 @@
 <table>
-	<editor_only base_id="200000" editor_only="true" name="editor_only"/>
+	<editor_only base_id="200000" editor_only="true" enabled_in_simulation="false" name="editor_only" visible="true"/>
 	<mkp_ext base_id="400000" enabled_in_simulation="true" name="mkp_ext" visible="true"/>
 	<mkp_int base_id="300000" enabled_in_simulation="true" name="mkp_int" visible="true"/>
 	<mkp_props base_id="700000" enabled_in_simulation="true" name="mkp_props" visible="true"/>
-	<mkp_roof base_id="600000" editor_only="false" enabled_in_simulation="true" name="mkp_roof" visible="false"/>
+	<mkp_roof base_id="600000" editor_only="false" enabled_in_simulation="true" name="mkp_roof" visible="true"/>
 	<nav base_id="500000" editor_only="true" enabled_in_simulation="true" name="nav"/>
 	<world base_id="100000" editor_only="false" name="world" visible="true"/>
 </table>
