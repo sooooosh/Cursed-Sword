@@ -12,8 +12,8 @@
 		<value_node value="450 -475 100"/>
 		<value_node value="450 550 0"/>
 		<value_node value="725 -25 100"/>
-		<value_node value="725 -175 100"/>
 		<value_node value="575 -475 100"/>
+		<value_node value="725 -175 100"/>
 		<value_node value="700 -325 100"/>
 		<value_node value="650 475 0"/>
 		<value_node value="0 -825 0"/>
@@ -89,8 +89,8 @@
 		<value_node value="575 -2125 514"/>
 		<value_node value="1400 -1700 514"/>
 		<value_node value="325 -2250 0"/>
-		<value_node value="1975 -1125 100"/>
 		<value_node value="475 -2225 0"/>
+		<value_node value="1975 -1125 100"/>
 		<value_node value="2200 625 0"/>
 		<value_node value="2300 -100 100"/>
 		<value_node value="2250 500 0"/>
@@ -808,8 +808,8 @@
 		<value_node value="-45"/>
 		<value_node value="-34"/>
 		<value_node value="104"/>
-		<value_node value="90"/>
 		<value_node value="0"/>
+		<value_node value="90"/>
 		<value_node value="90"/>
 		<value_node value="90"/>
 		<value_node value="-143"/>
@@ -885,8 +885,8 @@
 		<value_node value="-94"/>
 		<value_node value="0"/>
 		<value_node value="-45"/>
-		<value_node value="180"/>
 		<value_node value="27"/>
+		<value_node value="180"/>
 		<value_node value="162"/>
 		<value_node value="-45"/>
 		<value_node value="90"/>
