@@ -1,0 +1,89 @@
+<table directory="assets">
+	<add from_db="true" path="units/payday2/props/gen_prop_container/gen_prop_container" type="unit">
+		<unit path="units/payday2/props/gen_prop_container/gen_prop_container"/>
+		<object path="units/payday2/props/gen_prop_container/gen_prop_container"/>
+		<material_config path="units/payday2/props/gen_prop_container/gen_prop_container_1"/>
+		<unit path="units/payday2/props/ind_prop_dock_box/ind_prop_dock_box_wall_open_1"/>
+		<object path="units/payday2/props/ind_prop_dock_box/ind_prop_dock_box_wall_open_1"/>
+		<material_config path="units/payday2/props/ind_prop_dock_box/ind_prop_dock_box_wall_open_1"/>
+		<unit path="units/payday2/props/ind_prop_dock_box/ind_prop_dock_box_wall_open_2"/>
+		<object path="units/payday2/props/ind_prop_dock_box/ind_prop_dock_box_wall_open_2"/>
+		<material_config path="units/payday2/props/ind_prop_dock_box/ind_prop_dock_box_wall_open_2"/>
+		<unit path="units/payday2/props/ind_prop_dock_box/ind_prop_dock_box_wall_open_3"/>
+		<object path="units/payday2/props/ind_prop_dock_box/ind_prop_dock_box_wall_open_3"/>
+		<material_config path="units/payday2/props/ind_prop_dock_box/ind_prop_dock_box_wall_open_3"/>
+		<unit path="units/payday2/props/ind_prop_dock_box/ind_prop_dock_box_wall_open_4"/>
+		<object path="units/payday2/props/ind_prop_dock_box/ind_prop_dock_box_wall_open_4"/>
+		<material_config path="units/payday2/props/ind_prop_dock_box/ind_prop_dock_box_wall_open_4"/>
+		<unit path="units/payday2/props/ind_prop_dock_box/ind_prop_dock_box_wall_open"/>
+		<object path="units/payday2/props/ind_prop_dock_box/ind_prop_dock_box_wall_open"/>
+		<material_config path="units/payday2/props/ind_prop_dock_box/ind_prop_dock_box_wall_open"/>
+		<sequence_manager path="units/payday2/props/gen_prop_container/gen_prop_container"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" type="unit">
+		<material_config path="units/payday2/architecture/mkp/mkp" unload="true"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" unload="true"/>
+		<unit path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" unload="true"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_sand/props/sand_interactable_container_lock/sand_interactable_container_lock" type="unit">
+		<material_config path="units/pd2_dlc_sand/props/sand_interactable_container_lock/sand_interactable_container_lock"/>
+		<object path="units/pd2_dlc_sand/props/sand_interactable_container_lock/sand_interactable_container_lock"/>
+		<sequence_manager path="units/pd2_dlc_sand/props/sand_interactable_container_lock/sand_interactable_container_lock"/>
+		<unit path="units/pd2_dlc_sand/props/sand_interactable_container_lock/sand_interactable_container_lock"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_chill/props/chl_prop_timer_small/chl_prop_timer_small" type="unit">
+		<font path="fonts/font_digital"/>
+		<material_config path="units/pd2_dlc_chill/props/chl_prop_timer_small/chl_prop_timer_small"/>
+		<object path="units/pd2_dlc_chill/props/chl_prop_timer_small/chl_prop_timer_small"/>
+		<sequence_manager path="units/pd2_dlc_chill/props/chl_prop_timer_small/chl_prop_timer_small"/>
+		<unit path="units/pd2_dlc_chill/props/chl_prop_timer_small/chl_prop_timer_small"/>
+	</add>
+	<add from_db="true" path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" type="unit">
+		<font path="fonts/font_digital"/>
+		<material_config path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer"/>
+		<object path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer"/>
+		<sequence_manager path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer"/>
+		<unit path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer"/>
+	</add>
+	<add from_db="true" path="effects/payday2/particles/electric/emp_sparks" type="effect">
+		<effect load="true" path="effects/payday2/particles/electric/emp_sparks"/>
+		<effect load="true" path="effects/payday2/particles/electric/electric_sparks_small"/>
+	</add>
+	<add from_db="true" path="effects/payday2/particles/electric/electric_sparks_small" type="effect">
+		<effect load="true" path="effects/payday2/particles/electric/electric_sparks_small"/>
+	</add>
+	<add from_db="true" path="effects/payday2/particles/electric/electric_sparks_turret" type="effect">
+		<effect load="true" path="effects/payday2/particles/electric/electric_sparks_turret"/>
+	</add>
+	<add from_db="true" path="effects/payday2/particles/electric/electric_sparks_turret_dead" type="effect">
+		<effect load="true" path="effects/payday2/particles/electric/electric_sparks_turret_dead"/>
+	</add>
+	<add from_db="true" path="effects/particles/explosions/electric_grenade" type="effect">
+		<effect load="true" path="effects/particles/explosions/electric_grenade"/>
+	</add>
+	<add from_db="true" path="effects/payday2/particles/electric/electric_sparks_break" type="effect">
+		<effect load="true" path="effects/payday2/particles/electric/electric_sparks_break"/>
+	</add>
+	<add from_db="true" path="effects/payday2/particles/electric/electric_sparks_cable" type="effect">
+		<effect load="true" path="effects/payday2/particles/electric/electric_sparks_cable"/>
+		<effect load="true" path="effects/payday2/particles/electric/electric_sparks_small"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/equipment/gen_interactable_spawn_contraband_crate_2x1x1m/gen_interactable_spawn_contraband_crate_2x1x1m" type="unit">
+		<material_config path="units/pd2_dlc1/equipment/gen_interactable_spawn_contraband_crate_2x1x1m/gen_interactable_spawn_contraband_crate_2x1x1m"/>
+		<object path="units/pd2_dlc1/equipment/gen_interactable_spawn_contraband_crate_2x1x1m/gen_interactable_spawn_contraband_crate_2x1x1m"/>
+		<sequence_manager path="units/pd2_dlc1/equipment/gen_interactable_spawn_contraband_crate_2x1x1m/gen_interactable_spawn_contraband_crate_2x1x1m"/>
+		<unit path="units/pd2_dlc1/equipment/gen_interactable_spawn_contraband_crate_2x1x1m/gen_interactable_spawn_contraband_crate_2x1x1m"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_des/props/des_prop_ray_battery/des_prop_ray_battery" type="unit">
+		<material_config path="units/pd2_dlc_des/props/des_prop_ray_battery/des_prop_ray_battery"/>
+		<object path="units/pd2_dlc_des/props/des_prop_ray_battery/des_prop_ray_battery"/>
+		<sequence_manager path="units/pd2_dlc_des/props/des_prop_ray_battery/des_prop_ray_battery"/>
+		<unit path="units/pd2_dlc_des/props/des_prop_ray_battery/des_prop_ray_battery"/>
+	</add>
+	<add from_db="true" path="units/payday2/pickups/gen_pku_crowbar/gen_pku_crowbar" type="unit">
+		<unit path="units/payday2/pickups/gen_pku_crowbar/gen_pku_crowbar"/>
+		<object path="units/payday2/pickups/gen_pku_crowbar/gen_pku_crowbar"/>
+		<material_config path="units/payday2/pickups/gen_pku_crowbar/gen_pku_crowbar"/>
+		<sequence_manager path="units/payday2/pickups/gen_pku_crowbar/gen_pku_crowbar"/>
+	</add>
+</table>

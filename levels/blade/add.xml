@@ -341,4 +341,133 @@
 		<object path="units/payday2/architecture/mkp/mkp_int_wall_1x1m_a_trim"/>
 		<unit path="units/payday2/architecture/mkp/mkp_int_wall_1x1m_a_trim"/>
 	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_locker" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_locker"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_locker"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_locker"/>
+	</add>
+	<add from_db="true" path="units/world/props/gym/stn_prop_locker/stn_prop_locker" type="unit">
+		<material_config path="units/world/props/gym/stn_prop_locker/stn_prop_locker"/>
+		<object path="units/world/props/gym/stn_prop_locker/stn_prop_locker"/>
+		<unit path="units/world/props/gym/stn_prop_locker/stn_prop_locker"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_gallery_bench/com_prop_gallery_bench_no_back_single" type="unit">
+		<material_config path="units/payday2/props/com_prop_gallery_bench/com_prop_gallery_bench"/>
+		<object path="units/payday2/props/com_prop_gallery_bench/com_prop_gallery_bench_no_back_single"/>
+		<unit path="units/payday2/props/com_prop_gallery_bench/com_prop_gallery_bench_no_back_single"/>
+	</add>
+	<add from_db="true" path="units/world/props/gym/gym_atlas/prop_gym_bench" type="unit">
+		<material_config path="units/world/props/gym/gym_atlas/gym_atlas"/>
+		<object path="units/world/props/gym/gym_atlas/prop_gym_bench"/>
+		<unit path="units/world/props/gym/gym_atlas/prop_gym_bench"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_bench" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_locker"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_bench"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_bench"/>
+	</add>
+	<add from_db="true" path="effects/payday2/environment/cs_gas_sealing_vent" type="effect">
+		<effect load="true" path="effects/payday2/environment/cs_gas_sealing_vent"/>
+	</add>
+	<add from_db="true" path="effects/payday2/environment/gas_vent_branchbank" type="effect">
+		<effect load="true" path="effects/payday2/environment/gas_vent_branchbank"/>
+	</add>
+	<add from_db="true" path="effects/payday2/environment/gas_damage_area" type="effect">
+		<effect load="true" path="effects/payday2/environment/gas_damage_area"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_rooftop_ac_unit_a/str_bdrop_rooftop_ac_unit_a_big" type="unit">
+		<material_config path="units/payday2/props/str_prop_rooftop_ac_unit_a/str_bdrop_rooftop_ac_unit_a"/>
+		<object path="units/payday2/props/str_prop_rooftop_ac_unit_a/str_bdrop_rooftop_ac_unit_a_big"/>
+		<unit path="units/payday2/props/str_prop_rooftop_ac_unit_a/str_bdrop_rooftop_ac_unit_a_big"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_rooftop_ac_unit_a/str_prop_rooftop_ac_unit_a_single" type="unit">
+		<material_config path="units/payday2/props/str_prop_rooftop_ac_unit_a/str_prop_rooftop_ac_unit_a"/>
+		<object path="units/payday2/props/str_prop_rooftop_ac_unit_a/str_prop_rooftop_ac_unit_a_single"/>
+		<unit path="units/payday2/props/str_prop_rooftop_ac_unit_a/str_prop_rooftop_ac_unit_a_single"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/csgo_models/props/de_train/acunit1" type="unit">
+		<material_config path="units/pd2_dlc2/csgo_models/props/de_train/acunit1"/>
+		<object path="units/pd2_dlc2/csgo_models/props/de_train/acunit1"/>
+		<unit path="units/pd2_dlc2/csgo_models/props/de_train/acunit1"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/csgo_models/props/cs_assault/acunit02" type="unit">
+		<material_config path="units/pd2_dlc2/csgo_models/props/cs_assault/acunit02"/>
+		<object path="units/pd2_dlc2/csgo_models/props/cs_assault/acunit02"/>
+		<unit path="units/pd2_dlc2/csgo_models/props/cs_assault/acunit02"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/hospital/props/rooftop/acunit/acunit01" type="unit">
+		<material_config path="units/world/architecture/hospital/props/rooftop/acunit01"/>
+		<object path="units/world/architecture/hospital/props/rooftop/acunit/acunit01"/>
+		<unit path="units/world/architecture/hospital/props/rooftop/acunit/acunit01"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_small_roof_middle" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_small_roof_middle"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_small_roof_middle"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_small_roof_left" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_small_roof_left"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_small_roof_left"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_small_roof_right" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_small_roof_right"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_small_roof_right"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/gen_prop_plywood/gen_prop_plywood" type="unit">
+		<material_config path="units/payday2/props/gen_prop_plywood/gen_prop_plywood"/>
+		<object path="units/payday2/props/gen_prop_plywood/gen_prop_plywood"/>
+		<unit path="units/payday2/props/gen_prop_plywood/gen_prop_plywood"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_construction_fence_b_2_slab_4m/str_prop_construction_fence_b_2_slab_4m" type="unit">
+		<material_config path="units/payday2/props/str_prop_construction_fence_b_2_slab_4m/str_prop_construction_fence_b_2_slab_4m"/>
+		<object path="units/payday2/props/str_prop_construction_fence_b_2_slab_4m/str_prop_construction_fence_b_2_slab_4m"/>
+		<unit path="units/payday2/props/str_prop_construction_fence_b_2_slab_4m/str_prop_construction_fence_b_2_slab_4m"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/secret_stash/props/secret_stash_duct_1_a" type="unit">
+		<material_config path="units/world/architecture/secret_stash/props/secret_stash_props_rooftop_2"/>
+		<object path="units/world/architecture/secret_stash/props/secret_stash_duct_1_a"/>
+		<unit path="units/world/architecture/secret_stash/props/secret_stash_duct_1_a"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/secret_stash/props/secret_stash_duct_1_a_ceiling" type="unit">
+		<material_config path="units/world/architecture/secret_stash/props/secret_stash_props_rooftop_2"/>
+		<object path="units/world/architecture/secret_stash/props/secret_stash_duct_1_a_ceiling"/>
+		<unit path="units/world/architecture/secret_stash/props/secret_stash_duct_1_a_ceiling"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_rooftop_ac_unit_a/str_bdrop_rooftop_ac_unit_a_single" type="unit">
+		<material_config path="units/payday2/props/str_prop_rooftop_ac_unit_a/str_bdrop_rooftop_ac_unit_a"/>
+		<object path="units/payday2/props/str_prop_rooftop_ac_unit_a/str_bdrop_rooftop_ac_unit_a_single"/>
+		<unit path="units/payday2/props/str_prop_rooftop_ac_unit_a/str_bdrop_rooftop_ac_unit_a_single"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_rooftop_ac_unit_a/str_prop_rooftop_ac_unit_a_big" type="unit">
+		<material_config path="units/payday2/props/str_prop_rooftop_ac_unit_a/str_prop_rooftop_ac_unit_a"/>
+		<object path="units/payday2/props/str_prop_rooftop_ac_unit_a/str_prop_rooftop_ac_unit_a_big"/>
+		<unit path="units/payday2/props/str_prop_rooftop_ac_unit_a/str_prop_rooftop_ac_unit_a_big"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_duct_1_a_curve" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_vent"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_duct_1_a_curve"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_duct_1_a_curve"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_duct_1_b_curve" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_vent"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_duct_1_b_curve"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_duct_1_b_curve"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_duct_3_a_curve" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_vent"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_duct_3_a_curve"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_duct_3_a_curve"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_ceiling/off_prop_ceiling_duct_1_a_curve" type="unit">
+		<material_config path="units/payday2/props/off_prop_ceiling/off_prop_ceiling"/>
+		<object path="units/payday2/props/off_prop_ceiling/off_prop_ceiling_duct_1_a_curve"/>
+		<unit path="units/payday2/props/off_prop_ceiling/off_prop_ceiling_duct_1_a_curve"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_ceiling/off_prop_ceiling_duct_1_a_curve_black" type="unit">
+		<unit path="units/payday2/props/off_prop_ceiling/off_prop_ceiling_duct_1_a_curve_black"/>
+		<object path="units/payday2/props/off_prop_ceiling/off_prop_ceiling_duct_1_a_curve_black"/>
+		<material_config path="units/payday2/props/off_prop_ceiling/off_prop_ceiling"/>
+	</add>
 </table>

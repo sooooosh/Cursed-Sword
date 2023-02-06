@@ -1,7 +1,13 @@
-<table min_lib_ver="4.5" name="Cursed Sword" color="Color('455264')">
+<table color="Color('455264')" min_lib_ver="4.5" name="Cursed Sword">
+	<Package id="package_blade" file="scriptdata/package_blade.xml" unload_on_restart="true"/>
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
+	<instance id="blade_loot_container">
+		<packages>
+			<value_node value="package_blade"/>
+		</packages>
+	</instance>
 	<level ai_group_type="america" id="blade" max_bags="54">
 		<assets>
 			<asset name="ammo_bag"/>
@@ -9,7 +15,9 @@
 			<asset name="grenade_crate"/>
 			<asset name="bodybags_bag"/>
 		</assets>
-		<packages/>
+		<packages>
+			<value_node value="package_blade"/>
+		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
 				<options merge_mode="add" mode="add"/>
