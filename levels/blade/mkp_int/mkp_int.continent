@@ -1,5 +1,6 @@
 <table>
 	<editor_groups/>
+	<instances/>
 	<statics>
 		<table>
 			<unit_data _prev_pos="7600 -16000 0" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_628" position="7600 -16000 0" rotation="-0 0 -0 -1" unit_id="300000"/>
@@ -2708,7 +2709,7 @@
 			<unit_data _prev_pos="3400 -3200 100" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 -400 0" local_rot="0 0 0 1" mesh_variation="display_off" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_854" position="3800 -3200 100" rotation="0 0 0 -1" unit_id="300691"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="3400 -3600 100" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 -800 0" local_rot="0 0 0 1" mesh_variation="display_off" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_1023" position="3800 -3600 100" rotation="0 0 0 -1" unit_id="300692"/>
+			<unit_data _prev_pos="3800 -3600 100" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="display_off" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_1023" position="3800 -3600 100" rotation="0 0 0 -1" unit_id="300692"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="3400 -4000 100" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="0 -1200 0" local_rot="0 0 0 1" mesh_variation="display_off" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_1024" position="3800 -4000 100" rotation="0 0 0 -1" unit_id="300693"/>

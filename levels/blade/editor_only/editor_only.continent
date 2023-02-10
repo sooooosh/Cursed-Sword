@@ -1,5 +1,6 @@
 <table>
 	<editor_groups/>
+	<instances/>
 	<statics>
 		<table>
 			<unit_data _prev_pos="5575 -1200 600" _prev_rot="0.270598 0.270598 -0.653282 -0.653282" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_005" position="5575 -1200 600" rotation="0.270598 0.270598 -0.653282 -0.653282" unit_id="200004"/>
@@ -47,10 +48,325 @@
 			<unit_data _prev_pos="263.432 -1750 65.9001" _prev_rot="0.259155 0.259156 -0.657905 -0.657905" continent="editor_only" local_pos="-1.66744e-005 50.0002 0.000205994" local_rot="1.49012e-008 1.49012e-008 -2.98023e-008 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_015" position="263.436 -7225 65.8935" rotation="0.259155 0.259156 -0.657905 -0.657905" unit_id="200014"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2500 700 0" _prev_rot="-0 0 -0 -1" continent="editor_only" local_pos="0 -1100 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_001" position="-2500 4900 0" rotation="-0 0 -0 -1" unit_id="200015"/>
+			<unit_data _prev_pos="-2500 4900 10000" _prev_rot="0 0 -0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_001" position="-2500 4900 10000" rotation="0 0 -0 -1" unit_id="200015"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2500 1800 0" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_002" position="-2500 6000 0" rotation="0 0 0 -1" unit_id="200016"/>
+			<unit_data _prev_pos="-2500 6000 10000" _prev_rot="-0 0 -0 -1" continent="editor_only" local_pos="475 -450 -2.5" local_rot="0 0 1 -4.37114e-008" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_002" position="-2500 6000 10000" rotation="-0 0 -0 -1" unit_id="200016"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3600 6000 10000" _prev_rot="0 0 -0 -1" continent="editor_only" local_pos="-1100 0 0" local_rot="-0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_003" position="-3600 6000 10000" rotation="0 0 -0 -1" unit_id="200017"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1400 6000 10000" _prev_rot="0 0 -0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_004" position="-1400 6000 10000" rotation="0 0 -0 -1" unit_id="200018"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-425 5650 10002.5" _prev_rot="-3.09086e-008 0.707107 -0.707107 3.09086e-008" continent="editor_only" local_pos="100 -50 0" local_rot="3.09086e-008 -0.707107 0.707107 -3.09086e-008" mesh_variation="" name="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" name_id="gen_prop_security_timer_002" position="-550 5575 10002.5" rotation="-3.09086e-008 0.707107 -0.707107 3.09086e-008" unit_id="200019"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-525 5650 10002.5" _prev_rot="-3.09086e-008 0.707107 -0.707107 3.09086e-008" continent="editor_only" local_pos="0 -50 0" local_rot="3.09086e-008 -0.707107 0.707107 -3.09086e-008" mesh_variation="" name="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" name_id="gen_prop_security_timer_003" position="-650 5575 10002.5" rotation="-3.09086e-008 0.707107 -0.707107 3.09086e-008" unit_id="200020"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-925 5550 10002.5" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_010" position="-925 5550 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200021">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="5" render_template="diffuse_vc_decal" text="randomize container" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2025 5550 10002.5" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_008" position="-2025 5550 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200022">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="5" render_template="diffuse_vc_decal" text="-" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3125 5550 10002.5" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_009" position="-3125 5550 10002.5" rotation="0 0 1 4.37114e-008" unit_id="200023">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="5" render_template="diffuse_vc_decal" text="objectives" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2025 4450 10002.5" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_004" position="-2025 4450 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200024">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="5" render_template="diffuse_vc_decal" text="startup" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-575 5625 10002.5" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="-50 -75 0" local_rot="0 0 -1 -4.37114e-008" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_011" position="-700 5550 10002.5" rotation="0 0 1 4.37114e-008" unit_id="200025">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 0 0" font_size="1" render_template="diffuse_vc_decal" text="1 - red" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-575 5650 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="-50 -50 0" local_rot="0 0 -1 4.37114e-008" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_013" position="-700 5575 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200026">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 0" font_size="1" render_template="diffuse_vc_decal" text="2 - yellow" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-575 5675 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="-50 -25 0" local_rot="0 0 -1 4.37114e-008" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_029" position="-700 5600 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200027">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="0 1 0" font_size="1" render_template="diffuse_vc_decal" text="3 - green" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-575 5700 10002.5" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="-50 0 0" local_rot="0 0 -1 -4.37114e-008" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_030" position="-700 5625 10002.5" rotation="0 0 1 4.37114e-008" unit_id="200028">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="1" render_template="diffuse_vc_decal" text="4 - white" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-575 5725 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="-50 25 0" local_rot="0 0 -1 4.37114e-008" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_031" position="-700 5650 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200029">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="0 0.2 1" font_size="1" render_template="diffuse_vc_decal" text="5 - blue" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-746 1697 172.656" _prev_rot="-0.707107 0 0 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_032" position="-745 1697 172.656" rotation="-0.707107 0 0 -0.707107" unit_id="200030">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="0.92" render_template="diffuse_vc_decal" text="container" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-625 1696 172.656" _prev_rot="-0.707107 0 0 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_033" position="-625 1696 172.656" rotation="-0.707107 0 0 -0.707107" unit_id="200031">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="0.92" render_template="diffuse_vc_decal" text="go loud" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-525 1696 172.656" _prev_rot="-0.707107 0 0 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_034" position="-525 1696 172.656" rotation="-0.707107 0 0 -0.707107" unit_id="200032">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="0.92" render_template="diffuse_vc_decal" text="re-randomize container" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-403 1696 172.656" _prev_rot="-0.707107 0 0 -0.707107" continent="editor_only" local_pos="225 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_035" position="-400 1696 172.656" rotation="-0.707107 0 0 -0.707107" unit_id="200033">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="0.92" render_template="diffuse_vc_decal" text="match containers" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-525 1696 172.656" _prev_rot="-0.707107 0 0 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_036" position="-725 1696 297.656" rotation="-0.707107 0 0 -0.707107" unit_id="200034">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="1.78723" render_template="diffuse_vc_decal" text="debug wall" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-300 1696 172.656" _prev_rot="-0.707107 0 0 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_037" position="-325 1696 197.656" rotation="-0.707107 0 0 -0.707107" unit_id="200035">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="0.92" render_template="diffuse_vc_decal" text="randomize false containers" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1400 4900 10000" _prev_rot="0 0 -0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_005" position="-1400 4900 10000" rotation="0 0 -0 -1" unit_id="200036"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-925 4450 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_038" position="-925 4450 10002.5" rotation="0 0 1 4.37114e-008" unit_id="200037">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="5" render_template="diffuse_vc_decal" text="instances" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="1705.64 -753.68 100" _prev_rot="0 0 0.945519 -0.325568" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="container_location_01" position="1705.64 -753.68 100" rotation="0 0 0.945519 -0.325568" unit_id="200038"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3055.64 -128.683 100" _prev_rot="0 0 0.71934 -0.694659" continent="editor_only" local_pos="-1448.6 338.639 0" local_rot="0 0 0.422618 0.906308" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="container_location_02" position="3055.64 -128.683 100" rotation="0 0 0.71934 -0.694659" unit_id="200039"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3511.35 -1578.63 100" _prev_rot="0 0 -0.694658 -0.71934" continent="editor_only" local_pos="-915.03 1761.78 0" local_rot="0 0 0.906308 -0.422618" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="container_location_03" position="3511.35 -1578.63 100" rotation="0 0 -0.694658 -0.71934" unit_id="200040"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1937 -3570 100" _prev_rot="0 0 0.999657 0.0261767" continent="editor_only" local_pos="1551.58 2361.73 0" local_rot="0 0 -0.350207 0.936672" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="container_location_04" position="1937 -3570 100" rotation="0 0 0.999657 0.0261767" unit_id="200041"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="4950 -3375 100" _prev_rot="0 0 0.45399 -0.891007" continent="editor_only" local_pos="-942.747 4063.06 0" local_rot="0 0 0.694658 0.71934" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="container_location_05" position="4950 -3375 100" rotation="0 0 0.45399 -0.891007" unit_id="200042"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2475 -4850 100" _prev_rot="0 0 -0.622515 -0.782608" continent="editor_only" local_pos="1915.68 3701.61 0" local_rot="0 0 0.942641 -0.333808" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="container_location_06" position="2475 -4850 100" rotation="0 0 -0.622515 -0.782608" unit_id="200043"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3910.44 -6419.27 100" _prev_rot="0 0 0.0610482 -0.998135" continent="editor_only" local_pos="1750.68 5821.96 0" local_rot="0 0 0.92388 0.382683" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="container_location_07" position="3910.44 -6419.27 100" rotation="0 0 0.0610482 -0.998135" unit_id="200044"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2169.44 -7246.27 100" _prev_rot="0 0 -0.649448 -0.760406" continent="editor_only" local_pos="3631.76 5401.78 0" local_rot="0 0 0.930418 -0.366501" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="container_location_08" position="2169.44 -7246.27 100" rotation="0 0 -0.649448 -0.760406" unit_id="200045"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3010.63 -8708.02 100" _prev_rot="0 0 0.694658 -0.71934" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="container_location_09" position="3010.63 -8708.02 100" rotation="0 0 0.694658 -0.71934" unit_id="200046"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5404.23 -8481.14 100" _prev_rot="0 0 0.999657 -0.0261772" continent="editor_only" local_pos="1842.97 8366.4 0" local_rot="0 0 -0.300706 0.953717" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="container_location_10" position="5404.23 -8481.14 100" rotation="0 0 0.999657 -0.0261772" unit_id="200047"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3125 5700 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="50 -50 0" local_rot="0 0 -1 4.37114e-008" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_039" position="-3125 5700 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200048">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="1.49963" render_template="diffuse_vc_decal" text="enter warehouse" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3300 5700 10002.5" _prev_rot="0 0 -0.707107 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_040" position="-3300 5700 10002.5" rotation="0 0 -0.707107 -0.707107" unit_id="200049">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="1.5" render_template="diffuse_vc_decal" text="-------------------------------------------------" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3325 5700 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_041" position="-3325 5700 10002.5" rotation="0 0 1 4.37114e-008" unit_id="200050">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="1.5" render_template="diffuse_vc_decal" text="find sword" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3300 5700 10002.5" _prev_rot="0 0 -0.707107 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_042" position="-3500 5700 10002.5" rotation="0 0 -0.707107 -0.707107" unit_id="200051">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="1.5" render_template="diffuse_vc_decal" text="-------------------------------------------------" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1400 6000 10000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_006" position="-325 6000 10000" rotation="0 0 0 -1" unit_id="200052"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="150 5550 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="50 -150 0" local_rot="0 0 -1 4.37114e-008" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_043" position="1150 5550 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200053">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="5" render_template="diffuse_vc_decal" text="randomize container" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="675 6000 10000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="325 100 -2.5" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_007" position="675 6000 10000" rotation="0 0 0 -1" unit_id="200054"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-200 1696 172.656" _prev_rot="-0.707107 0 0 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_044" position="-200 1696 172.656" rotation="-0.707107 0 0 -0.707107" unit_id="200055">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="0.92" render_template="diffuse_vc_decal" text="enable hacking" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
 		</table>
 	</statics>
 	<values>

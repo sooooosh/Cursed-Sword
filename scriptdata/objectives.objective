@@ -1,1 +1,4 @@
-<table></table>
+<table>
+	<objective description="obj_blade_01_desc" id="blade_01" text="obj_blade_01"/>
+	<objective description="obj_blade_02_desc" id="blade_02" text="obj_blade_02"/>
+</table>

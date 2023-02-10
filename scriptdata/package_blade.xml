@@ -1,2 +1,3 @@
 <table directory="assets">
+	<unit from_db="true" load="true" path="units/dev_tools/mission_elements/point_interaction/interaction_dummy"/>
 </table>

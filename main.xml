@@ -1,13 +1,18 @@
 <table color="Color('455264')" min_lib_ver="4.5" name="Cursed Sword">
-	<Package id="package_blade" file="scriptdata/package_blade.xml" unload_on_restart="true"/>
-	<Localization default="english.txt" directory="loc">
-		<loc file="english.txt" language="english"/>
-	</Localization>
 	<instance id="blade_loot_container">
 		<packages>
 			<value_node value="package_blade"/>
 		</packages>
 	</instance>
+	<instance id="blade_empty_container">
+		<packages>
+			<value_node value="package_blade"/>
+		</packages>
+	</instance>
+	<Localization default="english.yaml" directory="loc">
+		<loc file="english.yaml" language="english"/>
+	</Localization>
+	<Package file="scriptdata/package_blade.xml" id="package_blade" unload_on_restart="true"/>
 	<level ai_group_type="america" id="blade" max_bags="54">
 		<assets>
 			<asset name="ammo_bag"/>
@@ -15,6 +20,9 @@
 			<asset name="grenade_crate"/>
 			<asset name="bodybags_bag"/>
 		</assets>
+		<hooks directory="hooks">
+			<hook file="tweakdata.lua" source_file="lib/tweak_data/tweakdata"/>
+		</hooks>
 		<packages>
 			<value_node value="package_blade"/>
 		</packages>

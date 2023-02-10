@@ -81,9 +81,58 @@
 		<unit path="units/pd2_dlc_des/props/des_prop_ray_battery/des_prop_ray_battery"/>
 	</add>
 	<add from_db="true" path="units/payday2/pickups/gen_pku_crowbar/gen_pku_crowbar" type="unit">
-		<unit path="units/payday2/pickups/gen_pku_crowbar/gen_pku_crowbar"/>
-		<object path="units/payday2/pickups/gen_pku_crowbar/gen_pku_crowbar"/>
 		<material_config path="units/payday2/pickups/gen_pku_crowbar/gen_pku_crowbar"/>
+		<object path="units/payday2/pickups/gen_pku_crowbar/gen_pku_crowbar"/>
 		<sequence_manager path="units/payday2/pickups/gen_pku_crowbar/gen_pku_crowbar"/>
+		<unit path="units/payday2/pickups/gen_pku_crowbar/gen_pku_crowbar"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/editable_text_long/editable_text_long" type="unit">
+		<material_config path="units/dev_tools/editable_text_long/editable_text_long"/>
+		<object path="units/dev_tools/editable_text_long/editable_text_long"/>
+		<unit path="units/dev_tools/editable_text_long/editable_text_long"/>
+	</add>
+	<add from_db="true" path="units/payday2/equipment/gen_interactable_door_keycard/gen_interactable_door_keycard_jammer" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/payday2/equipment/gen_interactable_door_keycard/gen_interactable_door_keycard_jammer"/>
+		<object path="units/payday2/equipment/gen_interactable_door_keycard/gen_interactable_door_keycard_jammer"/>
+		<sequence_manager path="units/payday2/equipment/gen_interactable_door_keycard/gen_interactable_door_keycard_jammer"/>
+		<unit path="units/payday2/equipment/gen_interactable_door_keycard/gen_interactable_door_keycard_jammer"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/gen_prop_bank_atm_standing/gen_prop_bank_atm_jammer" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/payday2/props/gen_prop_bank_atm_standing/gen_prop_bank_atm_jammer"/>
+		<object path="units/payday2/props/gen_prop_bank_atm_standing/gen_prop_bank_atm_jammer"/>
+		<sequence_manager path="units/payday2/props/gen_prop_bank_atm_standing/gen_prop_bank_atm_jammer"/>
+		<unit path="units/payday2/props/gen_prop_bank_atm_standing/gen_prop_bank_atm_jammer"/>
+	</add>
+	<add from_db="true" path="units/payday2/equipment/gen_interactable_door_keycard/item_door_keycard_jammer_double" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/payday2/equipment/gen_interactable_door_keycard/gen_interactable_door_keycard_jammer"/>
+		<object path="units/payday2/equipment/gen_interactable_door_keycard/item_door_keycard_jammer_double"/>
+		<sequence_manager path="units/payday2/equipment/gen_interactable_door_keycard/item_door_keycard_jammer_double"/>
+		<unit path="units/payday2/equipment/gen_interactable_door_keycard/item_door_keycard_jammer_double"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/bnk_prop_vault_inner_exit_device/bnk_prop_vault_inner_exit_device" type="unit">
+		<material_config path="units/payday2/props/bnk_prop_vault_inner_exit_device/bnk_prop_vault_inner_exit_device"/>
+		<object path="units/payday2/props/bnk_prop_vault_inner_exit_device/bnk_prop_vault_inner_exit_device"/>
+		<sequence_manager path="units/payday2/props/bnk_prop_vault_inner_exit_device/bnk_prop_vault_inner_exit_device"/>
+		<unit path="units/payday2/props/bnk_prop_vault_inner_exit_device/bnk_prop_vault_inner_exit_device"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_chca/equipment/chca_interactable_hack_device_casino/chca_interactable_hack_device_casino" type="unit">
+		<unit path="units/pd2_dlc_chca/equipment/chca_interactable_hack_device_casino/chca_interactable_hack_device_casino"/>
+		<object path="units/pd2_dlc_chca/equipment/chca_interactable_hack_device_casino/chca_interactable_hack_device_casino"/>
+		<material_config path="units/pd2_dlc_chca/equipment/chca_interactable_hack_device_casino/chca_interactable_hack_device_casino"/>
+		<sequence_manager path="units/pd2_dlc_chca/equipment/chca_interactable_hack_device_casino/chca_interactable_hack_device_casino"/>
+		<unit path="units/pd2_dlc_pex/props/pex_prop_hacking_device/pex_prop_hacking_device"/>
+		<object path="units/pd2_dlc_pex/props/pex_prop_hacking_device/pex_prop_hacking_device"/>
+		<material_config path="units/pd2_dlc_pex/props/pex_prop_hacking_device/pex_prop_hacking_device"/>
+		<sequence_manager path="units/pd2_dlc_pex/props/pex_prop_hacking_device/pex_prop_hacking_device"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+	</add>
+	<add from_db="true" path="units/test/jocke/oneplanetorulethemall" type="unit">
+		<unit path="units/test/jocke/oneplanetorulethemall"/>
+		<object path="units/test/jocke/oneplanetorulethemall"/>
+		<material_config path="units/test/jocke/simple_temp"/>
 	</add>
 </table>
