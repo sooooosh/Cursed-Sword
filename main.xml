@@ -1,5 +1,5 @@
 <table color="Color('455264')" min_lib_ver="4.5" name="Cursed Sword">
-	<instance id="blade_loot_container">
+	<instance id="blade_loot_container" index_size="300">
 		<packages>
 			<value_node value="package_blade"/>
 		</packages>
