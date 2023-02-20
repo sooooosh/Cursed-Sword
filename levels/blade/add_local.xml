@@ -6,20 +6,22 @@
 	<world_sounds path="world_sounds" script_data_type="generic_xml"/>
 	<world_cameras path="world_cameras" script_data_type="generic_xml"/>
 	<massunit path="massunit" reload="true"/>
-	<continent path="mkp_roof/mkp_roof" script_data_type="custom_xml"/>
-	<mission path="mkp_roof/mkp_roof" script_data_type="generic_xml"/>
-	<continent path="mkp_int/mkp_int" script_data_type="custom_xml"/>
-	<mission path="mkp_int/mkp_int" script_data_type="generic_xml"/>
+	<continent path="collisions/collisions" script_data_type="custom_xml"/>
+	<mission path="collisions/collisions" script_data_type="generic_xml"/>
+	<continent path="editor_only/editor_only" script_data_type="custom_xml"/>
+	<mission path="editor_only/editor_only" script_data_type="generic_xml"/>
 	<continent path="mkp_props/mkp_props" script_data_type="custom_xml"/>
 	<mission path="mkp_props/mkp_props" script_data_type="generic_xml"/>
 	<continent path="nav/nav" script_data_type="custom_xml"/>
 	<mission path="nav/nav" script_data_type="generic_xml"/>
+	<continent path="mkp_int/mkp_int" script_data_type="custom_xml"/>
+	<mission path="mkp_int/mkp_int" script_data_type="generic_xml"/>
 	<continent path="world/world" script_data_type="custom_xml"/>
 	<mission path="world/world" script_data_type="generic_xml"/>
 	<continent path="mkp_ext/mkp_ext" script_data_type="custom_xml"/>
 	<mission path="mkp_ext/mkp_ext" script_data_type="generic_xml"/>
-	<continent path="editor_only/editor_only" script_data_type="custom_xml"/>
-	<mission path="editor_only/editor_only" script_data_type="generic_xml"/>
+	<continent path="mkp_roof/mkp_roof" script_data_type="custom_xml"/>
+	<mission path="mkp_roof/mkp_roof" script_data_type="generic_xml"/>
 	<cover_data path="cover_data" script_data_type="custom_xml"/>
 	<environment path="environments/default" script_data_type="custom_xml"/>
 </table>

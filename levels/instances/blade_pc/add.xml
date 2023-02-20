@@ -1,0 +1,18 @@
+<table directory="assets">
+	<add from_db="true" path="units/payday2/props/gen_prop_safehouse_parcel_notes/gen_prop_safehouse_parcel_notes" type="unit">
+		<material_config path="units/payday2/props/gen_prop_safehouse_parcel_notes/gen_prop_safehouse_parcel_notes"/>
+		<object path="units/payday2/props/gen_prop_safehouse_parcel_notes/gen_prop_safehouse_parcel_notes"/>
+		<sequence_manager path="units/payday2/props/gen_prop_safehouse_parcel_notes/gen_prop_safehouse_parcel_notes"/>
+		<unit path="units/payday2/props/gen_prop_safehouse_parcel_notes/gen_prop_safehouse_parcel_notes"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" type="unit">
+		<material_config path="units/payday2/architecture/mkp/mkp" unload="true"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" unload="true"/>
+		<unit path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" unload="true"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_nmh/props/nmh_prop_digitalwalltimer01/nmh_prop_digitalwalltimer01" type="unit">
+		<unit path="units/pd2_dlc_nmh/props/nmh_prop_digitalwalltimer01/nmh_prop_digitalwalltimer01"/>
+		<object path="units/pd2_dlc_nmh/props/nmh_prop_digitalwalltimer01/nmh_prop_digitalwalltimer01"/>
+		<material_config path="units/pd2_dlc_nmh/props/nmh_prop_digitalwalltimer01/nmh_prop_digitalwalltimer01"/>
+	</add>
+</table>

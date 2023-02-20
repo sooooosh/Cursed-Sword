@@ -1,0 +1,14 @@
+<table>
+    <Interactions>
+        <interaction
+            id="blade_play_voicemail"
+            interact_distance="150"
+        />
+        <interaction
+            id="blade_temp_get_container_id"
+            interact_distance="150"
+            timer="10"
+        />
+    </Interactions>
+
+</table>

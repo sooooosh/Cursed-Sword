@@ -131,8 +131,94 @@
 		<gui path="guis/timer_gui"/>
 	</add>
 	<add from_db="true" path="units/test/jocke/oneplanetorulethemall" type="unit">
-		<unit path="units/test/jocke/oneplanetorulethemall"/>
-		<object path="units/test/jocke/oneplanetorulethemall"/>
 		<material_config path="units/test/jocke/simple_temp"/>
+		<object path="units/test/jocke/oneplanetorulethemall"/>
+		<unit path="units/test/jocke/oneplanetorulethemall"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_electrical_box" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_dock_bld_electrical_box"/>
+		<object path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_electrical_box"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_electrical_box"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_electrical_box_part" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_dock_bld_electrical_box"/>
+		<object path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_electrical_box_part"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_electrical_box_part"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_street_electric_box/str_prop_street_electric_box_hackable" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<effect load="true" path="effects/particles/dest/sparks_lamp_dest"/>
+		<material_config path="units/payday2/props/str_prop_street_electric_box/str_prop_street_electric_box_hackable"/>
+		<object path="units/payday2/props/str_prop_street_electric_box/str_prop_street_electric_box_hackable"/>
+		<sequence_manager path="units/payday2/props/str_prop_street_electric_box/str_prop_street_electric_box_hackable"/>
+		<unit path="units/payday2/props/str_prop_street_electric_box/str_prop_street_electric_box_hackable"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/csgo_models/props_street/electrical_box01" type="unit">
+		<material_config path="units/pd2_dlc2/csgo_models/props_street/electrical_box01"/>
+		<object path="units/pd2_dlc2/csgo_models/props_street/electrical_box01"/>
+		<unit path="units/pd2_dlc2/csgo_models/props_street/electrical_box01"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_flat/props/flt_prop_electric_circuit/flt_prop_int_electric_circuit" type="unit">
+		<material_config path="units/pd2_dlc_flat/props/flt_prop_electric_circuit/flt_prop_int_electric_circuit"/>
+		<object path="units/pd2_dlc_flat/props/flt_prop_electric_circuit/flt_prop_int_electric_circuit"/>
+		<unit path="units/pd2_dlc_flat/props/flt_prop_electric_circuit/flt_prop_int_electric_circuit"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_nmh/props/nmh_hospital_alarm_outlets/nmh_electrics_firealarm" type="unit">
+		<material_config path="units/pd2_dlc_nmh/props/nmh_hospital_alarm_outlets/nmh_electrics_firealarm"/>
+		<object path="units/pd2_dlc_nmh/props/nmh_hospital_alarm_outlets/nmh_electrics_firealarm"/>
+		<unit path="units/pd2_dlc_nmh/props/nmh_hospital_alarm_outlets/nmh_electrics_firealarm"/>
+	</add>
+	<add from_db="true" path="units/world/props/fixtures/fixtures_electricbox_a" type="unit">
+		<material_config path="units/world/props/fixtures/fixtures_lightswitch"/>
+		<object path="units/world/props/fixtures/fixtures_electricbox_a"/>
+		<unit path="units/world/props/fixtures/fixtures_electricbox_a"/>
+	</add>
+	<add from_db="true" path="units/world/props/hotel/elevator/electric_box" type="unit">
+		<material_config path="units/world/props/hotel/elevator/elevator_details"/>
+		<object path="units/world/props/hotel/elevator/electric_box"/>
+		<unit path="units/world/props/hotel/elevator/electric_box"/>
+	</add>
+	<add from_db="true" path="units/world/props/prop_electricboxes/prop_electricbox_1" type="unit">
+		<material_config path="units/world/props/prop_electricboxes/prop_electricbox_1"/>
+		<object path="units/world/props/prop_electricboxes/prop_electricbox_1"/>
+		<unit path="units/world/props/prop_electricboxes/prop_electricbox_1"/>
+	</add>
+	<add from_db="true" path="units/world/props/prop_electricboxes/prop_electricbox_tiny_1" type="unit">
+		<material_config path="units/world/props/prop_electricboxes/prop_electricbox_1"/>
+		<object path="units/world/props/prop_electricboxes/prop_electricbox_tiny_1"/>
+		<unit path="units/world/props/prop_electricboxes/prop_electricbox_tiny_1"/>
+	</add>
+	<add from_db="true" path="units/world/props/prop_electricboxes/prop_electricbox_tiny_2" type="unit">
+		<material_config path="units/world/props/prop_electricboxes/prop_electricbox_1"/>
+		<object path="units/world/props/prop_electricboxes/prop_electricbox_tiny_2"/>
+		<unit path="units/world/props/prop_electricboxes/prop_electricbox_tiny_2"/>
+	</add>
+	<add from_db="true" path="units/world/props/prop_electricboxes/prop_electricbox_tiny_3" type="unit">
+		<material_config path="units/world/props/prop_electricboxes/prop_electricbox_1"/>
+		<object path="units/world/props/prop_electricboxes/prop_electricbox_tiny_3"/>
+		<unit path="units/world/props/prop_electricboxes/prop_electricbox_tiny_3"/>
+	</add>
+	<add from_db="true" path="units/pd2_indiana/props/mus_prop_chivalry_weapons/mus_prop_chivalry_weapon_broadsword" type="unit">
+		<material_config path="units/pd2_indiana/props/mus_prop_chivalry_weapons/mus_prop_chivalry_weapon_broadsword"/>
+		<object path="units/pd2_indiana/props/mus_prop_chivalry_weapons/mus_prop_chivalry_weapon_broadsword"/>
+		<sequence_manager path="units/pd2_indiana/props/mus_prop_chivalry_weapons/mus_prop_chivalry_weapon_broadsword"/>
+		<unit path="units/pd2_indiana/props/mus_prop_chivalry_weapons/mus_prop_chivalry_weapon_broadsword"/>
+	</add>
+	<add from_db="true" path="units/world/props/nick/nick_diamondheist_swordy" type="unit">
+		<material_config path="units/world/props/nick/nick_diamondheist_nameplates"/>
+		<object path="units/world/props/nick/nick_diamondheist_swordy"/>
+		<unit path="units/world/props/nick/nick_diamondheist_swordy"/>
+	</add>
+	<add from_db="true" path="units/pd2_indiana/props/mus_prop_exhibit_d_sword/mus_prop_exhibit_d_sword" type="unit">
+		<material_config path="units/pd2_indiana/props/mus_prop_exhibit_d_sword/mus_prop_exhibit_d_sword"/>
+		<object path="units/pd2_indiana/props/mus_prop_exhibit_d_sword/mus_prop_exhibit_d_sword"/>
+		<sequence_manager path="units/pd2_indiana/props/mus_prop_exhibit_d_sword/mus_prop_exhibit_d_sword"/>
+		<unit path="units/pd2_indiana/props/mus_prop_exhibit_d_sword/mus_prop_exhibit_d_sword"/>
+	</add>
+	<add from_db="true" path="units/pd2_indiana/props/mus_prop_egypt_swords/mus_prop_egypt_swords" type="unit">
+		<unit path="units/pd2_indiana/props/mus_prop_egypt_swords/mus_prop_egypt_swords"/>
+		<object path="units/pd2_indiana/props/mus_prop_egypt_swords/mus_prop_egypt_swords"/>
+		<material_config path="units/pd2_indiana/props/mus_prop_egypt_swords/mus_prop_egypt_swords"/>
+		<sequence_manager path="units/pd2_indiana/props/mus_prop_egypt_swords/mus_prop_egypt_swords"/>
 	</add>
 </table>

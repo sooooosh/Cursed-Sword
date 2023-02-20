@@ -1,0 +1,11 @@
+<table>
+	<editor_groups/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="1000 -5125 525" _prev_rot="0.653282 0.653281 -0.270598 0.270598" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision/dev_collision_1x1m" name_id="dev_collision_1x1m_001" only_visible_in_editor="true" position="1000 -5125 525" rotation="-0.653281 -0.653281 0.270598 -0.270598" unit_id="800000"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

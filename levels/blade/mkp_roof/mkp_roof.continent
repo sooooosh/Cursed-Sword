@@ -78,7 +78,7 @@
 			<unit_data _prev_pos="374.999 -7050 874.999" _prev_rot="0.463904 0.53366 0.53366 -0.463904" continent="mkp_roof" local_pos="-0.00491139 -0.00784919 -7200" local_rot="-5.36442e-007 5.36442e-007 4.17233e-007 1" name="units/payday2/architecture/mkp/mkp_ext_wall_4m_a" name_id="mkp_ext_wall_4m_a_201" position="374.993 -7050 874.991" rotation="0.473147 0.525482 0.525483 -0.473147" unit_id="600024"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="374.999 -7350 874.999" _prev_rot="0.463904 0.53366 0.53366 -0.463904" continent="mkp_roof" local_pos="-0.00524689 -0.00819639 -7500" local_rot="-5.36442e-007 5.36442e-007 4.17233e-007 1" name="units/payday2/architecture/mkp/mkp_ext_wall_4m_a" name_id="mkp_ext_wall_4m_a_202" position="374.992 -7350 874.991" rotation="0.473147 0.525482 0.525483 -0.473147" unit_id="600025"/>
+			<unit_data _prev_pos="374.992 -7350 874.991" _prev_rot="0.473147 0.525482 0.525483 -0.473147" continent="mkp_roof" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_ext_wall_4m_a" name_id="mkp_ext_wall_4m_a_202" position="399.855 -7350 877.604" rotation="0.473147 0.525482 0.525483 -0.473147" unit_id="600025"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="374.999 -7650 874.999" _prev_rot="0.463904 0.53366 0.53366 -0.463904" continent="mkp_roof" local_pos="-0.00552168 -0.0085372 -7800" local_rot="-5.36442e-007 5.36442e-007 4.17233e-007 1" name="units/payday2/architecture/mkp/mkp_ext_wall_4m_a" name_id="mkp_ext_wall_4m_a_203" position="374.992 -7650 874.991" rotation="0.473147 0.525482 0.525483 -0.473147" unit_id="600026"/>
@@ -1702,6 +1702,12 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="5332.68 -4850.01 942.472" _prev_rot="-0.553387 0.440184 -0.440184 -0.553388" continent="mkp_roof" local_pos="-0.0104667 0.00635452 2000.01" local_rot="-1.49012e-008 -1.49012e-008 -1.49012e-008 1" name="units/payday2/architecture/mkp/mkp_ext_wall_4m_a" name_id="mkp_ext_wall_4m_a_540" position="5235.24 -4850.01 964.967" rotation="-0.553387 0.440184 -0.440184 -0.553388" unit_id="600576"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="374.992 -7650 874.991" _prev_rot="0.473147 0.525482 0.525483 -0.473147" continent="mkp_roof" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_ext_wall_4m_a" name_id="mkp_ext_wall_4m_a_384" position="374.992 -7550 874.991" rotation="0.473147 0.525482 0.525483 -0.473147" unit_id="600341"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="374.993 -7050 874.991" _prev_rot="0.473147 0.525482 0.525483 -0.473147" continent="mkp_roof" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_ext_wall_4m_a" name_id="mkp_ext_wall_4m_a_385" position="374.993 -7150 874.991" rotation="0.473147 0.525482 0.525483 -0.473147" unit_id="600361"/>
 		</table>
 	</statics>
 	<values>

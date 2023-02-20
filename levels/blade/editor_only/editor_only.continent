@@ -51,43 +51,13 @@
 			<unit_data _prev_pos="-2500 4900 10000" _prev_rot="0 0 -0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_001" position="-2500 4900 10000" rotation="0 0 -0 -1" unit_id="200015"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2500 6000 10000" _prev_rot="-0 0 -0 -1" continent="editor_only" local_pos="475 -450 -2.5" local_rot="0 0 1 -4.37114e-008" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_002" position="-2500 6000 10000" rotation="-0 0 -0 -1" unit_id="200016"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="-3600 6000 10000" _prev_rot="0 0 -0 -1" continent="editor_only" local_pos="-1100 0 0" local_rot="-0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_003" position="-3600 6000 10000" rotation="0 0 -0 -1" unit_id="200017"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1400 6000 10000" _prev_rot="0 0 -0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_004" position="-1400 6000 10000" rotation="0 0 -0 -1" unit_id="200018"/>
+			<unit_data _prev_pos="-2725 5575 10002.5" _prev_rot="-3.09086e-008 0.707107 -0.707107 3.09086e-008" continent="editor_only" local_pos="-150 -25 0" local_rot="0.707107 6.18172e-008 -6.18172e-008 -0.707107" mesh_variation="" name="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" name_id="gen_prop_security_timer_002" position="-2625 5575 10002.5" rotation="-3.09086e-008 0.707107 -0.707107 3.09086e-008" unit_id="200019"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-425 5650 10002.5" _prev_rot="-3.09086e-008 0.707107 -0.707107 3.09086e-008" continent="editor_only" local_pos="100 -50 0" local_rot="3.09086e-008 -0.707107 0.707107 -3.09086e-008" mesh_variation="" name="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" name_id="gen_prop_security_timer_002" position="-550 5575 10002.5" rotation="-3.09086e-008 0.707107 -0.707107 3.09086e-008" unit_id="200019"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-525 5650 10002.5" _prev_rot="-3.09086e-008 0.707107 -0.707107 3.09086e-008" continent="editor_only" local_pos="0 -50 0" local_rot="3.09086e-008 -0.707107 0.707107 -3.09086e-008" mesh_variation="" name="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" name_id="gen_prop_security_timer_003" position="-650 5575 10002.5" rotation="-3.09086e-008 0.707107 -0.707107 3.09086e-008" unit_id="200020"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-925 5550 10002.5" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_010" position="-925 5550 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200021">
-				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="5" render_template="diffuse_vc_decal" text="randomize container" vertical="center" word_wrap="false" wrap="false">
-					<shape>
-						<value_node value="0"/>
-						<value_node value="0"/>
-						<value_node value="1"/>
-						<value_node value="1"/>
-					</shape>
-				</editable_gui>
-			</unit_data>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2025 5550 10002.5" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_008" position="-2025 5550 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200022">
-				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="5" render_template="diffuse_vc_decal" text="-" vertical="center" word_wrap="false" wrap="false">
-					<shape>
-						<value_node value="0"/>
-						<value_node value="0"/>
-						<value_node value="1"/>
-						<value_node value="1"/>
-					</shape>
-				</editable_gui>
-			</unit_data>
+			<unit_data _prev_pos="-2825 5575 10002.5" _prev_rot="-3.09086e-008 0.707107 -0.707107 3.09086e-008" continent="editor_only" local_pos="-50 -25 0" local_rot="0.707107 6.18172e-008 -6.18172e-008 -0.707107" mesh_variation="" name="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" name_id="gen_prop_security_timer_003" position="-2725 5575 10002.5" rotation="-3.09086e-008 0.707107 -0.707107 3.09086e-008" unit_id="200020"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-3125 5550 10002.5" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_009" position="-3125 5550 10002.5" rotation="0 0 1 4.37114e-008" unit_id="200023">
@@ -114,7 +84,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="-575 5625 10002.5" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="-50 -75 0" local_rot="0 0 -1 -4.37114e-008" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_011" position="-700 5550 10002.5" rotation="0 0 1 4.37114e-008" unit_id="200025">
+			<unit_data _prev_pos="-2875 5550 10002.5" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_011" position="-2775 5550 10002.5" rotation="0 0 1 4.37114e-008" unit_id="200025">
 				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 0 0" font_size="1" render_template="diffuse_vc_decal" text="1 - red" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
@@ -126,7 +96,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="-575 5650 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="-50 -50 0" local_rot="0 0 -1 4.37114e-008" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_013" position="-700 5575 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200026">
+			<unit_data _prev_pos="-2875 5575 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="2.18557e-006 -25 0" local_rot="0 0 8.74228e-008 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_013" position="-2775 5575 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200026">
 				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 0" font_size="1" render_template="diffuse_vc_decal" text="2 - yellow" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
@@ -138,7 +108,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="-575 5675 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="-50 -25 0" local_rot="0 0 -1 4.37114e-008" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_029" position="-700 5600 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200027">
+			<unit_data _prev_pos="-2875 5600 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="4.37114e-006 -50 0" local_rot="0 0 8.74228e-008 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_029" position="-2775 5600 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200027">
 				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="0 1 0" font_size="1" render_template="diffuse_vc_decal" text="3 - green" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
@@ -150,7 +120,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="-575 5700 10002.5" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="-50 0 0" local_rot="0 0 -1 -4.37114e-008" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_030" position="-700 5625 10002.5" rotation="0 0 1 4.37114e-008" unit_id="200028">
+			<unit_data _prev_pos="-2875 5625 10002.5" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="6.55671e-006 -75 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_030" position="-2775 5625 10002.5" rotation="0 0 1 4.37114e-008" unit_id="200028">
 				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="1" render_template="diffuse_vc_decal" text="4 - white" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
@@ -162,7 +132,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="-575 5725 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="-50 25 0" local_rot="0 0 -1 4.37114e-008" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_031" position="-700 5650 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200029">
+			<unit_data _prev_pos="-2875 5650 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="8.74228e-006 -100 0" local_rot="0 0 8.74228e-008 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_031" position="-2775 5650 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200029">
 				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="0 0.2 1" font_size="1" render_template="diffuse_vc_decal" text="5 - blue" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
@@ -339,10 +309,10 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1400 6000 10000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_006" position="-325 6000 10000" rotation="0 0 0 -1" unit_id="200052"/>
+			<unit_data _prev_pos="-2000 6000 10000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_006" position="-1950 6000 10000" rotation="0 0 0 -1" unit_id="200052"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="150 5550 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="50 -150 0" local_rot="0 0 -1 4.37114e-008" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_043" position="1150 5550 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200053">
+			<unit_data _prev_pos="-1025 5550 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="-1850 -0.000161732 0" local_rot="0 0 8.74228e-008 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_043" position="-925 5550 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200053">
 				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="5" render_template="diffuse_vc_decal" text="randomize container" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
@@ -354,11 +324,161 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="675 6000 10000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="325 100 -2.5" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_007" position="675 6000 10000" rotation="0 0 0 -1" unit_id="200054"/>
+			<unit_data _prev_pos="-1500 6000 10000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="-1375 -450 -2.5" local_rot="0 0 1 -4.37114e-008" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_007" position="-1400 6000 10000" rotation="0 0 0 -1" unit_id="200054"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-200 1696 172.656" _prev_rot="-0.707107 0 0 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_044" position="-200 1696 172.656" rotation="-0.707107 0 0 -0.707107" unit_id="200055">
 				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="0.92" render_template="diffuse_vc_decal" text="enable hacking" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-925 6650 10002.5" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_045" position="-925 6650 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200056">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="5" render_template="diffuse_vc_decal" text="pc hack" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1500 7100 10000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="-1375 -1550 -2.5" local_rot="0 0 1 -4.37114e-008" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_008" position="-1400 7100 10000" rotation="0 0 0 -1" unit_id="200057"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3600 4900 10000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_009" position="-3600 4900 10000" rotation="0 0 0 -1" unit_id="200058"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3125 4450 10002.5" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_046" position="-3125 4450 10002.5" rotation="0 0 1 4.37114e-008" unit_id="200059">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="5" render_template="diffuse_vc_decal" text="gas vents" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="1056 -5136 503" _prev_rot="0 0 0.707107 -0.707107" continent="editor_only" disable_collision="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_047" position="1045 -5136 503" rotation="0 0 0.707107 -0.707107" unit_id="200060">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="1.40377" render_template="diffuse_vc_decal" text="needs custom vent unit with fitting animation" vertical="center" word_wrap="true" wrap="true">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="0.12201"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2400 6000 10000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_010" position="-2500 6000 10000" rotation="0 0 0 -1" unit_id="200016"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2500 7100 10000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_011" position="-2500 7100 10000" rotation="0 0 0 -1" unit_id="200018"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2025 6650 10002.5" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_048" position="-2025 6650 10002.5" rotation="0 0 1 4.37114e-008" unit_id="200021">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="5" render_template="diffuse_vc_decal" text="container opening" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2025 6650 10002.5" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_049" position="-2025 6800 10002.5" rotation="0 0 1 4.37114e-008" unit_id="200022">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="2" render_template="diffuse_vc_decal" text="stealth" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2500 6800 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_050" position="-2500 6800 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200061">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="2" render_template="diffuse_vc_decal" text="loud" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2625 5575 10002.5" _prev_rot="-3.09086e-008 0.707107 -0.707107 3.09086e-008" continent="editor_only" local_pos="0 -50 0" local_rot="3.09086e-008 -0.707107 0.707107 -3.09086e-008" mesh_variation="" name="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" name_id="gen_prop_security_timer_004" position="-2525 5575 10002.5" rotation="-3.09086e-008 0.707107 -0.707107 3.09086e-008" unit_id="200062"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1400 8200 10000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_012" position="-1400 8200 10000" rotation="0 0 0 -1" unit_id="200063"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-925 7750 10002.5" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_051" position="-925 7750 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200064">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="5" render_template="diffuse_vc_decal" text="phone voicemails" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1575 5550 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_052" position="-1575 5575 10002.5" rotation="0 0 1 4.37114e-008" unit_id="200065">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="0.2" render_template="diffuse_vc_decal" text="this shit sucks please don't look at it" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3700 5700 10002.5" _prev_rot="0 0 -0.707107 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_053" position="-3700 5700 10002.5" rotation="0 0 -0.707107 -0.707107" unit_id="200066">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="1.5" render_template="diffuse_vc_decal" text="-------------------------------------------------" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3525 5700 10002.5" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_054" position="-3525 5700 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200067">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="1.5" render_template="diffuse_vc_decal" text="secure sword" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3525 5700 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_055" position="-3725 5700 10002.5" rotation="0 0 1 4.37114e-008" unit_id="200068">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="1.5" render_template="diffuse_vc_decal" text="escape or loot" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
 						<value_node value="0"/>

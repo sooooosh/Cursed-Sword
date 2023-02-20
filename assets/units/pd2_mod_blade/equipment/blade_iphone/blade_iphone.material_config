@@ -1,0 +1,9 @@
+<materials version="3" group="gen_interactable_objective_iphone">
+    <material render_template="generic:CONTOUR:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE" name="iphone" version="2">
+        <diffuse_texture file="units/world/props/iphone/iphone_df"/>
+        <variable type="scalar" name="contour_distance" value="0"/>
+        <variable type="scalar" name="contour_opacity" value="1"/>
+        <reflection_texture type="cubemap" global_texture="current_global_texture"/>
+        <variable type="vector3" name="contour_color" value="1 0.92549026012421 0"/>
+    </material>
+</materials>

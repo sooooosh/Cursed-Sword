@@ -1,0 +1,33 @@
+<table>
+	<unit>
+		<variables>
+			<var_interacted value="0"/>
+		</variables>
+		<filter name="'has_not_interacted'">
+			<check value="vars.var_interacted == 0"/>
+		</filter>
+
+		<sequence editable_state="true" triggable="true" name="'play_voicemail'">
+		<!-- <sound action="'play'" event="'put_down_server_parts'" object="'rp_iphone'"/> -->
+		</sequence>
+
+		<sequence editable_state="true" name="'interaction_enabled'" triggable="true">
+			<interaction enabled="true"/>
+		</sequence>
+		<sequence editable_state="true" name="'state_interaction_disabled'" triggable="true">
+			<interaction enabled="false"/>
+		</sequence>
+
+		<sequence editable_state="false" name="'interact'" triggable="false">
+			<run_sequence name="'play_voicemail'"/>
+			<function extension="'waypoint'" function="'remove_waypoint'"/>
+			<set_variable var_interacted="1"/>
+			<interaction start_time="1" enabled="true"/>
+		</sequence>
+
+		<sequence editable_state="true" name="'show_waypoint'" startup="true" triggable="true">
+			<function start_time="10" filter="'has_not_interacted'" extension="'waypoint'" function="'add_waypoint'" param1="'pd2_generic_interact'" param2="75"/>
+		</sequence>
+
+	</unit>
+</table>

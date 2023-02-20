@@ -1,0 +1,179 @@
+<table directory="assets">
+	<add from_db="true" path="units/payday2/architecture/lux/lux_int_bookshelfstairs_3m_a" type="unit">
+		<material_config path="units/payday2/architecture/lux/lux"/>
+		<object path="units/payday2/architecture/lux/lux_int_bookshelfstairs_3m_a"/>
+		<unit path="units/payday2/architecture/lux/lux_int_bookshelfstairs_3m_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" type="unit">
+		<material_config path="units/payday2/architecture/mkp/mkp" unload="true"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" unload="true"/>
+		<unit path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" unload="true"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/bnk/bnk_int_shelf_a" type="unit">
+		<material_config path="units/payday2/architecture/bnk/bnk_int"/>
+		<object path="units/payday2/architecture/bnk/bnk_int_shelf_a"/>
+		<unit path="units/payday2/architecture/bnk/bnk_int_shelf_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/bnk_prop_office_desk_shelves/bnk_prop_office_shelf_1m" type="unit">
+		<material_config path="units/payday2/props/bnk_prop_office_desk_shelves/bnk_prop_office_desk_shelves"/>
+		<object path="units/payday2/props/bnk_prop_office_desk_shelves/bnk_prop_office_shelf_1m"/>
+		<unit path="units/payday2/props/bnk_prop_office_desk_shelves/bnk_prop_office_shelf_1m"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_jewelry_counters/com_prop_jewelry_shelf_back_05" type="unit">
+		<material_config path="units/payday2/props/com_prop_jewelry_counters/com_prop_jewelry"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
+		<effect load="true" path="effects/payday2/particles/window/jewelry_counter_1"/>
+		<object path="units/payday2/props/com_prop_jewelry_counters/com_prop_jewelry_shelf_back_05"/>
+		<sequence_manager path="units/payday2/props/com_prop_jewelry_counters/com_prop_jewelry_counter_double"/>
+		<unit path="units/payday2/props/com_prop_jewelry_counters/com_prop_jewelry_shelf_back_05"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_store_shelf/com_prop_store_shelf_hangers_double_b" type="unit">
+		<material_config path="units/payday2/props/com_prop_store_shelf/com_prop_store_shelf_b"/>
+		<object path="units/payday2/props/com_prop_store_shelf/com_prop_store_shelf_hangers_double_b"/>
+		<unit path="units/payday2/props/com_prop_store_shelf/com_prop_store_shelf_hangers_double_b"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_palletrack_shelf" type="unit">
+		<material_config path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_palletrack_shelf"/>
+		<object path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_palletrack_shelf"/>
+		<unit path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_palletrack_shelf"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_plastic_shelf_a" type="unit">
+		<material_config path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_plastic"/>
+		<object path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_plastic_shelf_a"/>
+		<unit path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_plastic_shelf_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_plastic_shelf_b" type="unit">
+		<material_config path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_plastic"/>
+		<object path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_plastic_shelf_b"/>
+		<unit path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_plastic_shelf_b"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_generic_shelf_wire/off_prop_generic_shelf_wire_a" type="unit">
+		<material_config path="units/payday2/props/off_prop_generic_shelf_wire/off_prop_generic_shelf_wire"/>
+		<object path="units/payday2/props/off_prop_generic_shelf_wire/off_prop_generic_shelf_wire_a"/>
+		<unit path="units/payday2/props/off_prop_generic_shelf_wire/off_prop_generic_shelf_wire_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_generic_shelf_wire/off_prop_generic_shelf_wire_b" type="unit">
+		<material_config path="units/payday2/props/off_prop_generic_shelf_wire/off_prop_generic_shelf_wire"/>
+		<object path="units/payday2/props/off_prop_generic_shelf_wire/off_prop_generic_shelf_wire_b"/>
+		<unit path="units/payday2/props/off_prop_generic_shelf_wire/off_prop_generic_shelf_wire_b"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_office_bookshelf/off_prop_office_bookshelf_drawers" type="unit">
+		<material_config path="units/payday2/props/off_prop_office_bookshelf/off_prop_office_bookshelf_drawers"/>
+		<object path="units/payday2/props/off_prop_office_bookshelf/off_prop_office_bookshelf_drawers"/>
+		<unit path="units/payday2/props/off_prop_office_bookshelf/off_prop_office_bookshelf_drawers"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/stn_prop_armory_shelf_weapons/stn_prop_armory_shelf_weapons" type="unit">
+		<material_config path="units/payday2/props/stn_prop_armory_shelf_weapons/stn_prop_armory_shelf_weapons"/>
+		<object path="units/payday2/props/stn_prop_armory_shelf_weapons/stn_prop_armory_shelf_weapons"/>
+		<unit path="units/payday2/props/stn_prop_armory_shelf_weapons/stn_prop_armory_shelf_weapons"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/props/res_prop_store/res_prop_store_shelf_a" type="unit">
+		<material_config path="units/pd2_dlc1/props/res_prop_store/res_prop_store_shelves"/>
+		<object path="units/pd2_dlc1/props/res_prop_store/res_prop_store_shelf_a"/>
+		<unit path="units/pd2_dlc1/props/res_prop_store/res_prop_store_shelf_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/stn_prop_armory_shelf_weapons/stn_prop_armory_shelf_weapons_animated" type="unit">
+		<material_config path="units/payday2/props/stn_prop_armory_shelf_weapons/stn_prop_armory_shelf_weapons_animated"/>
+		<object path="units/payday2/props/stn_prop_armory_shelf_weapons/stn_prop_armory_shelf_weapons_animated"/>
+		<sequence_manager path="units/payday2/props/stn_prop_armory_shelf_weapons/stn_prop_armory_shelf_weapons_animated"/>
+		<unit path="units/payday2/props/stn_prop_armory_shelf_weapons/stn_prop_armory_shelf_weapons_animated"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_arena/architecture/are_supply_room_boxes/are_supply_shelf_01_boxes" type="unit">
+		<material_config path="units/pd2_dlc_arena/architecture/are_supply_room_boxes/are_supply_shelf_01_boxes"/>
+		<object path="units/pd2_dlc_arena/architecture/are_supply_room_boxes/are_supply_shelf_01_boxes"/>
+		<sequence_manager path="units/pd2_dlc_arena/architecture/are_supply_room_boxes/are_supply_shelf_01_boxes"/>
+		<unit path="units/pd2_dlc_arena/architecture/are_supply_room_boxes/are_supply_shelf_01_boxes"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_arena/architecture/are_supply_room_boxes/are_supply_shelf_02_boxes" type="unit">
+		<material_config path="units/pd2_dlc_arena/architecture/are_supply_room_boxes/are_supply_shelf_01_boxes"/>
+		<object path="units/pd2_dlc_arena/architecture/are_supply_room_boxes/are_supply_shelf_02_boxes"/>
+		<sequence_manager path="units/pd2_dlc_arena/architecture/are_supply_room_boxes/are_supply_shelf_02_boxes"/>
+		<unit path="units/pd2_dlc_arena/architecture/are_supply_room_boxes/are_supply_shelf_02_boxes"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_arena/architecture/are_supply_room_boxes/are_supply_shelf_03_boxes" type="unit">
+		<material_config path="units/pd2_dlc_arena/architecture/are_supply_room_boxes/are_supply_shelf_01_boxes"/>
+		<object path="units/pd2_dlc_arena/architecture/are_supply_room_boxes/are_supply_shelf_03_boxes"/>
+		<sequence_manager path="units/pd2_dlc_arena/architecture/are_supply_room_boxes/are_supply_shelf_03_boxes"/>
+		<unit path="units/pd2_dlc_arena/architecture/are_supply_room_boxes/are_supply_shelf_03_boxes"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_casino/props/cas_archive_shelf/cas_archive_shelf" type="unit">
+		<material_config path="units/pd2_dlc_casino/props/cas_archive_shelf/cas_archive_shelf"/>
+		<object path="units/pd2_dlc_casino/props/cas_archive_shelf/cas_archive_shelf"/>
+		<unit path="units/pd2_dlc_casino/props/cas_archive_shelf/cas_archive_shelf"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_des/props/des_prop_shelf/des_prop_shelf" type="unit">
+		<material_config path="units/pd2_dlc_des/props/des_prop_shelf/des_prop_shelf"/>
+		<object path="units/pd2_dlc_des/props/des_prop_shelf/des_prop_shelf"/>
+		<unit path="units/pd2_dlc_des/props/des_prop_shelf/des_prop_shelf"/>
+	</add>
+	<add from_db="true" path="units/world/props/office/binders/binders_shelf_01" type="unit">
+		<material_config path="units/world/props/office/binders/binders_shelf_01"/>
+		<object path="units/world/props/office/binders/binders_shelf_01"/>
+		<unit path="units/world/props/office/binders/binders_shelf_01"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_janitor_shelf/com_prop_janitor_shelf" type="unit">
+		<material_config path="units/payday2/props/com_prop_janitor_shelf/com_prop_janitor_shelf"/>
+		<object path="units/payday2/props/com_prop_janitor_shelf/com_prop_janitor_shelf"/>
+		<unit path="units/payday2/props/com_prop_janitor_shelf/com_prop_janitor_shelf"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_stack_8" type="unit">
+		<material_config path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_stack_8"/>
+		<object path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_stack_8"/>
+		<unit path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_stack_8"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_flat/props/flt_prop_cardboard_box02/flt_prop_cardboard_box02" type="unit">
+		<material_config path="units/pd2_dlc_flat/props/flt_prop_cardboard_box02/flt_prop_cardboard_box02"/>
+		<object path="units/pd2_dlc_flat/props/flt_prop_cardboard_box02/flt_prop_cardboard_box02"/>
+		<unit path="units/pd2_dlc_flat/props/flt_prop_cardboard_box02/flt_prop_cardboard_box02"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_stack_4" type="unit">
+		<material_config path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_stack_4"/>
+		<object path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_stack_4"/>
+		<unit path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_stack_4"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_c" type="unit">
+		<material_config path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_c"/>
+		<object path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_c"/>
+		<unit path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_c"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_d" type="unit">
+		<material_config path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_d"/>
+		<object path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_d"/>
+		<unit path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_d"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_e" type="unit">
+		<material_config path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_e"/>
+		<object path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_e"/>
+		<unit path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_e"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_f" type="unit">
+		<material_config path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_f"/>
+		<object path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_f"/>
+		<unit path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_f"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_g" type="unit">
+		<material_config path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_g"/>
+		<object path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_g"/>
+		<unit path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_g"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_b" type="unit">
+		<material_config path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_b"/>
+		<object path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_b"/>
+		<unit path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_b"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_a" type="unit">
+		<material_config path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_a"/>
+		<object path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_a"/>
+		<unit path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/mcm_prop_basement_boxes_small/mcm_prop_basement_boxes_small" type="unit">
+		<material_config path="units/payday2/props/mcm_prop_basement_aircon/mcm_prop_basement_aircon"/>
+		<object path="units/payday2/props/mcm_prop_basement_boxes_small/mcm_prop_basement_boxes_small"/>
+		<unit path="units/payday2/props/mcm_prop_basement_boxes_small/mcm_prop_basement_boxes_small"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_dock_box/ind_prop_dock_box_stacked" type="unit">
+		<unit path="units/payday2/props/ind_prop_dock_box/ind_prop_dock_box_stacked"/>
+		<object path="units/payday2/props/ind_prop_dock_box/ind_prop_dock_box_stacked"/>
+		<material_config path="units/payday2/props/ind_prop_dock_box/ind_prop_dock_box_stacked"/>
+	</add>
+</table>

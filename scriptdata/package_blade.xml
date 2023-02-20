@@ -1,3 +1,10 @@
 <table directory="assets">
+	<add>
+		<material_config path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
+		<model path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
+		<object path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
+		<sequence_manager path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
+		<unit path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
+	</add>
 	<unit from_db="true" load="true" path="units/dev_tools/mission_elements/point_interaction/interaction_dummy"/>
 </table>

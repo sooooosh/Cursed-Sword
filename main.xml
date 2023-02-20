@@ -9,6 +9,21 @@
 			<value_node value="package_blade"/>
 		</packages>
 	</instance>
+	<instance id="blade_room_office">
+		<packages/>
+	</instance>
+	<instance id="blade_room_server">
+		<packages/>
+	</instance>
+	<instance id="blade_room_storage">
+		<packages/>
+	</instance>
+	<instance id="blade_pc">
+		<packages/>
+		<xml>
+			<file path="scriptdata/customstuff.xml"/>
+		</xml>
+	</instance>
 	<Localization default="english.yaml" directory="loc">
 		<loc file="english.yaml" language="english"/>
 	</Localization>
@@ -31,6 +46,9 @@
 				<options merge_mode="add" mode="add"/>
 			</mod>
 		</script_data_mods>
+		<xml>
+			<file path="scriptdata/customstuff.xml"/>
+		</xml>
 	</level>
 	<narrative briefing_event="" contact="pd2maps" id="blade">
 		<chain>
