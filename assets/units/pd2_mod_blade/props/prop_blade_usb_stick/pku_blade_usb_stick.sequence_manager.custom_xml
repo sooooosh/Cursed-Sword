@@ -1,0 +1,30 @@
+<table>
+	<unit>
+		<sequence editable_state="true" triggable="true" name="'enable_interaction'">
+			<interaction enabled="true"/>
+		</sequence>
+		<sequence editable_state="true" triggable="true" name="'disable_interaction'">
+			<interaction enabled="false"/>
+		</sequence>
+
+		<sequence editable_state="true" triggable="true" name="'state_hide'">
+			<interaction enabled="false"/>
+			<body enabled="false" name="'body_static'"/>
+			<graphic_group name="'grp_stick'" visibility="false"/>
+		</sequence>
+		<sequence editable_state="true" triggable="true" name="'state_show'">
+			<body enabled="true" name="'body_static'"/>
+			<graphic_group name="'grp_stick'" visibility="true"/>
+		</sequence>
+
+		<sequence editable_state="true" triggable="true" name="'interact'">
+			<run_sequence name="'state_hide'"/>
+			<sound action="'play'" event="'money_grab'" object="'rp_gen_fbi_usb_stick'"/>
+		</sequence>
+		<sequence editable_state="true" triggable="true" name="'load'">
+			<run_sequence name="'state_hide'"/>
+			<sound action="'play'" event="'money_grab'" object="'rp_gen_fbi_usb_stick'"/>
+		</sequence>
+
+	</unit>
+</table>

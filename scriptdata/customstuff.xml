@@ -9,6 +9,23 @@
             interact_distance="150"
             timer="10"
         />
+        <interaction
+            id="blade_place_usb"
+            interact_distance="100"
+            special_equipment="trai_usb_key"
+            equipment_consume="true"
+            equipment_text_id="debug_interact_equipment_usb_stick"
+        />
+        <interaction
+            id="blade_take_usb"
+            based_on="cas_take_usb_key"
+            start_active="true"
+        />
+        <interaction
+            id="blade_hack_it_laptop"
+            interact_distance="100"
+            timer="5"
+        />
     </Interactions>
 
 </table>

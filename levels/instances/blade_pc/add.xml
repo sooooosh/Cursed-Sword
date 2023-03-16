@@ -11,8 +11,48 @@
 		<unit path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" unload="true"/>
 	</add>
 	<add from_db="true" path="units/pd2_dlc_nmh/props/nmh_prop_digitalwalltimer01/nmh_prop_digitalwalltimer01" type="unit">
-		<unit path="units/pd2_dlc_nmh/props/nmh_prop_digitalwalltimer01/nmh_prop_digitalwalltimer01"/>
-		<object path="units/pd2_dlc_nmh/props/nmh_prop_digitalwalltimer01/nmh_prop_digitalwalltimer01"/>
 		<material_config path="units/pd2_dlc_nmh/props/nmh_prop_digitalwalltimer01/nmh_prop_digitalwalltimer01"/>
+		<object path="units/pd2_dlc_nmh/props/nmh_prop_digitalwalltimer01/nmh_prop_digitalwalltimer01"/>
+		<unit path="units/pd2_dlc_nmh/props/nmh_prop_digitalwalltimer01/nmh_prop_digitalwalltimer01"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_casino/props/cas_usb_key/cas_usb_key" type="unit">
+		<material_config path="units/pd2_dlc_casino/props/cas_usb_key/cas_usb_key"/>
+		<material_config path="units/pd2_dlc_casino/props/cas_usb_key/cas_usb_key_no_outline"/>
+		<object path="units/pd2_dlc_casino/props/cas_usb_key/cas_usb_key"/>
+		<sequence_manager path="units/pd2_dlc_casino/props/cas_usb_key/cas_usb_key"/>
+		<unit path="units/pd2_dlc_casino/props/cas_usb_key/cas_usb_key"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_friend/props/sfm_fbi_usb_stick/sfm_fbi_usb_stick" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick"/>
+		<object path="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick"/>
+		<sequence_manager path="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick"/>
+		<unit path="units/pd2_dlc_friend/props/sfm_fbi_usb_stick/sfm_fbi_usb_stick"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick"/>
+		<object path="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick"/>
+		<sequence_manager path="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick"/>
+		<unit path="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_sand/pickups/sand_pku_usb_stick/sand_pku_usb_stick" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick"/>
+		<object path="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick"/>
+		<sequence_manager path="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick"/>
+		<unit path="units/pd2_dlc_sand/pickups/sand_pku_usb_stick/sand_pku_usb_stick"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_sand/props/sand_interactable_copy_machine_usb/sand_interactable_copy_machine_usb" type="unit">
+		<material_config path="units/pd2_dlc_sand/props/sand_interactable_copy_machine_usb/sand_interactable_copy_machine_usb"/>
+		<object path="units/pd2_dlc_sand/props/sand_interactable_copy_machine_usb/sand_interactable_copy_machine_usb"/>
+		<sequence_manager path="units/pd2_dlc_sand/props/sand_interactable_copy_machine_usb/sand_interactable_copy_machine_usb"/>
+		<unit path="units/pd2_dlc_sand/props/sand_interactable_copy_machine_usb/sand_interactable_copy_machine_usb"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_sand/pickups/sand_pku_copy_machine_usb/sand_pku_copy_machine_usb" type="unit">
+		<unit path="units/pd2_dlc_sand/pickups/sand_pku_copy_machine_usb/sand_pku_copy_machine_usb"/>
+		<object path="units/pd2_dlc_sand/pickups/sand_pku_copy_machine_usb/sand_pku_copy_machine_usb"/>
+		<material_config path="units/pd2_dlc_sand/pickups/sand_pku_copy_machine_usb/sand_pku_copy_machine_usb"/>
+		<sequence_manager path="units/pd2_dlc_sand/pickups/sand_pku_copy_machine_usb/sand_pku_copy_machine_usb"/>
 	</add>
 </table>

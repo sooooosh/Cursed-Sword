@@ -1,0 +1,15 @@
+<materials version="3">
+    <material decal_material="glass_breakable" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:SELF_ILLUMINATION" version="2" name="display">
+        <diffuse_texture file="units/payday2/equipment/gen_interactable_laptop/gen_interactable_laptop_df"/>
+        <self_illumination_texture file="units/payday2/equipment/gen_interactable_laptop/gen_interactable_laptop_il"/>
+        <variable type="scalar" name="il_multiplier" value="monitor"/>
+        <bump_normal_texture file="units/payday2/equipment/gen_interactable_laptop/gen_interactable_laptop_nm"/>
+    </material>
+    <material unique="true" render_template="generic:ALPHA_MASKED:CONTOUR:DIFFUSE_TEXTURE:OPACITY_TEXTURE" version="2" name="glow_matr">
+        <diffuse_texture file="units/gui/gui_color_use_df"/>
+        <variable type="vector3" name="contour_color" value="1.0 0.5 0.0"/>
+        <variable type="scalar" name="contour_opacity" value="1"/>
+        <opacity_texture file="units/transparent_op"/>
+        <variable type="scalar" name="contour_distance" value="500"/>
+    </material>
+</materials>

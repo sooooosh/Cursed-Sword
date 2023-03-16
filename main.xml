@@ -19,7 +19,9 @@
 		<packages/>
 	</instance>
 	<instance id="blade_pc">
-		<packages/>
+		<packages>
+			<value_node value="package_blade"/>
+		</packages>
 		<xml>
 			<file path="scriptdata/customstuff.xml"/>
 		</xml>

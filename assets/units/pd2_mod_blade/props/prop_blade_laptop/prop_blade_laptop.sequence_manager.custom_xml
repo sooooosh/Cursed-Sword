@@ -1,0 +1,141 @@
+<table>
+	<unit>
+		<variables>
+			<var_diff value="0"/>
+		</variables>
+		<filter name="'diff_normal'">
+			<check value="vars.var_diff == 0"/>
+		</filter>
+		<filter name="'diff_hard'">
+			<check value="vars.var_diff == 1"/>
+		</filter>
+		<filter name="'diff_vhard'">
+			<check value="vars.var_diff == 2"/>
+		</filter>
+		<filter name="'diff_ovk'">
+			<check value="vars.var_diff == 3"/>
+		</filter>
+		<filter name="'diff_mh'">
+			<check value="vars.var_diff == 4"/>
+		</filter>
+		<filter name="'diff_dw'">
+			<check value="vars.var_diff == 5"/>
+		</filter>
+		<filter name="'diff_ds'">
+			<check value="vars.var_diff == 6"/>
+		</filter>
+
+		<sequence editable_state="false" name="'starup_seq'" startup="true" triggable="false">
+			<function extension="'timer_gui'" function="'set_visible'" param1="false"/>
+		</sequence>
+
+		<sequence editable_state="true" name="'interact_disabled'" triggable="true">
+			<interaction enabled="false"/>
+		</sequence>
+		<sequence editable_state="true" name="'interact_enabled'" triggable="true">
+			<interaction enabled="true"/>
+		</sequence>
+
+		<sequence editable_state="true" triggable="true" name="'interact'">
+			<function extension="'timer_gui'" function="'set_visible'" param1="true"/>
+			<object enabled="false" name="'g_glow'"/>
+			<interaction enabled="false"/>
+			<run_sequence filter="'diff_0'" name="'int_state_seconds_20'"/>
+			<run_sequence filter="'diff_1'" name="'int_state_seconds_25'"/>
+			<run_sequence filter="'diff_2'" name="'int_state_seconds_30'"/>
+			<run_sequence filter="'diff_3'" name="'int_state_seconds_35'"/>
+			<run_sequence filter="'diff_4'" name="'int_state_seconds_40'"/>
+			<run_sequence filter="'diff_5'" name="'int_state_seconds_45'"/>
+			<run_sequence filter="'diff_6'" name="'int_state_seconds_50'"/>
+			<!-- <run_sequence name="'state_contour_off'"/> -->
+			<!-- <attention giveaway="'computer'" object_name="'rp_mcm_laptop'" operation="'add'" preset_name="'prop_ene_ntl_edaycrate'"/> -->
+		</sequence>
+
+		<sequence editable_state="false" name="'int_state_seconds_20'" triggable="false">
+			<function extension="'timer_gui'" function="'start'" param1="'20'"/>
+		</sequence>
+		<sequence editable_state="false" name="'int_state_seconds_25'" triggable="false">
+			<function extension="'timer_gui'" function="'start'" param1="'25'"/>
+		</sequence>
+		<sequence editable_state="false" name="'int_state_seconds_30'" triggable="false">
+			<function extension="'timer_gui'" function="'start'" param1="'30'"/>
+		</sequence>
+		<sequence editable_state="false" name="'int_state_seconds_35'" triggable="false">
+			<function extension="'timer_gui'" function="'start'" param1="'35'"/>
+		</sequence>
+		<sequence editable_state="false" name="'int_state_seconds_40'" triggable="false">
+			<function extension="'timer_gui'" function="'start'" param1="'40'"/>
+		</sequence>
+		<sequence editable_state="false" name="'int_state_seconds_45'" triggable="false">
+			<function extension="'timer_gui'" function="'start'" param1="'45'"/>
+		</sequence>
+		<sequence editable_state="false" name="'int_state_seconds_50'" triggable="false">
+			<function extension="'timer_gui'" function="'start'" param1="'50'"/>
+		</sequence>
+
+		<sequence name="'timer_done'"/>
+		<!-- <sequence name="'done_hacking'" triggable="true">
+			<object enabled="true" name="'g_glow'"/>
+			<object enabled="false" name="'g_laptop'"/>
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'mcm_laptop_code'"/>
+			<run_sequence name="'interact_enabled'"/>
+			<set_variables var_int="4"/>
+			<attention giveaway="'computer'" object_name="'rp_mcm_laptop'" operation="'remove'" preset_name="'prop_ene_ntl_edaycrate'"/>
+		</sequence> -->
+
+		<sequence editable_state="true" name="'state_contour_off'" triggable="true">
+			<object enabled="false" name="'g_glow'"/>
+		</sequence>
+		<sequence editable_state="true" name="'state_contour_on'" triggable="true">
+			<object enabled="true" name="'g_glow'"/>
+		</sequence>
+
+		<!-- 
+		<sequence editable_state="true" name="'state_hack_laptop_interaction'" triggable="true">
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'mcm_laptop'"/>
+		</sequence>
+		<sequence editable_state="true" name="'state_reset'" triggable="true">
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'hold_new_hack'"/>
+			<function extension="'timer_gui'" function="'set_visible'" param1="false"/>
+			<function extension="'timer_gui'" function="'reset'" start_time="0/30"/>
+			<interaction enabled="true"/>
+		</sequence>
+		<sequence name="'power_off'" triggable="true">
+			<function extension="'timer_gui'" function="'set_powered'" param1="false"/>
+			<function extension="'timer_gui'" function="'set_visible'" param1="false"/>
+			<object enabled="false" name="'g_screen_on'"/>
+			<object enabled="true" name="'g_screen_off'"/>
+			<sound action="'play'" event="'hacking_device_jam_stop_global'" object="'rp_mcm_laptop'" start_time="1/30"/>
+		</sequence>
+		<sequence name="'power_on'" triggable="true">
+			<function extension="'timer_gui'" function="'set_powered'" param1="true"/>
+			<function extension="'timer_gui'" function="'set_visible'" param1="true"/>
+		</sequence>
+		<sequence editable_state="false" name="'starup_seq'" startup="true" triggable="false">
+			<function extension="'timer_gui'" function="'set_visible'" param1="false"/>
+			<object enabled="true" name="'g_laptop'"/>
+		</sequence>
+
+
+		<sequence editable_state="true" name=" 'interact_disabled' " triggable="true">
+			<interaction enabled="false"/>
+			<object enabled="false" name="'g_laptop'"/>
+		</sequence>
+		<sequence editable_state="true" name="'interact_enabled'" triggable="true">
+			<interaction enabled="true"/>
+		</sequence>
+
+		<sequence name="'remove_attention'" triggable="true">
+			<attention giveaway="'computer'" object_name="'rp_mcm_laptop'" operation="'remove'" preset_name="'prop_ene_ntl_edaycrate'"/>
+		</sequence>
+		<sequence editable_state="true" name="'state_contour_off'" triggable="true">
+			<object enabled="false" name="'g_glow'"/>
+			<object enabled="true" name="'g_laptop'"/>
+		</sequence>
+		<sequence editable_state="true" name="'state_interaction_enable_glow'" triggable="true">
+			<interaction enabled="true"/>
+			<object enabled="true" name="'g_glow'"/>
+			<object enabled="false" name="'g_laptop'"/>
+		</sequence> -->
+	</unit>
+</table>

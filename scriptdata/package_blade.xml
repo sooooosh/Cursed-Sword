@@ -1,10 +1,25 @@
 <table directory="assets">
 	<add>
-		<material_config path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
-		<model path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
-		<object path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
-		<sequence_manager path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
-		<unit path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
+		<unit_mat_seq		path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
+
+		<unit_mat			path="units/pd2_mod_kms/props/forklift_goal_marker/forklift_goal_marker"/>
+		<texture 			path="units/pd2_mod_kms/props/forklift_goal_marker/forklift_goal_marker_df"/>
+
+		<unit_mat_seq		path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick"/>
+		<material_config	path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick_outline"/>
+
+		<unit_mat_seq		path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick"/>
+
+		
+	</add>
+
+	<add auto_cp="false">
+		<unit_mat_seq		path="units/pd2_mod_fuel/props/fuel_prop_battery/fuel_prop_battery"/>
+		<texture 			path="units/pd2_mod_fuel/props/fuel_prop_battery/fuel_prop_battery_df"/>
+
+		<unit_mat_seq		path="units/pd2_mod_blade/props/prop_blade_laptop/prop_blade_laptop"/>
+
+		<unit_mat			path="units/pd2_mod_blade/architecture/blade_warehouse/blade_warehouse"/>
 	</add>
 	<!-- dependencies -->
 	<unit from_db="true" load="true" path="units/dev_tools/mission_elements/point_interaction/interaction_dummy"/>
@@ -34,35 +49,5 @@
 		<material_config path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
 		<sequence_manager path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
 	</add>
-	<!-- <add from_db="true" path="units/pd2_dlc_mad/equipment/mad_interactable_door_keycard/mad_interactable_door_keycard" type="unit">
-		<unit path="units/pd2_dlc_mad/equipment/mad_interactable_door_keycard/mad_interactable_door_keycard"/>
-		<object path="units/pd2_dlc_mad/equipment/mad_interactable_door_keycard/mad_interactable_door_keycard"/>
-		<material_config path="units/pd2_dlc_mad/equipment/mad_interactable_door_keycard/mad_interactable_door_keycard"/>
-		<sequence_manager path="units/pd2_dlc_mad/equipment/mad_interactable_door_keycard/mad_interactable_door_keycard"/>
-		<unit path="units/payday2/equipment/gen_interactable_door_keycard/spawn_debris_door_metal"/>
-		<object path="units/payday2/equipment/gen_interactable_door_keycard/spawn_debris_door_metal"/>
-		<material_config path="units/payday2/equipment/gen_interactable_door_keycard/spawn_debris_door_metal"/>
-		<unit path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
-		<object path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
-		<material_config path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
-		<sequence_manager path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
-		<unit path="units/payday2/equipment/gen_interactable_panel_keycard/gen_interactable_panel_keycard"/>
-		<object path="units/payday2/equipment/gen_interactable_panel_keycard/gen_interactable_panel_keycard"/>
-		<material_config path="units/pickups/pickup_bank_manager_key/pickup_bank_manager_key"/>
-		<sequence_manager path="units/payday2/equipment/gen_interactable_panel_keycard/gen_interactable_panel_keycard"/>
-		<unit path="units/payday2/equipment/gen_interactable_door_keycard/gen_interactable_door_keycard_jammer"/>
-		<bnk path="soundbanks/regular_sfx"/>
-		<object path="units/payday2/equipment/gen_interactable_door_keycard/gen_interactable_door_keycard_jammer"/>
-		<material_config path="units/payday2/equipment/gen_interactable_door_keycard/gen_interactable_door_keycard_jammer"/>
-		<sequence_manager path="units/payday2/equipment/gen_interactable_door_keycard/gen_interactable_door_keycard_jammer"/>
-		<unit path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
-		<object path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
-		<material_config path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
-		<sequence_manager path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
-		<gui path="guis/timer_gui"/>
-		<effect load="true" path="effects/payday2/environment/drill"/>
-		<effect load="true" path="effects/payday2/environment/parts/drill_sparks_particles"/>
-		<effect load="true" path="effects/payday2/environment/parts/drill_sparks"/>
-		<physic_effect path="physic_effects/push_sphere"/>
-	</add> -->
+
 </table>

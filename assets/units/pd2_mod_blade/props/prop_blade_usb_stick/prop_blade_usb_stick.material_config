@@ -1,0 +1,16 @@
+<materials version="3" group="gen_fbi_usb_stick">
+    <material render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" name="mat_gen_fbi_usb_stick" version="2">
+        <diffuse_texture file="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick_df"/>
+        <bump_normal_texture file="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick_nm"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:DIFFUSE_UVANIM:SELF_ILLUMINATION" name="mat_gen_fbi_usb_stick_il" version="2">
+        <diffuse_texture file="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick_il_df"/>
+        <self_illumination_texture file="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick_il_df"/>
+        <variable type="scalar" name="il_multiplier" value="searchlight"/>
+        <variable type="vector3" name="uv_speed" value="0 -0.58099985122681 0"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" name="mat_gen_fbi_usb_stick_no_outline" version="2">
+        <diffuse_texture file="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick_df"/>
+        <bump_normal_texture file="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick_nm"/>
+    </material>
+</materials>

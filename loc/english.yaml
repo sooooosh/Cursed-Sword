@@ -1,5 +1,11 @@
+# Interactions
+hud_blade_hack_it_laptop: "Hold $BTN_INTERACT to create unlock USB"
+hud_blade_take_usb: "Press $BTN_INTERACT to take USB stick"
+hud_blade_place_usb: "Press $BTN_INTERACT to plug in USB stick"
 # Objectives
 obj_blade_01: "Enter the warehouse"
 obj_blade_01_desc: "Find a way into the warehouse."
 obj_blade_02: "Find the sword"
 obj_blade_02_desc: "The sword is hidden somewhere in here, there might be clues around the place.\nMaybe the triad's have something on them that could help, or maybe some shipping logs somewhere."
+
+prop_laptop_download: "Downloading..."
