@@ -1,0 +1,40 @@
+<dynamic_object>
+    <diesel orientation_object="rp_shelf" materials="units/payday2/props/ind_prop_mill_lumber_stacks/ind_prop_mill_lumber_stacks" />
+    <bodies>
+        <body enabled="true" template="static" name="body_static" >
+            <!-- <object collision_type="box" name="c_box_01" padding="-2.5"/> -->
+            <object collision_type="box" name="c_box_02" padding="-2.5"/>
+            <object collision_type="box" name="c_box_03" padding="-2.5"/>
+            <object collision_type="box" name="c_box_04" padding="-2.5"/>
+            <object collision_type="box" name="c_box_05" padding="-2.5"/>
+            <object collision_type="box" name="c_box_06" padding="-2.5"/>
+            <object collision_type="box" name="c_box_07" padding="-2.5"/>
+            <object collision_type="box" name="c_box_a_01" padding="-2.5"/>
+            <object collision_type="box" name="c_box_a_02" padding="-2.5"/>
+            <object collision_type="box" name="c_box_a_03" padding="-2.5"/>
+            <object collision_type="box" name="c_box_a_04" padding="-2.5"/>
+            <object collision_type="box" name="c_box_a_05" padding="-2.5"/>
+            <object collision_type="box" name="c_box_a_06" padding="-2.5"/>
+            <object collision_type="box" name="c_box_a_07" padding="-2.5"/>
+            <object collision_type="box" name="c_box_a_08" padding="-2.5"/>
+            <object collision_type="box" name="c_box_a_09" padding="-2.5"/>
+            <object collision_type="box" name="c_box_a_10" padding="-2.5"/>
+            <object collision_type="box" name="c_box_a_11" padding="-2.5"/>
+            <object collision_type="box" name="c_box_a_12" padding="-2.5"/>
+            <object collision_type="box" name="c_box_a_13" padding="-2.5"/>
+            <object collision_type="box" name="c_box_a_14" padding="-2.5"/>
+            <object collision_type="box" name="c_box_a_15" padding="-2.5"/>
+        </body>
+        <body enabled="true" template="mover_blocker" name="body_player">
+          <object collision_type="box" name="c_box_player" padding="-2.5"/>
+        </body>
+    </bodies>
+	
+  <decal_surfaces default_material="sheet_metal" static="true">
+    <decal_mesh name="dm_shelf" enabled="true" material="sheet_metal" />
+  </decal_surfaces>
+  
+    <graphics>
+      <object enabled="true" name="g_shelf" />
+    </graphics>
+</dynamic_object>

@@ -9,14 +9,13 @@
 			<value_node value="package_blade"/>
 		</packages>
 	</instance>
-	<instance id="blade_room_office">
-		<packages/>
-	</instance>
-	<instance id="blade_room_server">
-		<packages/>
-	</instance>
-	<instance id="blade_room_storage">
-		<packages/>
+	<instance id="blade_laptop">
+		<packages>
+			<value_node value="package_blade"/>
+		</packages>
+		<xml>
+			<file path="scriptdata/customstuff.xml"/>
+		</xml>
 	</instance>
 	<instance id="blade_pc">
 		<packages>
@@ -37,8 +36,13 @@
 			<asset name="grenade_crate"/>
 			<asset name="bodybags_bag"/>
 		</assets>
+		<classes directory="classes">
+			<class file="grapplepoint.lua"/>
+		</classes>
 		<hooks directory="hooks">
 			<hook file="tweakdata.lua" source_file="lib/tweak_data/tweakdata"/>
+			<hook file="interactionext.lua" source_file="lib/units/interactions/interactionext"/>
+			<hook file="playerstandard.lua" source_file="lib/units/beings/player/states/playerstandard"/>
 		</hooks>
 		<packages>
 			<value_node value="package_blade"/>

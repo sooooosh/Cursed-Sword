@@ -1,29 +1,56 @@
 <table directory="assets">
 	<add>
-		<unit_mat_seq		path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
-
-		<unit_mat			path="units/pd2_mod_kms/props/forklift_goal_marker/forklift_goal_marker"/>
-		<texture 			path="units/pd2_mod_kms/props/forklift_goal_marker/forklift_goal_marker_df"/>
-
-		<unit_mat_seq		path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick"/>
-		<material_config	path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick_outline"/>
-
-		<unit_mat_seq		path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick"/>
-
-		
+		<unit_mat_seq path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
+		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick"/>
+		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick"/>
+		<material_config path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick_outline"/>
+		<material_config from_db="true" path="units/payday2/props/ind_prop_mill_lumber_stacks/ind_prop_mill_lumber_stacks"/>
+		<texture path="units/pd2_mod_kms/props/forklift_goal_marker/forklift_goal_marker_df"/>
+		<unit_mat path="units/pd2_mod_kms/props/forklift_goal_marker/forklift_goal_marker"/>
+		<unit_obj path="units/pd2_mod_blade/props/prop_blade_lumber_shelf/prop_blade_lumber_shelf"/>
+		<unit_obj path="units/pd2_mod_blade/props/prop_blade_lumber_shelf/prop_blade_lumber_1"/>
+		<unit_obj path="units/pd2_mod_blade/props/prop_blade_lumber_shelf/prop_blade_lumber_2"/>
 	</add>
-
 	<add auto_cp="false">
-		<unit_mat_seq		path="units/pd2_mod_fuel/props/fuel_prop_battery/fuel_prop_battery"/>
-		<texture 			path="units/pd2_mod_fuel/props/fuel_prop_battery/fuel_prop_battery_df"/>
-
-		<unit_mat_seq		path="units/pd2_mod_blade/props/prop_blade_laptop/prop_blade_laptop"/>
-
-		<unit_mat			path="units/pd2_mod_blade/architecture/blade_warehouse/blade_warehouse"/>
+		<unit_mat_seq path="units/pd2_mod_fuel/props/fuel_prop_battery/fuel_prop_battery"/>
+		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_laptop/prop_blade_laptop"/>
+		<texture path="units/pd2_mod_fuel/props/fuel_prop_battery/fuel_prop_battery_df"/>
+		<unit_mat path="units/pd2_mod_blade/architecture/blade_warehouse/blade_warehouse"/>
 	</add>
-	<!-- dependencies -->
-	<unit from_db="true" load="true" path="units/dev_tools/mission_elements/point_interaction/interaction_dummy"/>
-
+	<add>
+		<unit load="true" path="units/pd2_mod_pdm/props/mantle_point/mantle_point" unload="true"/>
+		<object path="units/pd2_mod_pdm/props/mantle_point/mantle_point" unload="true"/>
+		<model path="units/pd2_mod_pdm/props/mantle_point/mantle_point" unload="true"/>
+		<material_config path="units/pd2_mod_pdm/props/mantle_point/mantle_point" unload="true"/>
+		<sequence_manager path="units/pd2_mod_pdm/props/mantle_point/mantle_point" unload="true"/>
+		<unit load="true" path="units/pd2_mod_pdm/props/mantle_indicator_rope_long/mantle_indicator_rope_long" unload="true"/>
+		<object path="units/pd2_mod_pdm/props/mantle_indicator_rope_long/mantle_indicator_rope_long" unload="true"/>
+		<model path="units/pd2_mod_pdm/props/mantle_indicator_rope_long/mantle_indicator_rope_long" unload="true"/>
+		<material_config path="units/pd2_mod_pdm/props/mantle_indicator_rope_long/mantle_indicator_rope_long" unload="true"/>
+		<texture load="true" path="units/pd2_mod_pdm/props/mantle_indicator_rope_long/rope_df" unload="true"/>
+		<texture load="true" path="units/pd2_mod_pdm/props/mantle_indicator_rope_long/rope_nm" unload="true"/>
+		<unit load="true" path="units/pd2_mod_pdm/props/mantle_indicator_rope_short/mantle_indicator_rope_short" unload="true"/>
+		<object path="units/pd2_mod_pdm/props/mantle_indicator_rope_short/mantle_indicator_rope_short" unload="true"/>
+		<model path="units/pd2_mod_pdm/props/mantle_indicator_rope_short/mantle_indicator_rope_short" unload="true"/>
+		<unit load="true" path="units/pd2_mod_pdm/props/mantle_indicator_decal/mantle_indicator_decal" unload="true"/>
+		<object path="units/pd2_mod_pdm/props/mantle_indicator_decal/mantle_indicator_decal" unload="true"/>
+		<model path="units/pd2_mod_pdm/props/mantle_indicator_decal/mantle_indicator_decal" unload="true"/>
+		<material_config path="units/pd2_mod_pdm/props/mantle_indicator_decal/mantle_indicator_decal" unload="true"/>
+		<material_config path="units/pd2_mod_pdm/props/mantle_indicator_decal/mantle_indicator_decal_blue" unload="true"/>
+		<texture load="true" path="units/pd2_mod_pdm/props/mantle_indicator_decal/mantle_indicator_decal_df" unload="true"/>
+		<texture load="true" path="units/pd2_mod_pdm/props/mantle_indicator_decal/mantle_indicator_decal_op" unload="true"/>
+		<texture load="true" path="units/pd2_mod_pdm/props/mantle_indicator_decal/mantle_indicator_decal_blue_df" unload="true"/>
+		<sequence_manager path="units/pd2_mod_pdm/props/mantle_indicator_decal/mantle_indicator_decal" unload="true"/>
+	</add>
+	<add>
+		<bnk from_db="true" load="true" path="soundbanks/zipline" unload="true"/>
+		<material_config path="units/pd2_mod_pdm/props/grapple_point/grapple_point" unload="true"/>
+		<model path="units/pd2_mod_pdm/props/grapple_point/grapple_point" unload="true"/>
+		<object path="units/pd2_mod_pdm/props/grapple_point/grapple_point" unload="true"/>
+		<sequence_manager path="units/pd2_mod_pdm/props/grapple_point/grapple_point" unload="true"/>
+		<texture load="true" path="units/pd2_mod_pdm/props/grapple_point/gui_grapple_hook" unload="true"/>
+		<unit load="true" path="units/pd2_mod_pdm/props/grapple_point/grapple_point" unload="true"/>
+	</add>
 	<add from_db="true" path="effects/payday2/particles/wood/wood_door_shotgun_dmg_in" type="effect">
 		<effect load="true" path="effects/payday2/particles/wood/wood_door_shotgun_dmg_in"/>
 	</add>
@@ -37,17 +64,15 @@
 		<effect load="true" path="effects/payday2/particles/explosions/sparks/sparks"/>
 		<effect load="true" path="effects/payday2/particles/explosions/smoke_explosion/dark_smoke_big"/>
 	</add>
-
 	<add from_db="true">
 		<object path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
 		<unit path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
 		<material_config path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
 		<sequence_manager path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
-
 		<unit path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
 		<object path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
 		<material_config path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
 		<sequence_manager path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
 	</add>
-
+	<unit from_db="true" load="true" path="units/dev_tools/mission_elements/point_interaction/interaction_dummy"/>
 </table>

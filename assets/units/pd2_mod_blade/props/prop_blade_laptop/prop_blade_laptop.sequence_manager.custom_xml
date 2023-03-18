@@ -25,6 +25,28 @@
 			<check value="vars.var_diff == 6"/>
 		</filter>
 
+		<sequence editable_state="true" triggable="true" name="'diff_normal'">
+			<set_variable var_diff="0"/>
+		</sequence>
+		<sequence editable_state="true" triggable="true" name="'diff_hard'">
+			<set_variable var_diff="1"/>
+		</sequence>
+		<sequence editable_state="true" triggable="true" name="'diff_vhard'">
+			<set_variable var_diff="2"/>
+		</sequence>
+		<sequence editable_state="true" triggable="true" name="'diff_ovkl'">
+			<set_variable var_diff="3"/>
+		</sequence>
+		<sequence editable_state="true" triggable="true" name="'diff_mh'">
+			<set_variable var_diff="4"/>
+		</sequence>
+		<sequence editable_state="true" triggable="true" name="'diff_dw'">
+			<set_variable var_diff="5"/>
+		</sequence>
+		<sequence editable_state="true" triggable="true" name="'diff_ds'">
+			<set_variable var_diff="6"/>
+		</sequence>
+
 		<sequence editable_state="false" name="'starup_seq'" startup="true" triggable="false">
 			<function extension="'timer_gui'" function="'set_visible'" param1="false"/>
 		</sequence>

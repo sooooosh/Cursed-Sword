@@ -1,0 +1,15 @@
+<table>
+	<editor_groups/>
+	<instances/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="0 0 0" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_blade/props/prop_blade_laptop/prop_blade_laptop" name_id="prop_blade_laptop_001" position="0 0 0" rotation="-0 0 -0 -1" unit_id="100002"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="24.0018 -13.0009 1.849" _prev_rot="0 0 -0.707107 -0.707106" continent="world" local_pos="24.0018 -13.0009 1.849" local_rot="0 0 0.707107 0.707106" name="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick" name_id="pku_blade_usb_stick_001" position="24.0018 -13.0009 1.849" rotation="0 0 -0.707107 -0.707106" unit_id="100003"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>
