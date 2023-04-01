@@ -216,9 +216,28 @@
 		<unit path="units/pd2_indiana/props/mus_prop_exhibit_d_sword/mus_prop_exhibit_d_sword"/>
 	</add>
 	<add from_db="true" path="units/pd2_indiana/props/mus_prop_egypt_swords/mus_prop_egypt_swords" type="unit">
-		<unit path="units/pd2_indiana/props/mus_prop_egypt_swords/mus_prop_egypt_swords"/>
-		<object path="units/pd2_indiana/props/mus_prop_egypt_swords/mus_prop_egypt_swords"/>
 		<material_config path="units/pd2_indiana/props/mus_prop_egypt_swords/mus_prop_egypt_swords"/>
+		<object path="units/pd2_indiana/props/mus_prop_egypt_swords/mus_prop_egypt_swords"/>
 		<sequence_manager path="units/pd2_indiana/props/mus_prop_egypt_swords/mus_prop_egypt_swords"/>
+		<unit path="units/pd2_indiana/props/mus_prop_egypt_swords/mus_prop_egypt_swords"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_chew/props/chw_prop_drone_crate/chw_prop_drone_crate" type="unit">
+		<unit path="units/pd2_dlc_chew/props/chw_prop_drone_crate/chw_prop_drone_crate"/>
+		<object path="units/pd2_dlc_chew/props/chw_prop_drone_crate/chw_prop_drone_crate"/>
+		<sequence_manager path="units/pd2_dlc_chew/props/chw_prop_drone_crate/chw_prop_drone_crate"/>
+		<unit path="units/pd2_dlc_chew/props/chw_prop_drone_crate/chw_pku_drone_helmet_spawn"/>
+		<object path="units/pd2_dlc_chew/props/chw_prop_drone_crate/chw_pku_drone_helmet_spawn"/>
+		<sequence_manager path="units/pd2_dlc_chew/props/chw_prop_drone_crate/chw_pku_drone_helmet_spawn"/>
+		<material_config path="units/pd2_dlc_chew/props/chw_prop_drone_crate/chw_prop_drone_crate"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_chew/props/chw_prop_cargocrate/chw_prop_cargocrate_b" type="unit">
+		<material_config path="units/pd2_dlc_chew/props/chw_prop_cargocrate/chw_prop_cargocrate_a"/>
+		<object path="units/pd2_dlc_chew/props/chw_prop_cargocrate/chw_prop_cargocrate_b"/>
+		<unit path="units/pd2_dlc_chew/props/chw_prop_cargocrate/chw_prop_cargocrate_b"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_chew/props/chw_wooden_shipping_crate/chw_wooden_shipping_crate" type="unit">
+		<unit path="units/pd2_dlc_chew/props/chw_wooden_shipping_crate/chw_wooden_shipping_crate"/>
+		<object path="units/pd2_dlc_chew/props/chw_wooden_shipping_crate/chw_wooden_shipping_crate"/>
+		<material_config path="units/pd2_dlc_chew/props/chw_wooden_shipping_crate/chw_wooden_shipping_crate"/>
 	</add>
 </table>

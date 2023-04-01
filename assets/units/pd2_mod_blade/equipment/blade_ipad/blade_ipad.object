@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<dynamic_object>
+  <diesel materials="units/pd2_dlc_chas/props/chas_prop_ipad_and_iphone/chas_int_tablet" orientation_object="rp_ipad" />
+  <sequence_manager file="units/pd2_dlc_chas/props/chas_prop_ipad_and_iphone/chas_int_tablet" />
+  <bodies>
+    <body name="static_body" enabled="true" template="editor">
+      <object name="c_iphone" collision_type="box" />
+    </body>
+  </bodies>
+  <graphics>
+    <object name="g_iphone" enabled="true" />
+    <object name="g_display_on" enabled="false" />
+    <object name="g_display_off" enabled="true" />
+  </graphics>
+</dynamic_object>

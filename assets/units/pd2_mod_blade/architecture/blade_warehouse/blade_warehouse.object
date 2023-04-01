@@ -6,7 +6,8 @@
       <object name="g_ext_ground" enabled="true" collision_type="mesh_mopp" />
       <object name="g_ext_wall" enabled="true" collision_type="mesh_mopp" />
       <object name="g_int_wall" enabled="true" collision_type="mesh_mopp" />
-      <object name="g_ext_roof" enabled="true" collision_type="mesh_mopp" />
+      <!-- <object name="g_ext_roof" enabled="true" collision_type="mesh_mopp" /> -->
+      <object name="g_int_ground" enabled="true" collision_type="mesh_mopp" />
     </body>
   </bodies>
   
@@ -19,7 +20,8 @@
       <object name="g_ext_ground" enabled="true" />
       <object name="g_ext_wall" enabled="true"/>
       <object name="g_int_wall" enabled="true"/>
-      <object name="g_ext_roof" enabled="true"/>
+      <!-- <object name="g_ext_roof" enabled="true"/> -->
+      <object name="g_int_ground" enabled="true"/>
     </graphic_group>
   </graphics>
 </dynamic_object>

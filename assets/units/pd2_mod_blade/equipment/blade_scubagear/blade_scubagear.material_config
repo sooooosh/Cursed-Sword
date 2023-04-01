@@ -1,0 +1,11 @@
+<materials version="3">
+	<material name="mat_scubagear" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_dlc_glace/equipment/glc_interactable_scubagear/glc_interactable_scubagear_df" />
+		<bump_normal_texture file="units/pd2_dlc_glace/equipment/glc_interactable_scubagear/glc_interactable_scubagear_nm" />
+	</material>
+	<material name="mat_scubagear_lod" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_dlc_glace/equipment/glc_interactable_scubagear/glc_interactable_scubagear_df" mip="4" />
+		<bump_normal_texture file="units/pd2_dlc_glace/equipment/glc_interactable_scubagear/glc_interactable_scubagear_nm" mip="4" />
+	</material>
+	<material name="shadow_caster" render_template="shadow_caster_only" version="2" />
+</materials>

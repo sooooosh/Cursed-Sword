@@ -1,0 +1,75 @@
+<table>
+	<unit>
+		<sequence editable_state="true" name="'enable_interaction'" triggable="true">
+			<interaction enabled="true"/>
+			<graphic_group name="'grp_g'" visibility="false"/>
+			<graphic_group name="'grp_outline'" visibility="true"/>
+		</sequence>
+		<sequence editable_state="true" name="'disable_interaction'" triggable="true">
+			<interaction enabled="false"/>
+		</sequence>
+		<sequence editable_state="false" name="'interact'" triggable="false">
+			<run_sequence name="'state_off'"/>
+		</sequence>
+		<sequence editable_state="true" name="'hide'" triggable="true">
+			<interaction enabled="false"/>
+			<graphic_group name="'grp_g'" visibility="false"/>
+			<graphic_group name="'grp_outline'" visibility="false"/>
+			<sound action="'play'" event="'sah_hacking_device_data_transfer_finish'" source="'snd'"/>
+		</sequence>
+
+		<sequence editable_state="true" triggable="true" name="'state_off'">
+			<graphic_group name="'grp_g'" visibility="true"/>
+			<graphic_group name="'grp_outline'" visibility="false"/>
+			<interaction enabled="false"/>
+			<object name="'g_leds'" enabled="false"/>
+			<object name="'g_antena'" enabled="true"/>
+			<object name="'g_cable'" enabled="true"/>
+			<object name="'g_circuit'" enabled="true"/>
+			<object name="'g_connector'" enabled="true"/>
+			<object name="'g_screen'" enabled="true"/>
+			<object name="'g_screen_anim'" enabled="false"/>
+			<object name="'g_screen_jammed'" enabled="false"/>
+			<object name="'g_screen_off'" enabled="true"/>
+			<object name="'g_sticky'" enabled="true"/>
+			<object name="'g_tape'" enabled="true"/>
+			<sound action="'play'" event="'sah_hacking_device_data_transfer_finish'" source="'snd'"/>
+		</sequence>
+
+		<sequence editable_state="true" triggable="true" name="'state_on'">
+			<graphic_group name="'grp_g'" visibility="true"/>
+			<graphic_group name="'grp_outline'" visibility="false"/>
+			<interaction enabled="false"/>
+			<object name="'g_leds'" enabled="true"/>
+			<object name="'g_antena'" enabled="true"/>
+			<object name="'g_cable'" enabled="true"/>
+			<object name="'g_circuit'" enabled="true"/>
+			<object name="'g_connector'" enabled="true"/>
+			<object name="'g_screen'" enabled="true"/>
+			<object name="'g_screen_anim'" enabled="true"/>
+			<object name="'g_screen_jammed'" enabled="false"/>
+			<object name="'g_screen_off'" enabled="false"/>
+			<object name="'g_sticky'" enabled="true"/>
+			<object name="'g_tape'" enabled="true"/>
+			<sound action="'play'" event="'sah_hacking_device_data_transfer_loop'" source="'snd'"/>
+		</sequence>
+
+		<sequence editable_state="true" triggable="true" name="'state_jammed'">
+			<graphic_group name="'grp_g'" visibility="true"/>
+			<graphic_group name="'grp_outline'" visibility="false"/>
+			<interaction enabled="false"/>
+			<object name="'g_leds'" enabled="true"/>
+			<object name="'g_antena'" enabled="true"/>
+			<object name="'g_cable'" enabled="true"/>
+			<object name="'g_circuit'" enabled="true"/>
+			<object name="'g_connector'" enabled="true"/>
+			<object name="'g_screen'" enabled="true"/>
+			<object name="'g_screen_anim'" enabled="false"/>
+			<object name="'g_screen_jammed'" enabled="true"/>
+			<object name="'g_screen_off'" enabled="false"/>
+			<object name="'g_sticky'" enabled="true"/>
+			<object name="'g_tape'" enabled="true"/>
+			<sound action="'play'" event="'sah_hacking_device_data_transfer_finish'" source="'snd'"/>
+		</sequence>
+	</unit>
+</table>

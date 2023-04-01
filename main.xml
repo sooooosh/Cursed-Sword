@@ -4,7 +4,7 @@
 			<value_node value="package_blade"/>
 		</packages>
 	</instance>
-	<instance id="blade_empty_container">
+	<instance id="blade_locked_door">
 		<packages>
 			<value_node value="package_blade"/>
 		</packages>
@@ -25,6 +25,20 @@
 			<file path="scriptdata/customstuff.xml"/>
 		</xml>
 	</instance>
+	<instance id="blade_forklift">
+		<packages/>
+	</instance>
+	<instance id="blade_crate">
+		<packages>
+			<value_node value="package_blade"/>
+		</packages>
+		<xml>
+			<file path="scriptdata/customstuff.xml"/>
+		</xml>
+	</instance>
+	<AddFiles directory="assets">
+		<dds path="guis/textures/cn_map/cn_blade"/>
+	</AddFiles>
 	<Localization default="english.yaml" directory="loc">
 		<loc file="english.yaml" language="english"/>
 	</Localization>
@@ -56,10 +70,22 @@
 			<file path="scriptdata/customstuff.xml"/>
 		</xml>
 	</level>
-	<narrative briefing_event="" contact="pd2maps" id="blade">
+	<narrative briefing_event="" cn_map="new_york" contact="pd2maps" id="blade">
 		<chain>
 			<table level_id="blade" type="d" type_id="heist_type_assault"/>
 		</chain>
+		<cn_icon_id texture="guis/textures/cn_map/cn_blade">
+			<texture_rect>
+				<value_node value="0"/>
+				<value_node value="0"/>
+				<value_node value="85"/>
+				<value_node value="60"/>
+			</texture_rect>
+		</cn_icon_id>
+		<cn_position>
+			<value_node value="770"/>
+			<value_node value="1885"/>
+		</cn_position>
 		<contract_cost>
 			<value_node value="4000"/>
 			<value_node value="8000"/>

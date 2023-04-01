@@ -1,0 +1,15 @@
+<materials version="3" group="security_door_material">
+    <material render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:GSMA_TEXTURE:NORMALMAP" name="mat_door" version="2">
+        <bump_normal_texture file="units/payday2/props/gen_prop_door_metal/gen_prop_door_metal_nm"/>
+        <diffuse_texture file="units/payday2/props/gen_prop_door_metal/gen_prop_door_metal_df"/>
+        <reflection_texture file="units/payday2/cubemaps/cubemap_steel" type="cubemap"/>
+        <material_texture file="units/payday2/props/gen_prop_door_metal/gen_prop_door_metal_gsma"/>
+    </material>
+    <material render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:GSMA_TEXTURE:NORMALMAP:SIMPLE_TINT" name="mat_door_darker" version="2">
+        <bump_normal_texture file="units/payday2/props/gen_prop_door_metal/gen_prop_door_metal_nm"/>
+        <diffuse_texture file="units/payday2/props/gen_prop_door_metal/gen_prop_door_metal_df"/>
+        <reflection_texture file="units/payday2/cubemaps/cubemap_steel" type="cubemap"/>
+        <material_texture file="units/payday2/props/gen_prop_door_metal/gen_prop_door_metal_gsma"/>
+        <variable type="vector3" name="tint_color" value="0.29411765933037 0.29411765933037 0.29411765933037"/>
+    </material>
+</materials>

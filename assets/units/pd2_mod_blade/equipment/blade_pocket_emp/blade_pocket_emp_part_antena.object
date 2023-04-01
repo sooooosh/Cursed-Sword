@@ -1,0 +1,21 @@
+<dynamic_object>
+	<diesel materials="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp" orientation_object="rp_hacking_device" />
+	<sequence_manager file="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp_parts" />
+	<bodies>
+		<body name="body_static" enabled="true" template="editor">
+			<object name="rp_hacking_device" collision_type="box" padding="-2.5"/>
+		</body>
+	</bodies>
+	<graphics>
+		<graphic_group name="g_grp" enabled="true">
+			<object name="g_antena"			enabled="true" />
+		</graphic_group>
+
+		<graphic_group name="grp_outline" enabled="true">
+			<lod_object name="lod_outline">
+				<object name="o_antena" 			enabled="true"  max_distance="500" />
+				<!-- <object name="g_outline_lod1" 	enabled="true" /> -->
+			</lod_object>
+		</graphic_group>
+	</graphics>
+</dynamic_object>

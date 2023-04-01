@@ -1,0 +1,13 @@
+<unit type="blade" slot="1">
+	<object file="units/pd2_mod_blade/equipment/blade_scubagear/blade_scubagear" />
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="damage" class="UnitDamage" />
+		<extension name="interaction" class="SpecialEquipmentInteractionExt">
+			<var name="tweak_data" value="blade_take_scubagear" />
+			<var name="_special_equipment" value="blade_scubagear" />
+			<var name="_remove_on_interact" value="false" />
+			<var name="_global_event" value="pku_blade_scuba"/>
+		</extension>
+	</extensions>
+</unit>

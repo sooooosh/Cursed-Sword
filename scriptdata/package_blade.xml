@@ -5,18 +5,47 @@
 		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick"/>
 		<material_config path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick_outline"/>
 		<material_config from_db="true" path="units/payday2/props/ind_prop_mill_lumber_stacks/ind_prop_mill_lumber_stacks"/>
-		<texture path="units/pd2_mod_kms/props/forklift_goal_marker/forklift_goal_marker_df"/>
-		<unit_mat path="units/pd2_mod_kms/props/forklift_goal_marker/forklift_goal_marker"/>
 		<unit_obj path="units/pd2_mod_blade/props/prop_blade_lumber_shelf/prop_blade_lumber_shelf"/>
 		<unit_obj path="units/pd2_mod_blade/props/prop_blade_lumber_shelf/prop_blade_lumber_1"/>
 		<unit_obj path="units/pd2_mod_blade/props/prop_blade_lumber_shelf/prop_blade_lumber_2"/>
+		<texture path="units/pd2_mod_kms/props/forklift_goal_marker/forklift_goal_marker_df"/>
+		<unit_mat path="units/pd2_mod_kms/props/forklift_goal_marker/forklift_goal_marker"/>
+		<unit_mat_seq path="units/pd2_mod_blade/props/area_defend_marker/area_defend_marker"/>
+		<material_config path="units/pd2_mod_blade/props/area_defend_marker/area_defend_marker_red"/>
+		<texture path="units/pd2_mod_blade/props/area_defend_marker/red_fade"/>
+		<texture path="guis/textures/blade_equipment"/>
+		<unit_obj path="units/pd2_mod_blade/props/blade_goal_marker_1x5/blade_goal_marker_1x5"/>
+		<material_config path="units/pd2_dlc_arena/dev/are_gen_square_goal_marker_2_4x4_35/are_gen_square_goal_marker_2_4x4_35" from_db="true"/>
+		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_breakerbox/prop_blade_breakerbox"/>
+		<texture path="units/pd2_mod_blade/props/prop_blade_breakerbox/breakerbox_lights_df"/>
+		<texture path="units/pd2_mod_blade/props/prop_blade_breakerbox/breakerbox_lights_il"/>
+		<unit_obj path="units/pd2_mod_blade/props/prop_workbench/prop_workbench"/>
+		<unit_mat_seq path="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp"/>
+		<texture path="units/pd2_mod_blade/equipment/blade_pocket_emp/screen_error_df"/>
+		<sequence_manager path="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp_parts"/>
+		<!-- <unit_obj path="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp_part_antena"/> -->
+		<unit_obj path="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp_part_cable"/>
+		<unit_obj path="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp_part_circuit"/>
+		<unit_obj path="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp_part_screen"/>
+		<!-- <unit_obj path="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp_part_tape"/> -->
+		<unit_obj path="units/pd2_mod_blade/equipment/blade_pocket_emp/pku_blade_circuit"/>
+		<unit_obj_seq path="units/pd2_mod_blade/equipment/blade_pocket_emp/pku_blade_pocket_emp"/>
+		
+		<unit path="units/pd2_mod_blade/equipment/blade_ipad/blade_ipad"/>
+		<object path="units/pd2_dlc_chas/props/chas_prop_ipad_and_iphone/chas_int_tablet" from_db="true"/>
+		<model path="units/pd2_dlc_chas/props/chas_prop_ipad_and_iphone/chas_int_tablet" from_db="true"/>
+		<material_config path="units/pd2_dlc_chas/props/chas_prop_ipad_and_iphone/chas_int_tablet" from_db="true"/>
+		<sequence_manager path="units/pd2_dlc_chas/props/chas_prop_ipad_and_iphone/chas_int_tablet" from_db="true"/>
 	</add>
 	<add auto_cp="false">
 		<unit_mat_seq path="units/pd2_mod_fuel/props/fuel_prop_battery/fuel_prop_battery"/>
 		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_laptop/prop_blade_laptop"/>
+		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_metaldoor/prop_blade_metaldoor"/>
 		<texture path="units/pd2_mod_fuel/props/fuel_prop_battery/fuel_prop_battery_df"/>
 		<unit_mat path="units/pd2_mod_blade/architecture/blade_warehouse/blade_warehouse"/>
+		<unit_mat_seq path="units/pd2_mod_blade/equipment/blade_scubagear/blade_scubagear"/>
 	</add>
+	<!-- mantle points -->
 	<add>
 		<unit load="true" path="units/pd2_mod_pdm/props/mantle_point/mantle_point" unload="true"/>
 		<object path="units/pd2_mod_pdm/props/mantle_point/mantle_point" unload="true"/>
@@ -51,6 +80,7 @@
 		<texture load="true" path="units/pd2_mod_pdm/props/grapple_point/gui_grapple_hook" unload="true"/>
 		<unit load="true" path="units/pd2_mod_pdm/props/grapple_point/grapple_point" unload="true"/>
 	</add>
+	<!-- dependency stuff-->
 	<add from_db="true" path="effects/payday2/particles/wood/wood_door_shotgun_dmg_in" type="effect">
 		<effect load="true" path="effects/payday2/particles/wood/wood_door_shotgun_dmg_in"/>
 	</add>

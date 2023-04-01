@@ -1,0 +1,38 @@
+<table>
+	<unit>
+		<sequence editable_state="true" triggable="true" name="'interaction_enabled'">
+			<interaction enabled="true"/>
+		</sequence>
+		<sequence editable_state="true" triggable="true" name="'interaction_disabled'">
+			<interaction enabled="false"/>
+		</sequence>
+
+		<sequence editable_state="true" triggable="true" name="'state_hide'">
+			<body name="'body_static'" enabled="false"/>
+			<decal_mesh name="'dm_cloth'" enabled="false"/>
+			<decal_mesh name="'dm_metal'" enabled="false"/>
+			<decal_mesh name="'dm_rubber'" enabled="false"/>
+			<object name="'g_lod0'" enabled="false"/>
+			<object name="'g_lod1'" enabled="false"/>
+			<object name="'g_lod2'" enabled="false"/>
+			<object name="'s_s'" enabled="false"/>
+		</sequence>
+
+		<sequence editable_state="true" triggable="true" name="'state_show'">
+			<body name="'body_static'" enabled="true"/>
+			<decal_mesh name="'dm_cloth'" enabled="true"/>
+			<decal_mesh name="'dm_metal'" enabled="true"/>
+			<decal_mesh name="'dm_rubber'" enabled="true"/>
+			<object name="'g_lod0'" enabled="true"/>
+			<object name="'g_lod1'" enabled="true"/>
+			<object name="'g_lod2'" enabled="true"/>
+			<object name="'s_s'" enabled="true"/>
+		</sequence>
+
+		<sequence editable_state="true" triggable="true" name="'load'">
+			<run_sequence name="'state_hide'"/>
+			<sound action="'play'" event="'bag_medium_drop'" object="'rp_glc_interactable_scubagear'"/>
+		</sequence>
+
+	</unit>
+</table>

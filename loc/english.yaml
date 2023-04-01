@@ -1,11 +1,61 @@
 # Interactions
-hud_blade_hack_it_laptop: "Hold $BTN_INTERACT to create unlock USB"
+hud_blade_play_voicemail: "Hold $BTN_INTERACT to search voicemails"
+hud_blade_hack_it_laptop: "Hold $BTN_INTERACT to download the unlock software"
 hud_blade_take_usb: "Press $BTN_INTERACT to take USB stick"
 hud_blade_place_usb: "Press $BTN_INTERACT to plug in USB stick"
+hud_blade_take_scubagear: "Hold $BTN_INTERACT to pick up scuba gear"
+hud_blade_hook_batteries: "Hold $BTN_INTERACT to hook up batteries"
+hud_blade_take_circuit: "Hold $BTN_INTERACT to pick up circuit board"
+# hud_blade_take_antena: "Hold $BTN_INTERACT to pick up antenna"
+hud_blade_take_screen: "Hold $BTN_INTERACT to pick up Tablet"
+# hud_blade_take_tape: "Hold $BTN_INTERACT to pick up duct tape"
+# hud_blade_place_antena: "Hold $BTN_INTERACT to attach antenna"
+hud_blade_place_circuit: "Hold $BTN_INTERACT to attach circuit"
+hud_int_hint_blade_circuit: "You need a Circuit Board"
+hud_blade_place_screen: "Hold $BTN_INTERACT to attach screen"
+hud_int_hint_blade_screen: "You need a Tablet"
+# hud_blade_place_tape: "Hold $BTN_INTERACT to attach duct tape"
+hud_blade_place_wire: "Hold $BTN_INTERACT to attach wires"
+hud_int_hint_blade_wire: "You need wires"
+hud_blade_craft_jammer: "Hold $BTN_INTERACT to take Pocket EMP"
+hud_blade_place_jammer: "Hold $BTN_INTERACT to place Pocket EMP"
+hud_int_hint_blade_jammer: "You need the Pocket EMP"
+# Equipment
+# hud_equipment_blade_antena: "Antenna"
+hud_equipment_blade_circuit: "Circuit Board"
+hud_equipment_blade_screen: "Tablet"
+hud_equipment_blade_jammer: "Pocket EMP"
+hud_equipment_blade_scubagear: "Scuba Gear"
 # Objectives
 obj_blade_01: "Enter the warehouse"
 obj_blade_01_desc: "Find a way into the warehouse."
-obj_blade_02: "Find the sword"
-obj_blade_02_desc: "The sword is hidden somewhere in here, there might be clues around the place.\nMaybe the triad's have something on them that could help, or maybe some shipping logs somewhere."
+obj_blade_02: "Find the correct container"
+obj_blade_02_desc: |
+  The sword is hidden somewhere in a container, there must be clues around the place.
+  Maybe the triads have something on them that could help, or maybe some shipping logs somewhere.
+obj_blade_03: "Open the container"
+obj_blade_03_stealth_desc: |
+  The container is secured with a lock and high voltage power.
+  Ripping out the cable doesn't seem to be an option but it can probably be jammed somehow.
+obj_blade_03_loud_desc: |
+  The container is secured with a lock and high voltage power.
+  The alarm is preventing any jamming but overloading the main power could collapse the system.
+obj_blade_04: "Signal the pilot"
+obj_blade_04_desc: |
+  Light a flare on the roof to signal the landing zone for the pilot.
+obj_blade_05: "Clear the roof while waiting for the pilot"
+obj_blade_05_desc: |
+  The pilot needs the landing zone clear of any cops. Make sure there are no cops on the roof.
+obj_blade_06: "Keep the landing zone clear and secure the loot"
+obj_blade_06_desc: |
+  Secure the loot but don't let the cops get near the helicopter. 
+obj_blade_07: "Take the Scubagear and escape or secure more loot"
+obj_blade_07_desc: |
+  Take the scuba gear you used to get here and escape under the cover of the river.
+obj_blade_08: "Secure the sword"
+obj_blade_08_desc: |
+  Set up a zipline to the boat and secure the sword.
 # Misc
 prop_laptop_download: "Transfering files..."
+hud_int_press_mantle_point: "Press $BTN_INTERACT to climb"
+hud_int_hold_grapple_point: "hold $BTN_INTERACT to grapple up"

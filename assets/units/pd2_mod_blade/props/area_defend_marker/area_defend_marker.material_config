@@ -1,0 +1,15 @@
+<materials version="3">
+    <material render_template="effect:DIFFUSE0_TEXTURE:DIFFUSE0_UVANIM" name="anim" version="2">
+        <diffuse_texture file="units/payday2/props/shared_textures/goal_df"/>
+        <variable type="scalar" name="intensity" value="sun"/>
+        <variable type="vector3" name="uv0_speed" value="1 0 0"/>
+    </material>
+    <material render_template="effect:DIFFUSE0_TEXTURE" name="area" version="2">
+        <diffuse_texture file="units/gui/area_indicator_df"/>
+        <variable type="scalar" name="intensity" value="identity"/>
+    </material>
+    <material render_template="effect:DIFFUSE0_TEXTURE" name="mat_fade" version="2">
+        <diffuse_texture file="guis/textures/empty"/>
+        <variable type="scalar" name="intensity" value="sun"/>
+    </material>
+</materials>

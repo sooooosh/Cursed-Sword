@@ -36,13 +36,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="-73.158 -18.389 10.774" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc1/equipment/gen_interactable_spawn_contraband_crate_2x1x1m/gen_interactable_spawn_contraband_crate_2x1x1m" name_id="gen_interactable_spawn_contraband_crate_2x1x1m_001" position="-73.158 -18.389 10.774" rotation="-0 0 -0 -1" unit_id="100007"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-119.448 375.763 0" _prev_rot="0 -0.707107 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_interaction" name="units/payday2/pickups/gen_pku_crowbar/gen_pku_crowbar" name_id="gen_pku_crowbar_001" position="-119.448 375.763 0" rotation="0.5 0.5 -0.5 0.5" unit_id="100009"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="137 223 80" _prev_rot="0 -0.707107 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_pex/props/pex_prop_hacking_device/pex_prop_hacking_device" name_id="pex_prop_hacking_device_001" position="137 223 80" rotation="0 -0.707107 0 -0.707107" unit_id="100011"/>
+			<unit_data _prev_pos="-73.158 31.611 13.774" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc1/equipment/gen_interactable_spawn_contraband_crate_2x1x1m/gen_interactable_spawn_contraband_crate_2x1x1m" name_id="gen_interactable_spawn_contraband_crate_2x1x1m_001" position="-73.158 31.611 13.774" rotation="0 0 0 -1" unit_id="100007"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="130 200 50" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/fixtures/fixtures_electricbox_a" name_id="fixtures_electricbox_a_001" position="130 225 75" rotation="0 0 1 -4.37114e-008" unit_id="100005"/>
@@ -51,7 +45,28 @@
 			<unit_data _prev_pos="-175 250 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_001" position="-175 75 0" rotation="0 0 0 -1" unit_id="100014"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-75 0 75" _prev_rot="-0.5 0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_indiana/props/mus_prop_chivalry_weapons/mus_prop_chivalry_weapon_broadsword" name_id="mus_prop_chivalry_weapon_broadsword_001" position="-75 0 56" rotation="-0.5 0.5 -0.5 -0.5" unit_id="100015"/>
+			<unit_data _prev_pos="-75 0 56" _prev_rot="-0.5 0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_indiana/props/mus_prop_chivalry_weapons/mus_prop_chivalry_weapon_broadsword" name_id="mus_prop_chivalry_weapon_broadsword_001" position="-75 75 56" rotation="-0.5 0.5 -0.5 -0.5" unit_id="100015"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="137 223 80" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp" name_id="blade_pocket_emp_001" position="137 223 80" rotation="0 0 -0.707107 -0.707107" unit_id="100006"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="84.842 -181.389 13.774" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc1/equipment/gen_interactable_spawn_contraband_crate_2x1x1m/gen_interactable_spawn_contraband_crate_2x1x1m" name_id="gen_interactable_spawn_contraband_crate_2x1x1m_002" position="84.842 -181.389 13.774" rotation="0 0 1 4.37114e-008" unit_id="100009"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="84.842 131.611 13.774" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc1/equipment/gen_interactable_spawn_contraband_crate_2x1x1m/gen_interactable_spawn_contraband_crate_2x1x1m" name_id="gen_interactable_spawn_contraband_crate_2x1x1m_003" position="84.842 131.611 13.774" rotation="0 0 1 4.37114e-008" unit_id="100010"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="102.786 191.646 45.4199" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/pickups/gen_pku_gold/gen_pku_gold" name_id="gen_pku_gold_001" position="102.786 166.646 45.4199" rotation="0 0 0.707107 -0.707107" unit_id="100011"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="102.786 -158.354 45.4199" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/pickups/gen_pku_gold/gen_pku_gold" name_id="gen_pku_gold_002" position="102.786 -158.354 45.4199" rotation="0 0 0.707107 -0.707107" unit_id="100012"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-58.2137 -164.354 43.4199" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/pickups/gen_pku_gold/gen_pku_gold" name_id="gen_pku_gold_003" position="-67.2137 -164.354 43.4199" rotation="0 0 0.707107 -0.707107" unit_id="100013"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-83.158 -193.389 13.774" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc1/equipment/gen_interactable_spawn_contraband_crate_2x1x1m/gen_interactable_spawn_contraband_crate_2x1x1m" name_id="gen_interactable_spawn_contraband_crate_2x1x1m_004" position="-83.158 -193.389 13.774" rotation="-0 0 -0 -1" unit_id="100008"/>
 		</table>
 	</statics>
 	<values>

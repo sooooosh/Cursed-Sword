@@ -1,0 +1,10 @@
+<materials version="3" group="suburbia_circuitbreaker">
+    <material render_template="generic:DIFFUSE_TEXTURE" name="suburbia_circuitbreaker" version="2">
+        <diffuse_texture file="units/world/props/suburbia_circuitbreaker/suburbia_circuitbreaker_df"/>
+    </material>
+    <material unique="true" render_template="generic:DIFFUSE_TEXTURE:SELF_ILLUMINATION" name="mat_breakerlights" version="2">
+        <diffuse_texture file="units/pd2_mod_blade/props/prop_blade_breakerbox/breakerbox_lights_df"/>
+        <variable type="scalar" name="il_multiplier" value="sun"/>
+        <self_illumination_texture file="units/pd2_mod_blade/props/prop_blade_breakerbox/breakerbox_lights_il"/>
+    </material>
+</materials>

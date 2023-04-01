@@ -1,0 +1,23 @@
+<table>
+	<unit>
+		<sequence editable_state="false" triggable="false" name="'setup'">
+			<graphic_group name="'g_grp'" visibility="false"/>
+			<graphic_group name="'grp_outline'" visibility="false"/>
+			<interaction enabled="false"/>
+		</sequence>
+		<sequence editable_state="true" name="'enable_interaction'" triggable="true">
+			<interaction enabled="true"/>
+			<graphic_group name="'grp_outline'" visibility="true"/>
+		</sequence>
+		<sequence editable_state="true" name="'disable_interaction'" triggable="true">
+			<interaction enabled="false"/>
+			<graphic_group name="'grp_outline'" visibility="false"/>
+			<graphic_group name="'g_grp'" visibility="false"/>
+		</sequence>
+		<sequence editable_state="false" name="'interact'" triggable="false">
+			<graphic_group name="'g_grp'" visibility="true"/>
+			<graphic_group name="'grp_outline'" visibility="false"/>
+			<interaction enabled="false"/>
+		</sequence>
+	</unit>
+</table>

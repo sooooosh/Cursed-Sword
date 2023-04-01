@@ -1,5 +1,11 @@
 <table>
 	<objective description="obj_blade_01_desc" id="blade_01" text="obj_blade_01"/>
 	<objective description="obj_blade_02_desc" id="blade_02" text="obj_blade_02"/>
-	<objective description="blade_03_desc" id="blade_03" text="blade_03"/>
+	<objective description="obj_blade_03_stealth_desc" id="blade_03_stealth" text="obj_blade_03"/>
+	<objective description="obj_blade_03_loud_desc" id="blade_03_loud" text="obj_blade_03"/>
+	<objective description="obj_blade_04_desc" id="blade_04" text="obj_blade_04"/>
+	<objective description="obj_blade_05_desc" id="blade_05" text="obj_blade_05"/>
+	<objective description="obj_blade_06_desc" id="blade_06" text="obj_blade_06"/>
+	<objective description="obj_blade_07_desc" id="blade_07" text="obj_blade_07"/>
+	<objective description="obj_blade_08_desc" id="blade_08" text="obj_blade_08"/>
 </table>

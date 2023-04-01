@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<unit type="gen" slot="1">
+  <object file="units/pd2_dlc_chas/props/chas_prop_ipad_and_iphone/chas_int_tablet" />
+   <network sync="spawn"/>
+  <extensions>
+    <extension name="unit_data" class="ScriptUnitData" />
+	<extension name="damage" class="UnitDamage" />
+   <extension name="interaction" class="SpecialEquipmentInteractionExt">
+      <var name="tweak_data" value="blade_take_screen" />
+      <var name="_special_equipment" value="blade_screen" />
+      <var name="_remove_on_interact" value="true" />
+    </extension>
+  </extensions>
+</unit>
+
+
+

@@ -1,0 +1,8 @@
+<unit type="blade" slot="1" >
+  <object file="units/pd2_mod_blade/props/prop_blade_breakerbox/prop_blade_breakerbox" />
+  <network sync="spawn"/>
+  <extensions>
+    <extension name="unit_data" class="ScriptUnitData" />
+    <extension name="damage" class="UnitDamage" />
+  </extensions>
+</unit>
