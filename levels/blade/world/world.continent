@@ -2929,7 +2929,7 @@
 			<unit_data _prev_pos="4465.61 1225.1 -300" _prev_rot="0 0 0.997564 0.0697564" continent="world" disable_collision="true" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_opened" name="units/payday2/equipment/gen_interactable_zipline/gen_interactable_zipline_mount_ground" name_id="gen_interactable_zipline_mount_ground_001" position="4465.61 1225.1 -300" rotation="0 0 0.997564 0.0697564" unit_id="101010"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="4483.71 1353.84 -306" _prev_rot="0 0 0.997564 0.0697564" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_zipline_enable" name="units/payday2/equipment/gen_equipment_zipline_motor/gen_equipment_zipline_motor" name_id="gen_equipment_zipline_motor_001" position="4483.71 1353.84 -301" rotation="0 0 0.997564 0.0697564" unit_id="101011">
+			<unit_data _prev_pos="4482.88 1347.9 -309" _prev_rot="0 0 0.997564 0.0697564" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_zipline_enable" name="units/payday2/equipment/gen_equipment_zipline_motor/gen_equipment_zipline_motor" name_id="gen_equipment_zipline_motor_001" position="4482.46 1344.93 -309" rotation="0 0 0.997564 0.0697564" unit_id="101011">
 				<zipline end_pos="8025 25925 -132.524" slack="120" speed="2200" usage_type="bag"/>
 			</unit_data>
 		</table>
@@ -3218,6 +3218,9 @@
 					<table clipping_values="10000 -10000 0" color="0 0.980392 0" enabled="true" falloff_exponent="1" far_range="617" multiplier="@IDbca13ba1d306f87b@" name="lo_omni" near_range="10" spot_angle_end="1" spot_angle_start="1"/>
 				</lights>
 			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="8000 25925 -225" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="anim_pig_idle" name="units/pd2_dlc_pda9/props/pda9_piggybank/pda9_prop_piggybank_level_1" name_id="pda9_prop_piggybank_level_1_001" position="8025 25925 -225" rotation="0 0 1 4.37114e-008" unit_id="101057"/>
 		</table>
 	</statics>
 	<values>

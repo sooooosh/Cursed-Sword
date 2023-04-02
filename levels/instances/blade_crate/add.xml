@@ -77,9 +77,16 @@
 		<unit path="units/payday2/props/gen_prop_methlab_meth_liquid_1/gen_prop_methlab_meth_liquid_1"/>
 	</add>
 	<add from_db="true" path="units/payday2/pickups/gen_pku_cocaine/gen_pku_cocaine" type="unit">
-		<unit path="units/payday2/pickups/gen_pku_cocaine/gen_pku_cocaine"/>
-		<object path="units/payday2/pickups/gen_pku_cocaine/gen_pku_cocaine"/>
 		<material_config path="units/payday2/pickups/gen_pku_cocaine/gen_pku_cocaine"/>
+		<object path="units/payday2/pickups/gen_pku_cocaine/gen_pku_cocaine"/>
 		<sequence_manager path="units/payday2/pickups/gen_pku_cocaine/gen_pku_cocaine"/>
+		<unit path="units/payday2/pickups/gen_pku_cocaine/gen_pku_cocaine"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_arena/pickups/gen_pku_money_plasic_wrapped/gen_pku_money_plasic_wrapped" type="unit">
+		<unit path="units/pd2_dlc_arena/pickups/gen_pku_money_plasic_wrapped/gen_pku_money_plasic_wrapped"/>
+		<object path="units/pd2_dlc_arena/pickups/gen_pku_money_plasic_wrapped/gen_pku_money_plasic_wrapped"/>
+		<material_config path="units/pd2_dlc_arena/pickups/gen_pku_money_plasic_wrapped/gen_pku_money_plasic_wrapped"/>
+		<sequence_manager path="units/pd2_dlc_arena/pickups/gen_pku_money_plasic_wrapped/gen_pku_money_plasic_wrapped"/>
+		<effect load="true" path="effects/payday2/particles/grab/grab_money"/>
 	</add>
 </table>

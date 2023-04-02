@@ -47,21 +47,11 @@
             interact_distance="100"
             special_equipment_block="wire"
         />
-        <!-- <interaction
-            id="blade_take_antena"
-            interact_distance="150"
-            special_equipment_block="blade_antena"
-        /> -->
         <interaction
             id="blade_take_screen"
             interact_distance="100"
             special_equipment_block="blade_screen"
         />
-        <!-- <interaction
-            id="blade_take_tape"
-            interact_distance="100"
-            special_equipment_block="tape"
-        /> -->
 
         <interaction
             id="blade_place_circuit"
@@ -79,13 +69,6 @@
             equipment_text_id="hud_int_hint_blade_wire"
             equipment_consume="true"
         />
-        <!-- <interaction
-            id="blade_place_antena"
-            interact_distance="100"
-            special_equipment="blade_antena"
-            equipment_text_id="hud_int_hint_blade_antena"
-            equipment_consume="true"
-        /> -->
         <interaction
             id="blade_place_screen"
             timer="3"
@@ -94,13 +77,6 @@
             equipment_text_id="hud_int_hint_blade_screen"
             equipment_consume="true"
         />
-        <!-- <interaction
-            id="blade_place_tape"
-            interact_distance="100"
-            special_equipment="tape"
-            equipment_text_id="hud_int_hint_blade_tape"
-            equipment_consume="true"
-        /> -->
 
         <interaction
             id="blade_craft_jammer"
@@ -125,6 +101,14 @@
             id="blade_hook_batteries"
             interact_distance="100"
             timer="5"
+        />
+        <interaction 
+            id="blade_open_container"
+            action_text_id="hud_action_unlock_gate"
+            axis="y"
+            timer="1"
+            interact_distance="250"
+            start_active="false"
         />
 
         <!-- mantle points -->

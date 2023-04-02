@@ -6,22 +6,18 @@ hud_blade_place_usb: "Press $BTN_INTERACT to plug in USB stick"
 hud_blade_take_scubagear: "Hold $BTN_INTERACT to pick up scuba gear"
 hud_blade_hook_batteries: "Hold $BTN_INTERACT to hook up batteries"
 hud_blade_take_circuit: "Hold $BTN_INTERACT to pick up circuit board"
-# hud_blade_take_antena: "Hold $BTN_INTERACT to pick up antenna"
 hud_blade_take_screen: "Hold $BTN_INTERACT to pick up Tablet"
-# hud_blade_take_tape: "Hold $BTN_INTERACT to pick up duct tape"
-# hud_blade_place_antena: "Hold $BTN_INTERACT to attach antenna"
 hud_blade_place_circuit: "Hold $BTN_INTERACT to attach circuit"
 hud_int_hint_blade_circuit: "You need a Circuit Board"
 hud_blade_place_screen: "Hold $BTN_INTERACT to attach screen"
 hud_int_hint_blade_screen: "You need a Tablet"
-# hud_blade_place_tape: "Hold $BTN_INTERACT to attach duct tape"
 hud_blade_place_wire: "Hold $BTN_INTERACT to attach wires"
 hud_int_hint_blade_wire: "You need wires"
 hud_blade_craft_jammer: "Hold $BTN_INTERACT to take Pocket EMP"
 hud_blade_place_jammer: "Hold $BTN_INTERACT to place Pocket EMP"
 hud_int_hint_blade_jammer: "You need the Pocket EMP"
+hud_blade_open_container: "Hold $BTN_INTERACT to open container"
 # Equipment
-# hud_equipment_blade_antena: "Antenna"
 hud_equipment_blade_circuit: "Circuit Board"
 hud_equipment_blade_screen: "Tablet"
 hud_equipment_blade_jammer: "Pocket EMP"
@@ -40,6 +36,9 @@ obj_blade_03_stealth_desc: |
 obj_blade_03_loud_desc: |
   The container is secured with a lock and high voltage power.
   The alarm is preventing any jamming but overloading the main power could collapse the system.
+obj_blade_03b: "Investigate the Container"
+obj_blade_03b_desc: |
+  Check the opened container and look for the sword.
 obj_blade_04: "Signal the pilot"
 obj_blade_04_desc: |
   Light a flare on the roof to signal the landing zone for the pilot.

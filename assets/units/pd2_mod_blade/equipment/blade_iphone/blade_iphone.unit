@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <unit type="kitteh" slot="1">
   <object file="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone" />
-   <network sync="spawn"/>
+  <network sync="spawn"/>
   <extensions>
     <extension name="unit_data" class="ScriptUnitData" />
     <extension name="damage" class="UnitDamage" />

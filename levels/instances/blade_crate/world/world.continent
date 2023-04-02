@@ -21,16 +21,16 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="-96 -9 8" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_lxy/pickups/lxy_bookshelf_money_plastic_wrapped" name_id="lxy_bookshelf_money_plastic_wrapped_001" position="4 -9 8" rotation="0 0 0 -1" unit_id="100004"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="-182 29 34" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/pickups/gen_pku_gold/gen_pku_gold" name_id="gen_pku_gold_001" position="18 29 34" rotation="0 0 0.707107 -0.707107" unit_id="100003"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-300 0 28" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/pickups/gen_pku_cocaine/gen_pku_cocaine" name_id="gen_pku_cocaine_001" position="0 0 28" rotation="0 0 -0.707107 -0.707107" unit_id="100005"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-400 0 34" _prev_rot="-0.0174524 0 0 -0.999848" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/equipment/gen_interactable_weapon_case_2x1/gen_interactable_weapon_case_2x1" name_id="gen_interactable_weapon_case_2x1_001" position="0 0 34" rotation="-0.0174524 0 0 -0.999848" unit_id="100006"/>
+			<unit_data _prev_pos="-200 0 34" _prev_rot="-0.0174524 0 0 -0.999848" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/equipment/gen_interactable_weapon_case_2x1/gen_interactable_weapon_case_2x1" name_id="gen_interactable_weapon_case_2x1_001" position="0 0 34" rotation="-0.0174524 0 0 -0.999848" unit_id="100006"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 -82 27" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_arena/pickups/gen_pku_money_plasic_wrapped/gen_pku_money_plasic_wrapped" name_id="gen_pku_money_plasic_wrapped_001" position="0 -7 27" rotation="-0 0 -0 -1" unit_id="100007"/>
 		</table>
 	</statics>
 	<values>

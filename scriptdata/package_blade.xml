@@ -1,8 +1,8 @@
 <table directory="assets">
 	<add>
-		<unit_mat_seq path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
-		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick"/>
-		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick"/>
+		<unit_mat_seq path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone" load="true"/>
+		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick" load="true"/>
+		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick" load="true"/>
 		<material_config path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick_outline"/>
 		<material_config from_db="true" path="units/payday2/props/ind_prop_mill_lumber_stacks/ind_prop_mill_lumber_stacks"/>
 		<unit_obj path="units/pd2_mod_blade/props/prop_blade_lumber_shelf/prop_blade_lumber_shelf"/>
@@ -20,7 +20,7 @@
 		<texture path="units/pd2_mod_blade/props/prop_blade_breakerbox/breakerbox_lights_df"/>
 		<texture path="units/pd2_mod_blade/props/prop_blade_breakerbox/breakerbox_lights_il"/>
 		<unit_obj path="units/pd2_mod_blade/props/prop_workbench/prop_workbench"/>
-		<unit_mat_seq path="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp"/>
+		<unit_mat_seq path="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp" load="true"/>
 		<texture path="units/pd2_mod_blade/equipment/blade_pocket_emp/screen_error_df"/>
 		<sequence_manager path="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp_parts"/>
 		<!-- <unit_obj path="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp_part_antena"/> -->
@@ -39,7 +39,7 @@
 	</add>
 	<add auto_cp="false">
 		<unit_mat_seq path="units/pd2_mod_fuel/props/fuel_prop_battery/fuel_prop_battery"/>
-		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_laptop/prop_blade_laptop"/>
+		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_laptop/prop_blade_laptop" load="true"/>
 		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_metaldoor/prop_blade_metaldoor"/>
 		<texture path="units/pd2_mod_fuel/props/fuel_prop_battery/fuel_prop_battery_df"/>
 		<unit_mat path="units/pd2_mod_blade/architecture/blade_warehouse/blade_warehouse"/>

@@ -8,4 +8,5 @@
 	<objective description="obj_blade_06_desc" id="blade_06" text="obj_blade_06"/>
 	<objective description="obj_blade_07_desc" id="blade_07" text="obj_blade_07"/>
 	<objective description="obj_blade_08_desc" id="blade_08" text="obj_blade_08"/>
+	<objective description="obj_blade_03b_desc" id="blade_03b" text="obj_blade_03b"/>
 </table>
