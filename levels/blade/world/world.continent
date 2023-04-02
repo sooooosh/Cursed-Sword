@@ -3220,9 +3220,6 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="8000 25925 -225" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="anim_pig_idle" name="units/pd2_dlc_pda9/props/pda9_piggybank/pda9_prop_piggybank_level_1" name_id="pda9_prop_piggybank_level_1_001" position="8025 25925 -225" rotation="0 0 1 4.37114e-008" unit_id="101057"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="-2325 1100 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/pickups/gen_pku_cocaine/gen_pku_cocaine" name_id="gen_pku_cocaine_002" position="-2325 1100 0" rotation="0 0 0 -1" unit_id="101058"/>
 		</table>
 		<table>
