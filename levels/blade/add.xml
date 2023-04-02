@@ -1802,4 +1802,10 @@
 		<sequence_manager path="units/pd2_dlc_dark/equipment/drk_interactable_weapon_case_1x1/spawn_glock"/>
 		<bnk path="soundbanks/regular_sfx"/>
 	</add>
+	<add from_db="true" path="core/units/light_omni_seq/light_omni_seq" type="unit">
+		<unit path="core/units/light_omni_seq/light_omni_seq"/>
+		<object path="core/units/light_omni_seq/light_omni_seq"/>
+		<material_config path="core/material_configs/hub_elements"/>
+		<sequence_manager path="core/units/light_omni_seq/light_omni_seq"/>
+	</add>
 </table>

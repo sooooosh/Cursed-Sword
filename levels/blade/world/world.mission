@@ -17117,6 +17117,10 @@
 							<entry key="delay" type="number" value="5"/>
 							<entry key="id" type="number" value="100677"/>
 						</entry>
+						<entry index="3" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100796"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="-1775 8025 10002.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
@@ -26481,6 +26485,31 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
+			<entry index="797" type="table">
+				<entry key="class" type="string" value="ElementUnitSequence"/>
+				<entry key="editor_name" type="string" value="unit_sequence_016"/>
+				<entry key="id" type="number" value="100796"/>
+				<entry key="module" type="string" value="CoreElementUnitSequence"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-1775 7925 10002.5"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="trigger_list" type="table">
+						<entry index="1" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="101056"/>
+							<entry key="notify_unit_sequence" type="string" value="light_on"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
 		</entry>
 		<entry key="instances" type="table">
 			<entry index="1" type="string" value="blade_loot_container_001"/>
@@ -26509,6 +26538,7 @@
 			<entry index="24" type="string" value="blade_crate_001"/>
 			<entry index="25" type="string" value="blade_crate_002"/>
 			<entry index="26" type="string" value="blade_crate_003"/>
+			<entry index="27" type="string" value="blade_window_001"/>
 		</entry>
 		<entry key="name" type="string" value="default"/>
 	</entry>

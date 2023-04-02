@@ -36,6 +36,14 @@
 			<file path="scriptdata/customstuff.xml"/>
 		</xml>
 	</instance>
+	<instance id="blade_window">
+		<packages>
+			<value_node value="package_blade"/>
+		</packages>
+		<xml>
+			<file path="scriptdata/customstuff.xml"/>
+		</xml>
+	</instance>
 	<AddFiles directory="assets">
 		<dds path="guis/textures/cn_map/cn_blade"/>
 	</AddFiles>
