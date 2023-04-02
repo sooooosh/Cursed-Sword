@@ -1803,9 +1803,46 @@
 		<bnk path="soundbanks/regular_sfx"/>
 	</add>
 	<add from_db="true" path="core/units/light_omni_seq/light_omni_seq" type="unit">
-		<unit path="core/units/light_omni_seq/light_omni_seq"/>
-		<object path="core/units/light_omni_seq/light_omni_seq"/>
 		<material_config path="core/material_configs/hub_elements"/>
+		<object path="core/units/light_omni_seq/light_omni_seq"/>
 		<sequence_manager path="core/units/light_omni_seq/light_omni_seq"/>
+		<unit path="core/units/light_omni_seq/light_omni_seq"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_arena/pickups/gen_pku_money_plasic_wrapped/gen_pku_money_plasic_wrapped" type="unit">
+		<effect load="true" path="effects/payday2/particles/grab/grab_money"/>
+		<material_config path="units/pd2_dlc_arena/pickups/gen_pku_money_plasic_wrapped/gen_pku_money_plasic_wrapped"/>
+		<object path="units/pd2_dlc_arena/pickups/gen_pku_money_plasic_wrapped/gen_pku_money_plasic_wrapped"/>
+		<sequence_manager path="units/pd2_dlc_arena/pickups/gen_pku_money_plasic_wrapped/gen_pku_money_plasic_wrapped"/>
+		<unit path="units/pd2_dlc_arena/pickups/gen_pku_money_plasic_wrapped/gen_pku_money_plasic_wrapped"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_pda9/props/pda9_piggybank/pda9_prop_piggybank_level_1" type="unit">
+		<effect load="true" path="effects/payday2/particles/explosions/piggybank_9th_spark"/>
+		<effect load="true" path="effects/payday2/particles/explosions/piggybank_9th"/>
+		<animation_def path="anims/units/level/pda9/big_pig/def"/>
+		<animation_state_machine path="anims/units/level/pda9/big_pig/machine"/>
+		<animation_states path="anims/units/level/pda9/big_pig/states"/>
+		<animation_subset path="anims/units/level/pda9/big_pig/anims"/>
+		<bnk path="soundbanks/pd9a"/>
+		<material_config path="units/pd2_dlc_pda9/props/pda9_piggybank/pda9_prop_piggybank_level_4"/>
+		<object path="units/pd2_dlc_pda9/props/pda9_piggybank/pda9_prop_piggybank_level_1"/>
+		<sequence_manager path="units/pd2_dlc_pda9/props/pda9_piggybank/pda9_prop_piggybank_level_1"/>
+		<unit path="units/pd2_dlc_pda9/props/pda9_piggybank/pda9_prop_piggybank_level_1"/>
+	</add>
+	<add from_db="true" path="units/payday2/pickups/gen_pku_cocaine/gen_pku_cocaine" type="unit">
+		<material_config path="units/payday2/pickups/gen_pku_cocaine/gen_pku_cocaine"/>
+		<object path="units/payday2/pickups/gen_pku_cocaine/gen_pku_cocaine"/>
+		<sequence_manager path="units/payday2/pickups/gen_pku_cocaine/gen_pku_cocaine"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_flat/props/flt_prop_electric_circuit/flt_prop_int_electric_circuit" type="unit">
+		<material_config path="units/pd2_dlc_flat/props/flt_prop_electric_circuit/flt_prop_int_electric_circuit"/>
+		<object path="units/pd2_dlc_flat/props/flt_prop_electric_circuit/flt_prop_int_electric_circuit"/>
+		<unit path="units/pd2_dlc_flat/props/flt_prop_electric_circuit/flt_prop_int_electric_circuit"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_street_electric_box/str_prop_street_electric_box_hackable" type="unit">
+		<unit path="units/payday2/props/str_prop_street_electric_box/str_prop_street_electric_box_hackable"/>
+		<object path="units/payday2/props/str_prop_street_electric_box/str_prop_street_electric_box_hackable"/>
+		<material_config path="units/payday2/props/str_prop_street_electric_box/str_prop_street_electric_box_hackable"/>
+		<sequence_manager path="units/payday2/props/str_prop_street_electric_box/str_prop_street_electric_box_hackable"/>
+		<bnk path="soundbanks/regular_sfx"/>
 	</add>
 </table>
