@@ -1,4 +1,12 @@
 <table directory="assets">
+	<add>
+		<unit_mat_seq path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone" load="true"/>
+		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick" load="true"/>
+		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick" load="true"/>
+	</add>
+	<add auto_cp="false">
+		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_laptop/prop_blade_laptop" load="true"/>
+	</add>
 	<add from_db="true" path="units/payday2/architecture/lux/lux_int_bookshelfstairs_3m_a" type="unit">
 		<material_config path="units/payday2/architecture/lux/lux"/>
 		<object path="units/payday2/architecture/lux/lux_int_bookshelfstairs_3m_a"/>

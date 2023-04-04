@@ -7,6 +7,10 @@
 			<check value="vars.var_interacted == 0"/>
 		</filter>
 
+		<sequence startup="true" name="'startup'">
+			<run_sequence start_time="10" name="'show_waypoint'"/>
+		</sequence>
+
 		<sequence editable_state="true" triggable="true" name="'play_voicemail'">
 		<!-- <sound action="'play'" event="'put_down_server_parts'" object="'rp_iphone'"/> -->
 		</sequence>
@@ -25,8 +29,8 @@
 			<interaction start_time="1" enabled="true"/>
 		</sequence>
 
-		<sequence editable_state="true" name="'show_waypoint'" startup="true" triggable="true">
-			<function start_time="10" filter="'has_not_interacted'" extension="'waypoint'" function="'add_waypoint'" param1="'pd2_generic_interact'" param2="75"/>
+		<sequence editable_state="true" name="'show_waypoint'" triggable="true">
+			<function filter="'has_not_interacted'" extension="'waypoint'" function="'add_waypoint'" param1="'pd2_generic_interact'" param2="75"/>
 		</sequence>
 
 	</unit>

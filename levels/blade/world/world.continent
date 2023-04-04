@@ -28,6 +28,8 @@
 		<table continent="world" folder="levels/instances/mods/Cursed Sword/blade_crate/world" index_size="250" name="blade_crate_002" position="3472.19 -5521.7 100" rotation="0 0 -0.559193 -0.829038" script="default" start_index="6500"/>
 		<table continent="world" folder="levels/instances/mods/Cursed Sword/blade_crate/world" index_size="250" name="blade_crate_003" position="5435.88 -4946.97 100" rotation="0 0 0.92388 -0.382683" script="default" start_index="6750"/>
 		<table continent="world" folder="levels/instances/mods/Cursed Sword/blade_window/world" index_size="250" name="blade_window_001" position="-700 -200 0" rotation="0 0 0 1" script="default" start_index="7000"/>
+		<table continent="world" folder="levels/instances/mods/Cursed Sword/blade_laptop/world" index_size="250" name="blade_laptop_002" position="-300 800 0" rotation="0 0 0 1" script="default" start_index="7250"/>
+		<table continent="world" folder="levels/instances/mods/Cursed Sword/blade_pc/world" index_size="250" name="blade_pc_002" position="-500 800 75" rotation="0 0 -1 -4.37114e-008" script="default" start_index="7500"/>
 	</instances>
 	<statics>
 		<table>
@@ -3210,9 +3212,6 @@
 			<unit_data _prev_pos="4500 -4550 100" _prev_rot="0 0 1 -2.68221e-007" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/ind_prop_mill_lumber_stacks/ind_prop_mill_lumber_stack_single" name_id="ind_prop_mill_lumber_stack_single_009" position="4500 -4550 100" rotation="0 0 1 -2.68221e-007" unit_id="101055"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="0 0 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_blade/architecture/blade_warehouse/blade_warehouse" name_id="blade_warehouse_001" position="0 0 0" rotation="0 0 0 -1" unit_id="100009"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="1200 800 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="light_off" name="core/units/light_omni_seq/light_omni_seq" name_id="light_omni_seq_001" only_visible_in_editor="true" position="1200 800 125" rotation="-0 0 -0 -1" unit_id="101056">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="0 0.980392 0" enabled="true" falloff_exponent="1" far_range="617" multiplier="@IDbca13ba1d306f87b@" name="lo_omni" near_range="10" spot_angle_end="1" spot_angle_start="1"/>
@@ -3227,6 +3226,9 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="-2350 1300 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/pickups/gen_pku_gold/gen_pku_gold" name_id="gen_pku_gold_004" position="-2350 1300 0" rotation="0 0 0 -1" unit_id="101060"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_blade/architecture/blade_warehouse/blade_warehouse" name_id="blade_warehouse_001" position="0 0 0" rotation="0 0 0 -1" unit_id="100009"/>
 		</table>
 	</statics>
 	<values>

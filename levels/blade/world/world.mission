@@ -26683,6 +26683,29 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
+			<entry index="802" type="table">
+				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
+				<entry key="editor_name" type="string" value="instance_input_event_003"/>
+				<entry key="id" type="number" value="100801"/>
+				<entry key="module" type="string" value="CoreElementInstance"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="event_list" type="table">
+						<entry index="1" type="table">
+							<entry key="event" type="string" value="enable_laptop"/>
+							<entry key="instance" type="string" value="blade_laptop_002"/>
+						</entry>
+					</entry>
+					<entry key="execute_on_startup" type="boolean" value="true"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-375 725 0"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
 		</entry>
 		<entry key="instances" type="table">
 			<entry index="1" type="string" value="blade_loot_container_001"/>
@@ -26712,6 +26735,8 @@
 			<entry index="25" type="string" value="blade_crate_002"/>
 			<entry index="26" type="string" value="blade_crate_003"/>
 			<entry index="27" type="string" value="blade_window_001"/>
+			<entry index="28" type="string" value="blade_laptop_002"/>
+			<entry index="29" type="string" value="blade_pc_002"/>
 		</entry>
 		<entry key="name" type="string" value="default"/>
 	</entry>
