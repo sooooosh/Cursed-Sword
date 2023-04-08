@@ -5,7 +5,7 @@
 		<extension name="unit_data" class="ScriptUnitData" />
 		<extension name="damage" class="UnitDamage" />
 		<extension name="interaction" class="CarryInteractionExt">
-			<var name="tweak_data" value="pku_safe" />
+			<var name="tweak_data" value="cas_open_door" />
 			<var name="_remove_on_interact" value="true" />
 			<!-- <var name="_global_event" value="pku_money" /> -->
 		</extension>

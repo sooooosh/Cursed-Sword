@@ -1,17 +1,17 @@
 <table directory="assets">
     <add>
-        <unit               path="units/pd2_mod_kitteh/pickups/kat_plushy_bag/kat_plushy"/>
+        <unit               path="units/pd2_mod_kitteh/pickups/kat_plushy_bag/kat_plushy" load="true"/>
         <object             path="units/pd2_mod_kitteh/pickups/kat_plushy_bag/kat_plushy"/>
         <model              path="units/pd2_mod_kitteh/pickups/kat_plushy_bag/kat_plushy"/>
         <material_config    path="units/pd2_mod_kitteh/pickups/kat_plushy_bag/kat_plushy"/>
         <sequence_manager   path="units/pd2_mod_kitteh/pickups/kat_plushy_bag/kat_plushy"/>
         <texture            path="units/pd2_mod_kitteh/pickups/kat_plushy_bag/kat_plushy_df"/>
 
-        <unit               path="units/pd2_mod_kitteh/pickups/kat_plushy_bag/npc_acc_kat_plushy"/>
+        <unit               path="units/pd2_mod_kitteh/pickups/kat_plushy_bag/npc_acc_kat_plushy" load="true"/>
         <object             path="units/pd2_mod_kitteh/pickups/kat_plushy_bag/npc_acc_kat_plushy"/>
         <model              path="units/pd2_mod_kitteh/pickups/kat_plushy_bag/npc_acc_kat_plushy"/>
 
-        <unit               path="units/pd2_mod_kitteh/pickups/kat_plushy_bag/pku_kat_plushy"/>
+        <unit               path="units/pd2_mod_kitteh/pickups/kat_plushy_bag/pku_kat_plushy" load="true"/>
         <object             path="units/pd2_mod_kitteh/pickups/kat_plushy_bag/pku_kat_plushy"/>
         <model              path="units/pd2_mod_kitteh/pickups/kat_plushy_bag/pku_kat_plushy"/>
         <sequence_manager   path="units/pd2_mod_kitteh/pickups/kat_plushy_bag/pku_kat_plushy"/>
