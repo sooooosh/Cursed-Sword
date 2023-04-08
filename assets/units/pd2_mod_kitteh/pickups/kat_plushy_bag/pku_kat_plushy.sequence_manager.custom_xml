@@ -1,25 +1,26 @@
 <table>
 	<unit>
-		<sequence editable_state="true" name="'move_head'" triggable="false">
-			<animation_group enabled="true" end_time="100/30" name="'head'" speed="1" time="0/30"/>
-		</sequence>
-		<sequence editable_state="true" name="'destroy'" triggable="false">
-			<effect name="'effects/particles/equipment/c4_bank/c4_explosion'" parent="object('rp_teddy')" position="v()"/>
+		<sequence editable_state="true" name=" 'hide' " triggable="false">
 			<body enabled="false" name="'body_static'"/>
 			<graphic_group name="'grp_teddy'" visibility="false"/>
 			<decal_mesh name="'g_body'" enabled="false"/>
 			<decal_mesh name="'g_head'" enabled="false"/>
 			<decal_mesh name="'g_eye_l'" enabled="false"/>
 			<decal_mesh name="'g_eye_r'" enabled="false"/>
-			<run_sequence name="'destroyed'"/>
+			<interaction enabled="false"/>
 		</sequence>
-		<sequence editable_state="false" name="'destroyed'" triggable="true"/>
-		<body name="'body_static'">
-			<endurance explosion="1">
-				<run_sequence name="'destroy'"/>
-			</endurance>
-		</body>
-		<sequence editable_state="true" name="'repair'" triggable="false">
+
+		<sequence editable_state="true" name=" 'show_and_enable' " triggable="false">
+			<body enabled="true" name="'body_static'"/>
+			<graphic_group name="'grp_teddy'" visibility="true"/>
+			<decal_mesh name="'g_body'" enabled="true"/>
+			<decal_mesh name="'g_head'" enabled="true"/>
+			<decal_mesh name="'g_eye_l'" enabled="true"/>
+			<decal_mesh name="'g_eye_r'" enabled="true"/>
+			<interaction enabled="true"/>
+		</sequence>
+
+		<sequence editable_state="true" name=" 'show' " triggable="false">
 			<body enabled="true" name="'body_static'"/>
 			<graphic_group name="'grp_teddy'" visibility="true"/>
 			<decal_mesh name="'g_body'" enabled="true"/>
@@ -27,5 +28,13 @@
 			<decal_mesh name="'g_eye_l'" enabled="true"/>
 			<decal_mesh name="'g_eye_r'" enabled="true"/>
 		</sequence>
+
+		<sequence editable_state="true" name=" 'enable_interaction' " triggable="false">
+			<interaction enabled="true"/>
+		</sequence>
+		<sequence editable_state="true" name=" 'disable_interaction' " triggable="false">
+			<interaction enabled="false"/>
+		</sequence>
+
 	</unit>
 </table>

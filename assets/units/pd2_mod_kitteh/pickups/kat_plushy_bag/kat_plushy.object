@@ -4,7 +4,7 @@
 	<bodies>
 		<body name="hinge_body_1" enabled="true" template="small_prop" collision_class="bag" pushed_by_mover="false" friction="0.01" sweep="true" keyframed="false" tag="bag" collision_script_quiet_time="0.5" collision_script_tag="small" ray="block" lin_damping="0.4" ang_damping="20" restitution="0">
 			<object name="rp_teddy" />
-			<object name="c_body" collision_type="sphere" padding="-2.5" mass="100" />
+			<object name="c_body" collision_type="box" padding="-2.5" mass="100" />
 			<object name="c_head" collision_type="sphere" padding="-2.5" mass="100" />
 		</body>
 	</bodies>

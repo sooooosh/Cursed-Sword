@@ -162,7 +162,7 @@
             name_id="hud_carry_kat_plushy"
             type="medium"
             unit="units/pd2_mod_kitteh/pickups/kat_plushy_bag/kat_plushy"
-            visual_unit_name="units/payday2/characters/npc_acc_body_bag_1/npc_acc_body_bag_1">
+            visual_unit_name="units/pd2_mod_kitteh/pickups/kat_plushy_bag/npc_acc_kat_plushy">
             <AI_carry SO_category="enemies"/>
         </carry>
     </LootBags>

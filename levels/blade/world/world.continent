@@ -3276,7 +3276,7 @@
 			<unit_data _prev_pos="3867.76 -10815.2 174.5" _prev_rot="0 0 -0.104528 -0.994522" continent="world" local_pos="-0.000238806 5.07598e-005 74.5" local_rot="0 0 1 2.75671e-007" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack" name_id="mad_prop_log_bigstack_005" position="3949.94 -10701.6 174.5" rotation="0 0 -0.104528 -0.994522" unit_id="101066"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="100 500 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_kitteh/pickups/kat_plushy_bag/pku_kat_plushy" name_id="pku_kat_plushy_001" position="100 500 0" rotation="0 0 0 -1" unit_id="101067"/>
+			<unit_data _prev_pos="100 500 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show_and_enable" name="units/pd2_mod_kitteh/pickups/kat_plushy_bag/pku_kat_plushy" name_id="pku_kat_plushy_001" position="100 500 0" rotation="-0 0 -0 -1" unit_id="101067"/>
 		</table>
 	</statics>
 	<values>

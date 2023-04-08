@@ -5,13 +5,12 @@
 		<extension name="unit_data" class="ScriptUnitData" />
 		<extension name="damage" class="UnitDamage" />
 		<extension name="interaction" class="CarryInteractionExt">
-			<var name="tweak_data" value="cas_open_door" />
+			<var name="tweak_data" value="plushy_drop" />
 			<var name="_remove_on_interact" value="true" />
-			<!-- <var name="_global_event" value="pku_money" /> -->
+			<var name="_global_event" value="pku_kat" />
 		</extension>
 		<extension name="carry_data" class="CarryData">
 			<var name="_carry_id" value="kat_plushy" />
-			<!-- <var name="tweak_value" value="bag_value" /> -->
 		</extension>
 	</extensions>
 </unit>
