@@ -62,6 +62,7 @@
 		<sequence editable_state="true" triggable="true" name="'open_door'">
 			<run_sequence filter="'not_flipped'" 	name="'anim_open_door_left'"/>
 			<run_sequence filter="'flipped'" 		name="'anim_open_door_right'"/>
+			<interaction enabled="false"/>
 		</sequence>
 
 		<sequence editable_state="true" name="'anim_open_door_left'" triggable="true">

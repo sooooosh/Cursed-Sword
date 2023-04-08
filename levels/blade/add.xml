@@ -1,12 +1,4 @@
 <table directory="assets">
-	<add>
-		<unit_mat_seq path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone" load="true"/>
-		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick" load="true"/>
-		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick" load="true"/>
-	</add>
-	<add auto_cp="false">
-		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_laptop/prop_blade_laptop" load="true"/>
-	</add>
 	<add from_db="true" path="units/payday2/vehicles/str_vehicle_truck_boxvan/str_vehicle_truck_boxvan" type="unit">
 		<material_config path="units/payday2/vehicles/str_vehicle_truck_boxvan/str_vehicle_truck_boxvan"/>
 		<effect load="true" path="effects/payday2/particles/window/storefront_window_small"/>
@@ -1834,10 +1826,70 @@
 		<unit path="units/pd2_dlc_flat/props/flt_prop_electric_circuit/flt_prop_int_electric_circuit"/>
 	</add>
 	<add from_db="true" path="units/payday2/props/str_prop_street_electric_box/str_prop_street_electric_box_hackable" type="unit">
-		<unit path="units/payday2/props/str_prop_street_electric_box/str_prop_street_electric_box_hackable"/>
-		<object path="units/payday2/props/str_prop_street_electric_box/str_prop_street_electric_box_hackable"/>
-		<material_config path="units/payday2/props/str_prop_street_electric_box/str_prop_street_electric_box_hackable"/>
-		<sequence_manager path="units/payday2/props/str_prop_street_electric_box/str_prop_street_electric_box_hackable"/>
 		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/payday2/props/str_prop_street_electric_box/str_prop_street_electric_box_hackable"/>
+		<object path="units/payday2/props/str_prop_street_electric_box/str_prop_street_electric_box_hackable"/>
+		<sequence_manager path="units/payday2/props/str_prop_street_electric_box/str_prop_street_electric_box_hackable"/>
+		<unit path="units/payday2/props/str_prop_street_electric_box/str_prop_street_electric_box_hackable"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_rvd/props/rvd_prop_warehouse_coffin/rvd_prop_warehouse_coffin_paper" type="unit">
+		<material_config path="units/pd2_dlc_rvd/props/rvd_prop_warehouse_coffin/rvd_prop_warehouse_coffin_paper"/>
+		<object path="units/pd2_dlc_rvd/props/rvd_prop_warehouse_coffin/rvd_prop_warehouse_coffin_paper"/>
+		<unit path="units/pd2_dlc_rvd/props/rvd_prop_warehouse_coffin/rvd_prop_warehouse_coffin_paper"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_mechanical_powerbox/str_prop_mechanical_powerbox_b" type="unit">
+		<material_config path="units/payday2/props/str_prop_mechanical_powerbox/str_prop_mechanical_powerbox"/>
+		<object path="units/payday2/props/str_prop_mechanical_powerbox/str_prop_mechanical_powerbox_b"/>
+		<unit path="units/payday2/props/str_prop_mechanical_powerbox/str_prop_mechanical_powerbox_b"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_mechanical_powerbox/str_prop_mechanical_powerbox_d" type="unit">
+		<material_config path="units/payday2/props/str_prop_mechanical_powerbox/str_prop_mechanical_powerbox"/>
+		<object path="units/payday2/props/str_prop_mechanical_powerbox/str_prop_mechanical_powerbox_d"/>
+		<unit path="units/payday2/props/str_prop_mechanical_powerbox/str_prop_mechanical_powerbox_d"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_railing_v2"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_1m" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_railing_v2"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_1m"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_1m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_1m1m" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_railing_v2"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_1m1m"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_1m1m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_1m_grey" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_cage_grey"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_1m_grey"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_1m_grey"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m1m_grey" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_cage_grey"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m1m_grey"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m1m_grey"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m_grey" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_cage_grey"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m_grey"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m_grey"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_support_2m" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_railing"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_support_2m"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_support_2m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_support_2m_v2" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_railing_v2"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_support_2m_v2"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_support_2m_v2"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_support_4m_clean" type="unit">
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_support_4m_clean"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_support_4m_clean"/>
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_railing_v2"/>
 	</add>
 </table>

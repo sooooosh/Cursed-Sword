@@ -2190,21 +2190,6 @@
 			<unit_data _prev_pos="700 -5100 900" _prev_rot="0.5 -0.5 0.5 -0.5" continent="mkp_ext" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_1m_a" name_id="mkp_int_wall_1m_a_480" position="900 -5100 900" rotation="0.5 -0.5 0.5 -0.5" unit_id="401609"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="550 -1200 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_ext" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_045" position="425 -1175 0" rotation="0 0 0.707107 -0.707107" unit_id="401585"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="425 -1350 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_ext" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_046" position="425 -1350 0" rotation="0 0 0.707107 -0.707107" unit_id="401586"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="425 -2000 0" _prev_rot="0 0 1 -0" continent="mkp_ext" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_1m_a" name_id="mkp_int_wall_1m_a_474" position="825 -1275 0" rotation="0 0 1 -0" unit_id="401587"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="825 -1275 0" _prev_rot="0 0 1 -0" continent="mkp_ext" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_1m_a" name_id="mkp_int_wall_1m_a_481" position="825 -1175 0" rotation="0 0 1 -0" unit_id="401610"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="600 -1375 300" _prev_rot="0.92388 0 0 -0.382683" continent="mkp_ext" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_047" position="600 -1375 300" rotation="0.956305 0 0 -0.292372" unit_id="401611"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="925 -2100 0" _prev_rot="0 0 0.707107 -0.707107" continent="mkp_ext" local_pos="-175 0 3.05176e-005" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_1m_a" name_id="mkp_int_wall_1m_a_482" position="925 -2100 0" rotation="0 0 0.707107 -0.707107" unit_id="401613"/>
 		</table>
 		<table>

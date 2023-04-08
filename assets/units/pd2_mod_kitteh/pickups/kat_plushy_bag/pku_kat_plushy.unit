@@ -1,0 +1,17 @@
+<unit type="kat" slot="1">
+	<object file="units/pd2_mod_kitteh/pickups/kat_plushy_bag/pku_kat_plushy" />
+	<network sync="spawn"/>
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="damage" class="UnitDamage" />
+		<extension name="interaction" class="CarryInteractionExt">
+			<var name="tweak_data" value="pku_safe" />
+			<var name="_remove_on_interact" value="true" />
+			<!-- <var name="_global_event" value="pku_money" /> -->
+		</extension>
+		<extension name="carry_data" class="CarryData">
+			<var name="_carry_id" value="kat_plushy" />
+			<!-- <var name="tweak_value" value="bag_value" /> -->
+		</extension>
+	</extensions>
+</unit>

@@ -81,12 +81,6 @@
 			<unit_data _prev_pos="1538.36 -3430.27 1400" _prev_rot="0 0 0.948324 0.317305" continent="mkp_props" local_pos="0.00391388 -200.001 100" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_cube_1x1" name_id="mkp_int_cube_1x1_030" position="1538.36 -3430.27 200" rotation="0 0 0.948324 0.317305" unit_id="700029"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="400 -5000 100" _prev_rot="0 0 0 -1" continent="mkp_props" local_pos="-5100 3525 -1200" local_rot="-0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_cube_1x1" name_id="mkp_int_cube_1x1_031" position="400 -5000 100" rotation="0 0 0 -1" unit_id="700030"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="400 -5000 200" _prev_rot="0 0 0 -1" continent="mkp_props" local_pos="-5100 3525 -1100" local_rot="-0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_cube_1x1" name_id="mkp_int_cube_1x1_032" position="400 -5000 200" rotation="0 0 0 -1" unit_id="700031"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="500 -4900 100" _prev_rot="0 0 0 -1" continent="mkp_props" local_pos="-5000 3625 -1200" local_rot="-0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_cube_1x1" name_id="mkp_int_cube_1x1_033" position="500 -4900 100" rotation="0 0 0 -1" unit_id="700032"/>
 		</table>
 		<table>

@@ -111,6 +111,12 @@
             start_active="false"
         />
 
+        <interaction
+            id="plushy_drop"
+            based_on="carry_drop"
+            text_id="hud_int_hold_grab_kat"
+        />
+
         <!-- mantle points -->
         <interaction id="mantle_point" text_id="hud_int_press_mantle_point" axis="y" start_active="true" interact_distance="100"/>
         <interaction id="mantle_point_2" text_id="hud_int_press_mantle_point" based_on="mantle_point" interact_distance="200"/>
@@ -149,5 +155,16 @@
         <special id="blade_jammer" icon="blade_equipment_jammer" transfer_quantity="1" />
         <special id="blade_scubagear" icon="blade_equipment_scubagear" max_quantity="1" transfer_quantity="1" />
     </Equipments>
+
+    <LootBags>
+        <carry 
+            id="kat_plushy"
+            name_id="hud_carry_kat_plushy"
+            type="medium"
+            unit="units/pd2_mod_kitteh/pickups/kat_plushy_bag/kat_plushy"
+            visual_unit_name="units/pd2_mod_kitteh/pickups/kat_plushy_bag/npc_acc_kat_plushy">
+            <AI_carry SO_category="enemies"/>
+        </carry>
+    </LootBags>
 
 </table>

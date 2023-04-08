@@ -58,3 +58,6 @@ obj_blade_08_desc: |
 prop_laptop_download: "Transfering files..."
 hud_int_press_mantle_point: "Press $BTN_INTERACT to climb"
 hud_int_hold_grapple_point: "hold $BTN_INTERACT to grapple up"
+
+hud_int_hold_grab_kat: "Hold $BTN_INTERACT to take the plushy"
+hud_carry_kat_plushy: "Kitteh Plushy"

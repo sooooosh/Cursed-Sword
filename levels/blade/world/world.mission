@@ -23623,7 +23623,7 @@
 					<entry key="amount" type="string" value="1"/>
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="depth" type="number" value="500"/>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="height" type="number" value="500"/>
 					<entry key="instigator" type="string" value="ai_teammates"/>
@@ -23657,7 +23657,7 @@
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="elements" type="table">
 					</entry>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
@@ -26703,6 +26703,26 @@
 					</entry>
 					<entry key="position" type="vector3" value="-375 725 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="803" type="table">
+				<entry key="class" type="string" value="ElementLootBag"/>
+				<entry key="editor_name" type="string" value="loot_bag_001"/>
+				<entry key="id" type="number" value="100802"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="carry_id" type="string" value="kat_plushy"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="from_respawn" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="0 400 150"/>
+					<entry key="push_multiplier" type="number" value="0"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="spawn_dir" type="vector3" value="0 0 1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>

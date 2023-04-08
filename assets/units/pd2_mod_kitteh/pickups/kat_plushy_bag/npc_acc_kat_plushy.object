@@ -1,0 +1,6 @@
+<dynamic_object>
+	<diesel materials="units/pd2_mod_kitteh/pickups/kat_plushy_bag/kat_plushy" orientation_object="rp_teddy" />
+	<graphics>
+		<object name="g_bag" enabled="true" />
+	</graphics>
+</dynamic_object>

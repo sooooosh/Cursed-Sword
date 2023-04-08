@@ -1,0 +1,30 @@
+<dynamic_object>
+	<diesel materials="units/pd2_mod_kitteh/pickups/kat_plushy_bag/kat_plushy" orientation_object="rp_teddy" />
+	<sequence_manager file="units/pd2_mod_kitteh/pickups/kat_plushy_bag/pku_kat_plushy" />
+	<animations>
+		<animation_group name="head">
+			<object enabled="true" name="a_head"/>
+		</animation_group>
+	</animations>
+	<bodies>
+		<body name="body_static" enabled="true" template="static">
+			<object name="c_body" collision_type="sphere" padding="-2.5"/>
+			<object name="c_head" collision_type="sphere" padding="-2.5"/>
+		</body>
+	</bodies>
+	<decal_surfaces>
+		<decal_mesh name="g_body" enabled="true" material="cloth_stuffed" />
+		<decal_mesh name="g_head" enabled="true" material="cloth_stuffed" />
+		<decal_mesh name="g_eye_l" enabled="true" material="plastic" />
+		<decal_mesh name="g_eye_r" enabled="true" material="plastic" />
+	</decal_surfaces>
+	<graphics>
+		<graphic_group name="grp_teddy" enabled="true">
+			<object name="g_body"	enabled="true" shadow_caster="true"/>
+			<object name="g_head"	enabled="true" shadow_caster="true"/>
+			<object name="g_eye_l"	enabled="true" shadow_caster="false"/>
+			<object name="g_eye_r"	enabled="true" shadow_caster="false"/>
+			<object name="g_tail"	enabled="true" shadow_caster="true"/>
+		</graphic_group>
+	</graphics>
+</dynamic_object>

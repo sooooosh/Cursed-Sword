@@ -534,9 +534,6 @@
 			<unit_data _prev_pos="3000 0 100" _prev_rot="0 0 0 -1" continent="mkp_int" local_pos="-750 400 100" local_rot="0 0 1 4.37114e-008" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_248" position="3000 -0.00012207 100" rotation="0 0 8.74228e-008 -1" unit_id="300495"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="400 -800 100" _prev_rot="0 0 8.74228e-008 -1" continent="mkp_int" local_pos="0.000174202 400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_291" position="400 -1600 100" rotation="0 0 8.74228e-008 -1" unit_id="300102"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="600 -3425 0" _prev_rot="0 0 -0.707107 -0.707107" continent="mkp_int" local_pos="200 -224.999 0" local_rot="0 0 0.707107 0.707107" name="units/payday2/architecture/mkp/mkp_int_stairs_top" name_id="mkp_int_stairs_top_003" position="600 -3425 0" rotation="0 0 0.707107 0.707107" unit_id="300160"/>
 		</table>
 		<table>
