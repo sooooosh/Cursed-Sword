@@ -3184,7 +3184,7 @@
 			<unit_data _prev_pos="3002.78 87.3997 641.404" _prev_rot="0 0 -0.300706 -0.953717" continent="world" local_pos="-95.22 137.4 0" local_rot="0 0 0.300706 0.953717" mesh_variation="show_and_enable" name="units/pd2_mod_kitteh/pickups/kat_plushy_bag/pku_kat_plushy" name_id="pku_kat_plushy_001" position="3007.78 87.3997 641.404" rotation="0 0 -0.300706 -0.953717" unit_id="101067"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="3125 75 640.404" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_wood_crate_110/flt_prop_wood_crate_110" name_id="flt_prop_wood_crate_110_001" position="3135 75 640.404" rotation="0 0 0 -1" unit_id="101076"/>
+			<unit_data _prev_pos="3135 75 640.404" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_wood_crate_110/flt_prop_wood_crate_110" name_id="flt_prop_wood_crate_110_001" position="3035 75 640.404" rotation="0 0 0.707107 -0.707107" unit_id="101076"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="3098 -50 641.404" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_wood_crate_110/flt_prop_wood_crate_110" name_id="flt_prop_wood_crate_110_002" position="3103 -50 641.404" rotation="0 0 0 -1" unit_id="101077"/>
@@ -3193,7 +3193,7 @@
 			<unit_data _prev_pos="2940.92 40.2328 717.404" _prev_rot="0 0 0.130526 -0.991445" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_wood_crate_75/flt_prop_wood_crate_75" name_id="flt_prop_wood_crate_75_001" position="2940.92 40.233 717" rotation="0 0 0.130526 -0.991445" unit_id="101078"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2870 -250.546 644.802" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_pdm/props/mantle_indicator_rope_short/mantle_indicator_rope_short" name_id="mantle_indicator_rope_short_003" position="2871 -250.546 644.802" rotation="0 0 0.707107 -0.707107" unit_id="100632"/>
+			<unit_data _prev_pos="2867 -250.441 642.802" _prev_rot="0 0 0.71934 -0.694658" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_pdm/props/mantle_indicator_rope_short/mantle_indicator_rope_short" name_id="mantle_indicator_rope_short_003" position="2867 -250.441 642.802" rotation="0 0 0.71934 -0.694658" unit_id="100632"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="2928 -250 665" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="set_range_2" name="units/pd2_mod_pdm/props/mantle_point/mantle_point" name_id="mantle_point_003" position="2928 -250 665" rotation="0 0 0.725374 -0.688355" unit_id="100636"/>
@@ -3581,6 +3581,18 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="2850 -1875 100" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_blade/props/garage_door_button/garage_door_button" name_id="garage_door_button_002" position="2850 -1875 100" rotation="0 0 -0.707107 -0.707107" unit_id="101174"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5574.63 -2613.45 -363" _prev_rot="0 0 0.999048 0.0436198" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_blade/props/prop_blade_lumber_shelf/prop_blade_lumber_2" name_id="prop_blade_lumber_2_027" position="5617.58 -2489.73 -363" rotation="0 0 0.999048 0.0436198" unit_id="101171"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5479.56 -3800 -165.826" _prev_rot="-0.0169817 -0.0765993 0.973286 0.215772" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_blade/props/prop_blade_lumber_shelf/prop_blade_lumber_1" name_id="prop_blade_lumber_1_009" position="5479.56 -3800 -218.826" rotation="0.00136931 -0.0784471 0.996765 -0.0173987" unit_id="101172"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5345.39 -4042.73 100" _prev_rot="0 0 0.366501 -0.930418" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_wood_crate_75x110x75/flt_prop_wood_crate_75x110x75" name_id="flt_prop_wood_crate_75x110x75_021" position="5345.39 -4042.73 100" rotation="0 0 0.833886 -0.551937" unit_id="101175"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5345.39 -4042.73 175" _prev_rot="0 0 0.366501 -0.930418" continent="world" local_pos="0 0 75" local_rot="0 0 -5.1409e-007 1" name="units/pd2_dlc_flat/props/flt_prop_wood_crate_75x110x75/flt_prop_wood_crate_75x110x75" name_id="flt_prop_wood_crate_75x110x75_022" position="5345.39 -4042.73 175" rotation="0 0 0.833886 -0.551937" unit_id="101176"/>
 		</table>
 	</statics>
 	<values>
