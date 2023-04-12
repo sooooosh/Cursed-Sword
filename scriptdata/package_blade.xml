@@ -1,6 +1,6 @@
 <table directory="assets">
 	<add>
-		<unit path="units/pd2_mod_blade/props/garage_door_button/garage_door_button" load="true"/>
+		<unit 				path="units/pd2_mod_blade/props/garage_door_button/garage_door_button" load="true"/>
 	</add>
 	<add>
 		<unit 				path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone" load="true"/>
@@ -131,5 +131,5 @@
 		<sequence_manager path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
 	</add>
 	<unit from_db="true" load="true" path="units/dev_tools/mission_elements/point_interaction/interaction_dummy"/>
-	<unit path="units/pd2_dlc_chas/vehicles/fps_vehicle_forklift_chas/fps_vehicle_forklift_chas" load="true"/>
+	<unit path="units/pd2_dlc_chas/vehicles/fps_vehicle_forklift_chas/fps_vehicle_forklift_chas" load="true" from_db="true"/>
 </table>
