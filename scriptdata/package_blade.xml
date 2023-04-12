@@ -17,7 +17,7 @@
 		<material_config 	path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick_outline"/>
 		<sequence_manager 	path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick"/>
 
-		<unit_mat_seq 		path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick" load="true"/>
+		<unit		 		path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick" load="true"/>
 		<object 			path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick"/>
 		<model 				path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick"/>
 		<material_config 	path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick"/>
