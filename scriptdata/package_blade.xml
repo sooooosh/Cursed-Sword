@@ -49,14 +49,11 @@
 		<unit_mat_seq path="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp" load="true"/>
 		<texture path="units/pd2_mod_blade/equipment/blade_pocket_emp/screen_error_df"/>
 		<sequence_manager path="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp_parts"/>
-		<!-- <unit_obj path="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp_part_antena"/> -->
 		<unit_obj path="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp_part_cable"/>
 		<unit_obj path="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp_part_circuit"/>
 		<unit_obj path="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp_part_screen"/>
-		<!-- <unit_obj path="units/pd2_mod_blade/equipment/blade_pocket_emp/blade_pocket_emp_part_tape"/> -->
 		<unit_obj path="units/pd2_mod_blade/equipment/blade_pocket_emp/pku_blade_circuit"/>
 		<unit_obj_seq path="units/pd2_mod_blade/equipment/blade_pocket_emp/pku_blade_pocket_emp"/>
-		
 		<unit path="units/pd2_mod_blade/equipment/blade_ipad/blade_ipad"/>
 		<object path="units/pd2_dlc_chas/props/chas_prop_ipad_and_iphone/chas_int_tablet" from_db="true"/>
 		<model path="units/pd2_dlc_chas/props/chas_prop_ipad_and_iphone/chas_int_tablet" from_db="true"/>
@@ -65,7 +62,6 @@
 	</add>
 	<add auto_cp="false">
 		<unit_mat_seq path="units/pd2_mod_fuel/props/fuel_prop_battery/fuel_prop_battery"/>
-		<!-- <unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_laptop/prop_blade_laptop" load="true"/> -->
 		<unit_mat_seq path="units/pd2_mod_blade/props/prop_blade_metaldoor/prop_blade_metaldoor"/>
 		<texture path="units/pd2_mod_fuel/props/fuel_prop_battery/fuel_prop_battery_df"/>
 		<unit_mat path="units/pd2_mod_blade/architecture/blade_warehouse/blade_warehouse"/>
