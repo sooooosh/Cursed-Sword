@@ -8,8 +8,10 @@
 		</body>
 	</bodies>
 	<decal_surfaces>
-		<decal_mesh name="g_body" enabled="true" material="cloth_stuffed" />
-		<decal_mesh name="g_head" enabled="true" material="cloth_stuffed" />
+		<!-- <decal_mesh name="g_body" enabled="true" material="cloth_stuffed" />
+		<decal_mesh name="g_head" enabled="true" material="cloth_stuffed" /> -->
+		<decal_mesh name="g_body" enabled="true" material="flesh" />
+		<decal_mesh name="g_head" enabled="true" material="flesh" />
 		<decal_mesh name="g_eye_l" enabled="true" material="plastic" />
 		<decal_mesh name="g_eye_r" enabled="true" material="plastic" />
 	</decal_surfaces>

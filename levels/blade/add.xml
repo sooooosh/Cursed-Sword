@@ -1888,8 +1888,55 @@
 		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_support_2m_v2"/>
 	</add>
 	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_support_4m_clean" type="unit">
-		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_support_4m_clean"/>
-		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_support_4m_clean"/>
 		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_railing_v2"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_support_4m_clean"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_support_4m_clean"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_flat/props/flt_prop_wood_crate_110/flt_prop_wood_crate_110" type="unit">
+		<material_config path="units/pd2_dlc_flat/props/flt_prop_wood_crate_110/flt_prop_wood_crate_110"/>
+		<object path="units/pd2_dlc_flat/props/flt_prop_wood_crate_110/flt_prop_wood_crate_110"/>
+		<unit path="units/pd2_dlc_flat/props/flt_prop_wood_crate_110/flt_prop_wood_crate_110"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_flat/props/flt_prop_wood_crate_75x110x75/flt_prop_wood_crate_75x110x75" type="unit">
+		<material_config path="units/pd2_dlc_flat/props/flt_prop_wood_crate_75x110x75/flt_prop_wood_crate_75x110x75"/>
+		<object path="units/pd2_dlc_flat/props/flt_prop_wood_crate_75x110x75/flt_prop_wood_crate_75x110x75"/>
+		<unit path="units/pd2_dlc_flat/props/flt_prop_wood_crate_75x110x75/flt_prop_wood_crate_75x110x75"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_flat/props/flt_prop_wood_crate_75/flt_prop_wood_crate_75" type="unit">
+		<material_config path="units/pd2_dlc_flat/props/flt_prop_wood_crate_75/flt_prop_wood_crate_75"/>
+		<object path="units/pd2_dlc_flat/props/flt_prop_wood_crate_75/flt_prop_wood_crate_75"/>
+		<unit path="units/pd2_dlc_flat/props/flt_prop_wood_crate_75/flt_prop_wood_crate_75"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/gen_prop_container_a/gen_prop_container_a_blue" type="unit">
+		<material_config path="units/payday2/props/gen_prop_container_a/gen_prop_container_a"/>
+		<object path="units/payday2/props/gen_prop_container_a/gen_prop_container_a_blue"/>
+		<unit path="units/payday2/props/gen_prop_container_a/gen_prop_container_a_blue"/>
+	</add>
+	<add from_db="true" path="units/world/props/glass_shatter/glass_shatter_small" type="unit">
+		<material_config path="units/world/props/glass_shatter/glass_shatter"/>
+		<object path="units/world/props/glass_shatter/glass_shatter_small"/>
+		<unit path="units/world/props/glass_shatter/glass_shatter_small"/>
+	</add>
+	<add from_db="true" path="units/world/props/glass_shatter/glass_shatter" type="unit">
+		<material_config path="units/world/props/glass_shatter/glass_shatter"/>
+		<object path="units/world/props/glass_shatter/glass_shatter"/>
+		<unit path="units/world/props/glass_shatter/glass_shatter"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/bnk/bnk_railing_ending" type="unit">
+		<material_config path="units/payday2/architecture/bnk/bnk_int"/>
+		<object path="units/payday2/architecture/bnk/bnk_railing_ending"/>
+		<unit path="units/payday2/architecture/bnk/bnk_railing_ending"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_com_generic_button/str_prop_com_generic_button" type="unit">
+		<material_config path="units/payday2/props/str_prop_com_generic_button/str_prop_com_generic_button"/>
+		<object path="units/payday2/props/str_prop_com_generic_button/str_prop_com_generic_button"/>
+		<sequence_manager path="units/payday2/props/str_prop_com_generic_button/str_prop_com_generic_button"/>
+		<unit path="units/payday2/props/str_prop_com_generic_button/str_prop_com_generic_button"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_mill/ind_int_wall_button/ind_int_wall_button" type="unit">
+		<unit path="units/pd2_dlc_mill/ind_int_wall_button/ind_int_wall_button"/>
+		<object path="units/pd2_dlc_mill/ind_int_wall_button/ind_int_wall_button"/>
+		<material_config path="units/pd2_dlc_mill/ind_int_wall_button/ind_int_wall_button"/>
+		<sequence_manager path="units/pd2_dlc_mill/ind_int_wall_button/ind_int_wall_button"/>
 	</add>
 </table>

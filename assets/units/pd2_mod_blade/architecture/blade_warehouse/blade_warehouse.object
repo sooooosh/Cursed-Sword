@@ -19,6 +19,7 @@
     <graphic_group name="grp_mkp" enabled="true">
       <object name="g_ext_ground" enabled="true" />
       <object name="g_ext_wall" enabled="true"/>
+      <!-- <object name="g_" enabled="true"/> -->
       <object name="g_int_wall" enabled="true"/>
       <!-- <object name="g_ext_roof" enabled="true"/> -->
       <object name="g_int_ground" enabled="true"/>

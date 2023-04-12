@@ -7,6 +7,9 @@
 		<extension name="interaction" class="CarryInteractionExt">
 			<var name="tweak_data" value="plushy_drop" />
 			<var name="_remove_on_interact" value="true" />
+			<var name="_ray_object_names" type="table" >
+				<var value="c_body"/>
+			</var>
 			<var name="_global_event" value="pku_kat" />
 		</extension>
 		<extension name="carry_data" class="CarryData">

@@ -2,5 +2,10 @@
 	<object file="units/pd2_mod_kitteh/pickups/kat_plushy_bag/npc_acc_kat_plushy" />
 	<extensions>
 		<extension name="unit_data" class="ScriptUnitData" />
+		<!-- <extension name="damage" class="UnitDamage" />
+		<extension name="interaction" class="UseInteractionExt">
+			<var name="tweak_data" value="plushy_pet" />
+			<var name="_global_event" value="pet_kat" />
+		</extension> -->
 	</extensions>
 </unit>

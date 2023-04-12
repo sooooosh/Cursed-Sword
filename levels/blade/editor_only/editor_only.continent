@@ -192,13 +192,13 @@
 			<unit_data _prev_pos="4761.87 -6179.41 100" _prev_rot="0 0 0.258819 -0.965926" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="container_location_07" position="4779.2 -6189.41 100" rotation="0 0 0.258819 -0.965926" unit_id="200044"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2169.44 -7246.27 100" _prev_rot="0 0 -0.649448 -0.760406" continent="editor_only" local_pos="3631.76 5401.78 0" local_rot="0 0 0.930418 -0.366501" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="container_location_08" position="2169.44 -7246.27 100" rotation="0 0 -0.649448 -0.760406" unit_id="200045"/>
+			<unit_data _prev_pos="2169.44 -7246.27 100" _prev_rot="0 0 -0.649448 -0.760406" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="container_location_08" position="2169.44 -8446.27 100" rotation="0 0 -0.649448 -0.760406" unit_id="200045"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="3010.63 -8708.02 100" _prev_rot="0 0 0.566406 -0.824126" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="container_location_09" position="3004.68 -8695.31 100" rotation="0 0 0.566406 -0.824126" unit_id="200046"/>
+			<unit_data _prev_pos="3004.68 -8695.31 100" _prev_rot="0 0 0.566406 -0.824126" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="container_location_09" position="3004.68 -7445.31 100" rotation="0 0 0.566406 -0.824126" unit_id="200046"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="5404.23 -8481.14 100" _prev_rot="0 0 0.999657 -0.0261772" continent="editor_only" local_pos="1842.97 8366.4 0" local_rot="0 0 -0.300706 0.953717" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="container_location_10" position="5404.23 -8481.14 100" rotation="0 0 0.999657 -0.0261772" unit_id="200047"/>
+			<unit_data _prev_pos="5404.23 -8481.14 100" _prev_rot="0 0 0.998135 0.0610483" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="container_location_10" position="5378.23 -8481.14 100" rotation="0 0 0.998135 0.0610483" unit_id="200047"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-3125 5700 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="50 -50 0" local_rot="0 0 -1 4.37114e-008" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_039" position="-3125 5700 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200048">
@@ -619,6 +619,9 @@
 					</shape>
 				</editable_gui>
 			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2500 7100 10000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_002" position="-2500 7100 10000" rotation="-0 0 -0 -1" unit_id="200092"/>
 		</table>
 	</statics>
 	<values>
