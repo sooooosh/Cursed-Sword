@@ -32,6 +32,12 @@
 		<table>
 			<unit_data _prev_pos="0 -82 27" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_arena/pickups/gen_pku_money_plasic_wrapped/gen_pku_money_plasic_wrapped" name_id="gen_pku_money_plasic_wrapped_001" position="0 -7 27" rotation="-0 0 -0 -1" unit_id="100007"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="100 100 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_001" only_exists_in_editor="true" position="-50 0 0" rotation="0 0 0 -1" unit_id="100004"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-50 0 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_002" only_exists_in_editor="true" position="-50 -100 0" rotation="0 0 0 -1" unit_id="100008"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

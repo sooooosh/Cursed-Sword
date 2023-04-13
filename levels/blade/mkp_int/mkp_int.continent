@@ -1580,6 +1580,12 @@
 		<table>
 			<unit_data _prev_pos="3475 -5950 472" _prev_rot="0 0 -8.74228e-008 -1" continent="mkp_int" local_pos="3.58433e-006 41 -14" local_rot="0 0 1 -4.37114e-008" name="units/payday2/architecture/com_int_construction_floor/com_int_construction_wood_pile" name_id="com_int_construction_wood_pile_038" position="3475 -5939 472" rotation="0 0 -8.74228e-008 -1" unit_id="300879"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="3055 -175 643.404" _prev_rot="0 0 0.866025 -0.5" continent="mkp_int" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_construction_floor/com_int_construction_wood_pile" name_id="com_int_construction_wood_pile_039" position="3055 -175 644.404" rotation="0 0 0.866025 -0.5" unit_id="300067"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1874.71 -607.77 100" _prev_rot="0 0 0.551937 -0.833886" continent="mkp_int" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_construction_floor/com_int_construction_wood_pile" name_id="com_int_construction_wood_pile_040" position="1874.71 -607.77 100" rotation="0 0 0.551937 -0.833886" unit_id="300068"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

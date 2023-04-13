@@ -9,6 +9,9 @@
 			<var name="_special_equipment" value="blade_scubagear" />
 			<var name="_remove_on_interact" value="false" />
 			<var name="_global_event" value="pku_blade_scuba"/>
+			<var name="_ray_object_names" type="table" >
+				<var value="dm_cloth"/>
+			</var>
 		</extension>
 	</extensions>
 </unit>

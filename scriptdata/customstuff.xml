@@ -93,7 +93,7 @@
 
         <interaction
             id="blade_take_scubagear"
-            interact_distance="150"
+            interact_distance="170"
             timer="4"
             special_equipment_block="blade_scubagear"
         />
