@@ -33,19 +33,19 @@
 			<unit_data _prev_pos="5650 -800 547.404" _prev_rot="0.382683 0 0 -0.92388" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_003" position="5650 -800 547.404" rotation="0.317305 0 0 -0.948324" unit_id="200002"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="5650 -782.322 529.726" _prev_rot="0.382683 0 0 -0.92388" continent="editor_only" local_pos="0 25 2.86102e-006" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_004" position="5650 -780.034 532.359" rotation="0.317305 0 0 -0.948324" unit_id="200003"/>
+			<unit_data _prev_pos="5650 -780.034 532.359" _prev_rot="0.317305 0 0 -0.948324" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_004" position="5650 -760.068 517.314" rotation="0.317305 0 0 -0.948324" unit_id="200003"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="300 -1750 100" _prev_rot="0.259156 0.259156 -0.657905 -0.657905" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_001" position="300 -1750 100" rotation="0.259155 0.259156 -0.657905 -0.657905" unit_id="200000"/>
+			<unit_data _prev_pos="300 -1750 75" _prev_rot="0.259155 0.259156 -0.657905 -0.657905" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_001" position="313 -1750 75" rotation="0.259155 0.259156 -0.657905 -0.657905" unit_id="200000"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="263.432 -1750 65.9001" _prev_rot="0.259156 0.259156 -0.657905 -0.657905" continent="editor_only" local_pos="5.37546e-006 50 1.90735e-006" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_002" position="263.432 -1750 65.9001" rotation="0.259155 0.259156 -0.657905 -0.657905" unit_id="200001"/>
+			<unit_data _prev_pos="263.432 -1750 40.9001" _prev_rot="0.259155 0.259156 -0.657905 -0.657905" continent="editor_only" local_pos="-1.66744e-005 50.0002 0.000200272" local_rot="8.9407e-008 5.96046e-008 -1.49012e-007 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_002" position="276.432 -1750 40.9001" rotation="0.259155 0.259156 -0.657905 -0.657905" unit_id="200001"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="300 -1750 100" _prev_rot="0.259155 0.259156 -0.657905 -0.657905" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_014" position="300.004 -7225 99.9934" rotation="0.259155 0.259156 -0.657905 -0.657905" unit_id="200013"/>
+			<unit_data _prev_pos="308.004 -7225 74.9934" _prev_rot="0.259155 0.259156 -0.657905 -0.657905" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_014" position="306.004 -7225 74.9934" rotation="0.259155 0.259156 -0.657905 -0.657905" unit_id="200013"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="263.432 -1750 65.9001" _prev_rot="0.259155 0.259156 -0.657905 -0.657905" continent="editor_only" local_pos="-1.66744e-005 50.0002 0.000205994" local_rot="1.49012e-008 1.49012e-008 -2.98023e-008 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_015" position="263.436 -7225 65.8935" rotation="0.259155 0.259156 -0.657905 -0.657905" unit_id="200014"/>
+			<unit_data _prev_pos="271.436 -7225 40.8935" _prev_rot="0.259155 0.259156 -0.657905 -0.657905" continent="editor_only" local_pos="-1.66744e-005 50.0002 0.000200272" local_rot="8.9407e-008 5.96046e-008 -1.49012e-007 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_015" position="269.436 -7225 40.8935" rotation="0.259155 0.259156 -0.657905 -0.657905" unit_id="200014"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-2500 4900 10000" _prev_rot="0 0 -0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_001" position="-2500 4900 10000" rotation="0 0 -0 -1" unit_id="200015"/>
