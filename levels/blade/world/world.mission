@@ -27694,6 +27694,7 @@
 			<entry index="42" type="string" value="blade_crate_006"/>
 			<entry index="43" type="string" value="blade_crate_007"/>
 			<entry index="44" type="string" value="blade_crate_008"/>
+			<entry index="45" type="string" value="blade_crate_009"/>
 		</entry>
 		<entry key="name" type="string" value="default"/>
 	</entry>
