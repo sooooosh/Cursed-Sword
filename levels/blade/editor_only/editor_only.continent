@@ -468,7 +468,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3600 6000 10000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_004" position="-4600 6000 10000" rotation="0 0 0 -1" unit_id="200018"/>
+			<unit_data _prev_pos="-4600 6000 10000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_004" position="-4700 6000 10000" rotation="0 0 0 -1" unit_id="200018"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-3550 5700 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_057" position="-3525 5700 10002.5" rotation="0 0 1 4.37114e-008" unit_id="200075">
@@ -609,8 +609,8 @@
 			<unit_data _prev_pos="-2500 4900 10000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_015" position="-3600 4900 10000" rotation="0 0 0 -1" unit_id="200090"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3125 4450 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_008" position="-3125 4450 10002.5" rotation="0 0 1 4.37114e-008" unit_id="200091">
-				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="5" render_template="diffuse_vc_decal" text="transition to loud" vertical="center" word_wrap="false" wrap="false">
+			<unit_data _prev_pos="-3125 4450 10002.5" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="475 -450 2.5" local_rot="0 0 -1 4.37114e-008" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_008" position="-3125 4450 10002.5" rotation="0 0 1 -4.37114e-008" unit_id="200091">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="5" render_template="diffuse_vc_decal" text="civilians" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
 						<value_node value="0"/>
@@ -622,6 +622,30 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="-2500 7100 10000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_002" position="-2500 7100 10000" rotation="-0 0 -0 -1" unit_id="200092"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7847.87 974.043 369.423" _prev_rot="-0.200774 -0.203242 0.673484 -0.681763" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_1x1m_a_018" position="7847.87 974.043 369.423" rotation="-0.200774 -0.203242 0.673484 -0.681763" unit_id="200093"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6722.95 960.299 369.423" _prev_rot="-0.200774 -0.203242 0.673484 -0.681763" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_1x1m_a_019" position="6722.95 960.299 369.423" rotation="-0.200774 -0.203242 0.673484 -0.681763" unit_id="200094"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4600 4900 10000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_016" position="-4700 4900 10000" rotation="0 0 0 -1" unit_id="200095"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4225 4450 10002.5" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_021" position="-4225 4450 10002.5" rotation="0 0 1 4.37114e-008" unit_id="200096">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="5" render_template="diffuse_vc_decal" text="triads / guards" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4200 6000 10000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_017" position="-4150 6000 10000" rotation="0 0 0 -1" unit_id="200097"/>
 		</table>
 	</statics>
 	<values>

@@ -2111,8 +2111,600 @@
 		<unit path="units/pd2_dlc_cro/vehicles/veh_cargo_ship/veh_cargo_ship_shoutoutraid"/>
 	</add>
 	<add from_db="true" path="units/payday2/props/gen_prop_container_a/gen_prop_container_a_yellow" type="unit">
-		<unit path="units/payday2/props/gen_prop_container_a/gen_prop_container_a_yellow"/>
-		<object path="units/payday2/props/gen_prop_container_a/gen_prop_container_a_yellow"/>
 		<material_config path="units/payday2/props/gen_prop_container_a/gen_prop_container_a"/>
+		<object path="units/payday2/props/gen_prop_container_a/gen_prop_container_a_yellow"/>
+		<unit path="units/payday2/props/gen_prop_container_a/gen_prop_container_a_yellow"/>
+	</add>
+	<add from_db="true" path="units/world/props/survivalist/cardboard_box/cardboard_box02" type="unit">
+		<material_config path="units/world/props/survivalist/cardboard_box/cardboard_box_02"/>
+		<object path="units/world/props/survivalist/cardboard_box/cardboard_box02"/>
+		<unit path="units/world/props/survivalist/cardboard_box/cardboard_box02"/>
+	</add>
+	<add from_db="true" path="units/world/props/survivalist/cardboard_box/cardboard_box01" type="unit">
+		<material_config path="units/world/props/survivalist/cardboard_box/cardboard_box_01"/>
+		<object path="units/world/props/survivalist/cardboard_box/cardboard_box01"/>
+		<unit path="units/world/props/survivalist/cardboard_box/cardboard_box01"/>
+	</add>
+	<add from_db="true" path="units/world/props/survivalist/cardboard_box/cardboard_box03" type="unit">
+		<material_config path="units/world/props/survivalist/cardboard_box/cardboard_box_03"/>
+		<object path="units/world/props/survivalist/cardboard_box/cardboard_box03"/>
+		<unit path="units/world/props/survivalist/cardboard_box/cardboard_box03"/>
+	</add>
+	<add from_db="true" path="units/world/props/desert/des_prop_cardboardbox/des_prop_cardboardbox" type="unit">
+		<material_config path="units/world/props/desert/des_prop_cardboardbox/des_prop_cardboardbox"/>
+		<object path="units/world/props/desert/des_prop_cardboardbox/des_prop_cardboardbox"/>
+		<unit path="units/world/props/desert/des_prop_cardboardbox/des_prop_cardboardbox"/>
+	</add>
+	<add from_db="true" path="units/payday2/characters/civ_acc_worker_docks_helmet_1/civ_acc_worker_docks_helmet_1" type="unit">
+		<material_config path="units/payday2/characters/civ_acc_worker_docks_helmet_1/civ_acc_worker_docks_helmet_1"/>
+		<object path="units/payday2/characters/civ_acc_worker_docks_helmet_1/civ_acc_worker_docks_helmet_1"/>
+		<unit load="true" path="units/payday2/characters/civ_acc_worker_docks_helmet_1/civ_acc_worker_docks_helmet_1"/>
+	</add>
+	<add from_db="true" path="units/payday2/characters/civ_male_worker_docks_1/civ_male_worker_docks_1" type="unit">
+		<unit load="true" path="units/payday2/characters/civ_male_worker_docks_1/civ_male_worker_docks_1"/>
+		<animation_states path="anims/units/enemies/cop/std"/>
+		<animation_states path="anims/units/enemies/cop/civilian"/>
+		<object path="units/payday2/characters/civ_male_worker_docks_1/civ_male_worker_docks_1"/>
+		<material_config path="units/payday2/characters/civ_male_worker_docks_1/civ_male_worker_docks_1"/>
+		<animation_subset path="anims/units/enemies/cop/std"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_legs"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_legs"/>
+		<animation_subset path="anims/units/enemies/cop/combat_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/combat_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_shield"/>
+		<animation_subset path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bullpup"/>
+		<unit path="units/payday2/characters/civ_acc_worker_docks_helmet_1/civ_acc_worker_docks_helmet_1"/>
+		<object path="units/payday2/characters/civ_acc_worker_docks_helmet_1/civ_acc_worker_docks_helmet_1"/>
+		<material_config path="units/payday2/characters/civ_acc_worker_docks_helmet_1/civ_acc_worker_docks_helmet_1"/>
+		<unit load="true" path="units/payday2/characters/civ_male_worker_docks_1/civ_male_worker_docks_1_husk"/>
+		<animation_def path="anims/units/enemies/cop/cop_def"/>
+		<animation_state_machine path="anims/units/enemies/cop/cop_machine"/>
+		<bnk path="soundbanks/regular_vox"/>
+		<sequence_manager path="units/payday2/characters/ragdoll"/>
+	</add>
+	<add from_db="true" path="units/payday2/characters/civ_male_worker_1/civ_male_worker_1" type="unit">
+		<unit load="true" path="units/payday2/characters/civ_male_worker_1/civ_male_worker_1"/>
+		<animation_states path="anims/units/enemies/cop/std"/>
+		<animation_states path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/std"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_legs"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_legs"/>
+		<animation_subset path="anims/units/enemies/cop/combat_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/combat_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_shield"/>
+		<animation_subset path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bullpup"/>
+		<unit load="true" path="units/payday2/characters/civ_male_worker_1/civ_male_worker_1_husk"/>
+		<animation_def path="anims/units/enemies/cop/cop_def"/>
+		<animation_state_machine path="anims/units/enemies/cop/cop_machine"/>
+		<bnk path="soundbanks/regular_vox"/>
+		<material_config path="units/payday2/characters/civ_male_worker_1/civ_male_worker_1"/>
+		<object path="units/payday2/characters/civ_male_worker_1/civ_male_worker_1"/>
+		<sequence_manager path="units/payday2/characters/ragdoll"/>
+	</add>
+	<add from_db="true" path="units/payday2/characters/civ_male_worker_docks_2/civ_male_worker_docks_2" type="unit">
+		<unit load="true" path="units/payday2/characters/civ_male_worker_docks_2/civ_male_worker_docks_2"/>
+		<animation_states path="anims/units/enemies/cop/std"/>
+		<animation_states path="anims/units/enemies/cop/civilian"/>
+		<object path="units/payday2/characters/civ_male_worker_docks_2/civ_male_worker_docks_2"/>
+		<material_config path="units/payday2/characters/civ_male_worker_docks_2/civ_male_worker_docks_2"/>
+		<animation_subset path="anims/units/enemies/cop/std"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_legs"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_legs"/>
+		<animation_subset path="anims/units/enemies/cop/combat_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/combat_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_shield"/>
+		<animation_subset path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bullpup"/>
+		<unit path="units/payday2/characters/civ_acc_worker_docks_helmet_2/civ_acc_worker_docks_helmet_2"/>
+		<object path="units/payday2/characters/civ_acc_worker_docks_helmet_2/civ_acc_worker_docks_helmet_2"/>
+		<material_config path="units/payday2/characters/civ_acc_worker_docks_helmet_2/civ_acc_worker_docks_helmet_2"/>
+		<unit load="true" path="units/payday2/characters/civ_male_worker_docks_2/civ_male_worker_docks_2_husk"/>
+		<animation_def path="anims/units/enemies/cop/cop_def"/>
+		<animation_state_machine path="anims/units/enemies/cop/cop_machine"/>
+		<bnk path="soundbanks/regular_vox"/>
+		<sequence_manager path="units/payday2/characters/ragdoll"/>
+	</add>
+	<add from_db="true" path="units/payday2/characters/civ_male_worker_2/civ_male_worker_2" type="unit">
+		<unit load="true" path="units/payday2/characters/civ_male_worker_2/civ_male_worker_2"/>
+		<animation_states path="anims/units/enemies/cop/std"/>
+		<animation_states path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/std"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_legs"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_legs"/>
+		<animation_subset path="anims/units/enemies/cop/combat_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/combat_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_shield"/>
+		<animation_subset path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bullpup"/>
+		<unit load="true" path="units/payday2/characters/civ_male_worker_2/civ_male_worker_2_husk"/>
+		<animation_def path="anims/units/enemies/cop/cop_def"/>
+		<animation_state_machine path="anims/units/enemies/cop/cop_machine"/>
+		<bnk path="soundbanks/regular_vox"/>
+		<material_config path="units/payday2/characters/civ_male_worker_2/civ_male_worker_2"/>
+		<object path="units/payday2/characters/civ_male_worker_2/civ_male_worker_2"/>
+		<sequence_manager path="units/payday2/characters/ragdoll"/>
+	</add>
+	<add from_db="true" path="units/payday2/characters/civ_male_worker_3/civ_male_worker_3" type="unit">
+		<unit load="true" path="units/payday2/characters/civ_male_worker_3/civ_male_worker_3"/>
+		<animation_states path="anims/units/enemies/cop/std"/>
+		<animation_states path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/std"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_legs"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_legs"/>
+		<animation_subset path="anims/units/enemies/cop/combat_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/combat_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_shield"/>
+		<animation_subset path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bullpup"/>
+		<unit load="true" path="units/payday2/characters/civ_male_worker_3/civ_male_worker_3_husk"/>
+		<animation_def path="anims/units/enemies/cop/cop_def"/>
+		<animation_state_machine path="anims/units/enemies/cop/cop_machine"/>
+		<bnk path="soundbanks/regular_vox"/>
+		<material_config path="units/payday2/characters/civ_male_worker_3/civ_male_worker_3"/>
+		<object path="units/payday2/characters/civ_male_worker_3/civ_male_worker_3"/>
+		<sequence_manager path="units/payday2/characters/ragdoll"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_sand/characters/civ_male_dockworker_01/civ_male_dockworker_01" type="unit">
+		<unit load="true" path="units/pd2_dlc_sand/characters/civ_male_dockworker_01/civ_male_dockworker_01"/>
+		<animation_states path="anims/units/enemies/cop/std"/>
+		<animation_states path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/std"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_legs"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_legs"/>
+		<animation_subset path="anims/units/enemies/cop/combat_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/combat_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_shield"/>
+		<animation_subset path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bullpup"/>
+		<unit load="true" path="units/pd2_dlc_sand/characters/civ_male_dockworker_01/civ_male_dockworker_01_husk"/>
+		<animation_def path="anims/units/enemies/cop/cop_def"/>
+		<animation_state_machine path="anims/units/enemies/cop/cop_machine"/>
+		<material_config path="units/pd2_dlc_sand/characters/civ_male_dockworker_01/civ_male_dockworker_01"/>
+		<object path="units/pd2_dlc_sand/characters/civ_male_dockworker_01/civ_male_dockworker_01"/>
+		<sequence_manager path="units/payday2/characters/ragdoll"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_sand/characters/civ_male_dockworker_02/civ_male_dockworker_02" type="unit">
+		<unit load="true" path="units/pd2_dlc_sand/characters/civ_male_dockworker_02/civ_male_dockworker_02"/>
+		<animation_states path="anims/units/enemies/cop/std"/>
+		<animation_states path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/std"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_legs"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_legs"/>
+		<animation_subset path="anims/units/enemies/cop/combat_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/combat_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_shield"/>
+		<animation_subset path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bullpup"/>
+		<unit load="true" path="units/pd2_dlc_sand/characters/civ_male_dockworker_02/civ_male_dockworker_02_husk"/>
+		<animation_def path="anims/units/enemies/cop/cop_def"/>
+		<animation_state_machine path="anims/units/enemies/cop/cop_machine"/>
+		<material_config path="units/pd2_dlc_sand/characters/civ_male_dockworker_02/civ_male_dockworker_02"/>
+		<object path="units/pd2_dlc_sand/characters/civ_male_dockworker_02/civ_male_dockworker_02"/>
+		<sequence_manager path="units/payday2/characters/ragdoll"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_sand/characters/civ_male_dockworker_03/civ_male_dockworker_03" type="unit">
+		<unit load="true" path="units/pd2_dlc_sand/characters/civ_male_dockworker_03/civ_male_dockworker_03"/>
+		<animation_states path="anims/units/enemies/cop/std"/>
+		<animation_states path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/std"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_legs"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_legs"/>
+		<animation_subset path="anims/units/enemies/cop/combat_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/combat_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_shield"/>
+		<animation_subset path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bullpup"/>
+		<unit load="true" path="units/pd2_dlc_sand/characters/civ_male_dockworker_03/civ_male_dockworker_03_husk"/>
+		<animation_def path="anims/units/enemies/cop/cop_def"/>
+		<animation_state_machine path="anims/units/enemies/cop/cop_machine"/>
+		<material_config path="units/pd2_dlc_sand/characters/civ_male_dockworker_03/civ_male_dockworker_03"/>
+		<object path="units/pd2_dlc_sand/characters/civ_male_dockworker_03/civ_male_dockworker_03"/>
+		<sequence_manager path="units/payday2/characters/ragdoll"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/res_ext_apartment/res_ext_debris" type="unit">
+		<material_config path="units/payday2/architecture/res_ext_apartment/res_ext_debris"/>
+		<object path="units/payday2/architecture/res_ext_apartment/res_ext_debris"/>
+		<unit path="units/payday2/architecture/res_ext_apartment/res_ext_debris"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/gen_prop_lab_clipboards/gen_prop_lab_clipboard" type="unit">
+		<material_config path="units/payday2/props/gen_prop_lab_clipboards/gen_prop_lab_clipboard"/>
+		<object path="units/payday2/props/gen_prop_lab_clipboards/gen_prop_lab_clipboard"/>
+		<sequence_manager path="units/payday2/props/gen_prop_lab_clipboards/gen_prop_lab_clipboard"/>
+		<unit path="units/payday2/props/gen_prop_lab_clipboards/gen_prop_lab_clipboard"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_nmh/props/clipboardwallpocket01/nmh_prop_clipboardwallpocket01" type="unit">
+		<material_config path="units/pd2_dlc_nmh/props/clipboardwallpocket01/nmh_prop_clipboardwallpocket01"/>
+		<object path="units/pd2_dlc_nmh/props/clipboardwallpocket01/nmh_prop_clipboardwallpocket01"/>
+		<unit path="units/pd2_dlc_nmh/props/clipboardwallpocket01/nmh_prop_clipboardwallpocket01"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_dark/character/ene_acc_dark_blowtorch/ene_acc_dark_blowtorch" type="unit">
+		<effect load="true" path="effects/payday2/particles/equipment/welding_effect_blowtorch"/>
+		<effect load="true" path="effects/payday2/particles/equipment/sparks_random_slow"/>
+		<material_config path="units/pd2_dlc_dark/pickups/drk_pku_blowtorch/drk_pku_blowtorch"/>
+		<object path="units/pd2_dlc_dark/character/ene_acc_dark_blowtorch/ene_acc_dark_blowtorch"/>
+		<unit path="units/pd2_dlc_dark/character/ene_acc_dark_blowtorch/ene_acc_dark_blowtorch"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_dark/pickups/drk_pku_blowtorch/drk_prop_blowtorch" type="unit">
+		<material_config path="units/pd2_dlc_dark/pickups/drk_pku_blowtorch/drk_pku_blowtorch"/>
+		<object path="units/pd2_dlc_dark/pickups/drk_pku_blowtorch/drk_prop_blowtorch"/>
+		<unit path="units/pd2_dlc_dark/pickups/drk_pku_blowtorch/drk_prop_blowtorch"/>
+	</add>
+	<add from_db="true" path="units/payday2/characters/civ_male_casual_1/civ_male_casual_1" type="unit">
+		<unit load="true" path="units/payday2/characters/civ_male_casual_1/civ_male_casual_1"/>
+		<animation_states path="anims/units/enemies/cop/std"/>
+		<animation_states path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/std"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_legs"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_legs"/>
+		<animation_subset path="anims/units/enemies/cop/combat_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/combat_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_shield"/>
+		<animation_subset path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bullpup"/>
+		<unit load="true" path="units/payday2/characters/civ_male_casual_1/civ_male_casual_1_husk"/>
+		<animation_def path="anims/units/enemies/cop/cop_def"/>
+		<animation_state_machine path="anims/units/enemies/cop/cop_machine"/>
+		<bnk path="soundbanks/regular_vox"/>
+		<material_config path="units/payday2/characters/civ_male_casual_1/civ_male_casual_1"/>
+		<object path="units/payday2/characters/civ_male_casual_1/civ_male_casual_1"/>
+		<sequence_manager path="units/payday2/characters/ragdoll"/>
+	</add>
+	<add from_db="true" path="units/payday2/characters/civ_male_casual_8/civ_male_casual_8" type="unit">
+		<unit load="true" path="units/payday2/characters/civ_male_casual_8/civ_male_casual_8"/>
+		<animation_states path="anims/units/enemies/cop/std"/>
+		<animation_states path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/std"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_legs"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_legs"/>
+		<animation_subset path="anims/units/enemies/cop/combat_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/combat_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_shield"/>
+		<animation_subset path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bullpup"/>
+		<unit load="true" path="units/payday2/characters/civ_male_casual_8/civ_male_casual_8_husk"/>
+		<animation_def path="anims/units/enemies/cop/cop_def"/>
+		<animation_state_machine path="anims/units/enemies/cop/cop_machine"/>
+		<bnk path="soundbanks/regular_vox"/>
+		<material_config path="units/payday2/characters/civ_male_casual_8/civ_male_casual_8"/>
+		<object path="units/payday2/characters/civ_male_casual_8/civ_male_casual_8"/>
+		<sequence_manager path="units/payday2/characters/ragdoll"/>
+	</add>
+	<add from_db="true" path="units/payday2/characters/civ_female_casual_3/civ_female_casual_3" type="unit">
+		<unit load="true" path="units/payday2/characters/civ_female_casual_3/civ_female_casual_3"/>
+		<animation_states path="anims/units/enemies/cop/std"/>
+		<animation_states path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/std"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_legs"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_legs"/>
+		<animation_subset path="anims/units/enemies/cop/combat_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/combat_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_shield"/>
+		<animation_subset path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bullpup"/>
+		<unit load="true" path="units/payday2/characters/civ_female_casual_3/civ_female_casual_3_husk"/>
+		<animation_def path="anims/units/enemies/cop/cop_def"/>
+		<animation_state_machine path="anims/units/enemies/cop/cop_machine"/>
+		<material_config path="units/payday2/characters/civ_female_casual_3/civ_female_casual_3"/>
+		<object path="units/payday2/characters/civ_female_casual_3/civ_female_casual_3"/>
+		<sequence_manager path="units/payday2/characters/ragdoll"/>
+	</add>
+	<add from_db="true" path="units/payday2/characters/civ_female_casual_7/civ_female_casual_7" type="unit">
+		<unit load="true" path="units/payday2/characters/civ_female_casual_7/civ_female_casual_7"/>
+		<animation_states path="anims/units/enemies/cop/std"/>
+		<animation_states path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/std"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_legs"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_legs"/>
+		<animation_subset path="anims/units/enemies/cop/combat_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/combat_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_shield"/>
+		<animation_subset path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bullpup"/>
+		<unit load="true" path="units/payday2/characters/civ_female_casual_7/civ_female_casual_7_husk"/>
+		<animation_def path="anims/units/enemies/cop/cop_def"/>
+		<animation_state_machine path="anims/units/enemies/cop/cop_machine"/>
+		<material_config path="units/payday2/characters/civ_female_casual_7/civ_female_casual_7"/>
+		<object path="units/payday2/characters/civ_female_casual_7/civ_female_casual_7"/>
+		<sequence_manager path="units/payday2/characters/ragdoll"/>
+	</add>
+	<add from_db="true" path="units/payday2/characters/civ_female_casual_9/civ_female_casual_9" type="unit">
+		<unit load="true" path="units/payday2/characters/civ_female_casual_9/civ_female_casual_9"/>
+		<animation_states path="anims/units/enemies/cop/std"/>
+		<animation_states path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/std"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_legs"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_legs"/>
+		<animation_subset path="anims/units/enemies/cop/combat_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/combat_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_shield"/>
+		<animation_subset path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bullpup"/>
+		<unit load="true" path="units/payday2/characters/civ_female_casual_9/civ_female_casual_9_husk"/>
+		<animation_def path="anims/units/enemies/cop/cop_def"/>
+		<animation_state_machine path="anims/units/enemies/cop/cop_machine"/>
+		<bnk path="soundbanks/regular_vox"/>
+		<material_config path="units/payday2/characters/civ_female_casual_9/civ_female_casual_9"/>
+		<object path="units/payday2/characters/civ_female_casual_9/civ_female_casual_9"/>
+		<sequence_manager path="units/payday2/characters/ragdoll"/>
+	</add>
+	<add from_db="true" path="units/payday2/characters/civ_female_casual_2/civ_female_casual_2" type="unit">
+		<unit load="true" path="units/payday2/characters/civ_female_casual_2/civ_female_casual_2"/>
+		<animation_states path="anims/units/enemies/cop/std"/>
+		<animation_states path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/std"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_legs"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_legs"/>
+		<animation_subset path="anims/units/enemies/cop/combat_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/combat_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_shield"/>
+		<animation_subset path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bullpup"/>
+		<unit load="true" path="units/payday2/characters/civ_female_casual_2/civ_female_casual_2_husk"/>
+		<animation_def path="anims/units/enemies/cop/cop_def"/>
+		<animation_state_machine path="anims/units/enemies/cop/cop_machine"/>
+		<material_config path="units/payday2/characters/civ_female_casual_2/civ_female_casual_2"/>
+		<object path="units/payday2/characters/civ_female_casual_2/civ_female_casual_2"/>
+		<sequence_manager path="units/payday2/characters/ragdoll"/>
+	</add>
+	<add from_db="true" path="units/payday2/decals/bnk_decal_papers_3/bnk_decal_papers_3" type="unit">
+		<material_config path="units/world/brushes/bank_papers/bank_papers"/>
+		<object path="units/payday2/decals/bnk_decal_papers_3/bnk_decal_papers_3"/>
+		<unit path="units/payday2/decals/bnk_decal_papers_3/bnk_decal_papers_3"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_paperstacks/off_prop_officehigh_paper_stack_02" type="unit">
+		<effect load="true" path="effects/payday2/particles/destruction/des_paper"/>
+		<material_config path="units/payday2/props/off_prop_officehigh_paperstacks/off_prop_officehigh_paper_stack"/>
+		<object path="units/payday2/props/off_prop_officehigh_paperstacks/off_prop_officehigh_paper_stack_02"/>
+		<sequence_manager path="units/payday2/props/off_prop_officehigh_paperstacks/off_prop_officehigh_paper_stack_02"/>
+		<unit path="units/payday2/props/off_prop_officehigh_paperstacks/off_prop_officehigh_paper_stack_02"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_paperstacks/off_prop_officehigh_paper_stack_03" type="unit">
+		<effect load="true" path="effects/payday2/particles/destruction/des_paper"/>
+		<material_config path="units/payday2/props/off_prop_officehigh_paperstacks/off_prop_officehigh_paper_stack"/>
+		<object path="units/payday2/props/off_prop_officehigh_paperstacks/off_prop_officehigh_paper_stack_03"/>
+		<sequence_manager path="units/payday2/props/off_prop_officehigh_paperstacks/off_prop_officehigh_paper_stack_03"/>
+		<unit path="units/payday2/props/off_prop_officehigh_paperstacks/off_prop_officehigh_paper_stack_03"/>
+	</add>
+	<add from_db="true" path="units/payday2/characters/civ_male_casual_2/civ_male_casual_2" type="unit">
+		<unit load="true" path="units/payday2/characters/civ_male_casual_2/civ_male_casual_2"/>
+		<animation_states path="anims/units/enemies/cop/std"/>
+		<animation_states path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/std"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_legs"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_legs"/>
+		<animation_subset path="anims/units/enemies/cop/combat_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/combat_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_shield"/>
+		<animation_subset path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bullpup"/>
+		<unit load="true" path="units/payday2/characters/civ_male_casual_2/civ_male_casual_2_husk"/>
+		<animation_def path="anims/units/enemies/cop/cop_def"/>
+		<animation_state_machine path="anims/units/enemies/cop/cop_machine"/>
+		<bnk path="soundbanks/regular_vox"/>
+		<material_config path="units/payday2/characters/civ_male_casual_2/civ_male_casual_2"/>
+		<object path="units/payday2/characters/civ_male_casual_2/civ_male_casual_2"/>
+		<sequence_manager path="units/payday2/characters/ragdoll"/>
+	</add>
+	<add from_db="true" path="units/payday2/characters/civ_male_casual_12/civ_male_casual_12" type="unit">
+		<unit load="true" path="units/payday2/characters/civ_male_casual_12/civ_male_casual_12"/>
+		<animation_states path="anims/units/enemies/cop/std"/>
+		<animation_states path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/std"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_legs"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_legs"/>
+		<animation_subset path="anims/units/enemies/cop/combat_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/combat_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_shield"/>
+		<animation_subset path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bullpup"/>
+		<unit load="true" path="units/payday2/characters/civ_male_casual_12/civ_male_casual_12_husk"/>
+		<animation_def path="anims/units/enemies/cop/cop_def"/>
+		<animation_state_machine path="anims/units/enemies/cop/cop_machine"/>
+		<bnk path="soundbanks/regular_vox"/>
+		<material_config path="units/payday2/characters/civ_male_casual_12/civ_male_casual_12"/>
+		<object path="units/payday2/characters/civ_male_casual_12/civ_male_casual_12"/>
+		<sequence_manager path="units/payday2/characters/ragdoll"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_chas/characters/civ_male_asian_casual_1/civ_male_asian_casual_1" type="unit">
+		<unit load="true" path="units/pd2_dlc_chas/characters/civ_male_asian_casual_1/civ_male_asian_casual_1"/>
+		<animation_states path="anims/units/enemies/cop/std"/>
+		<animation_states path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/std"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_legs"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_legs"/>
+		<animation_subset path="anims/units/enemies/cop/combat_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/combat_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_shield"/>
+		<animation_subset path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bullpup"/>
+		<unit load="true" path="units/pd2_dlc_chas/characters/civ_male_asian_casual_1/civ_male_asian_casual_1_husk"/>
+		<animation_def path="anims/units/enemies/cop/cop_def"/>
+		<animation_state_machine path="anims/units/enemies/cop/cop_machine"/>
+		<material_config path="units/pd2_dlc_chas/characters/civ_male_asian_casual_1/civ_male_asian_casual_1"/>
+		<object path="units/pd2_dlc_chas/characters/civ_male_asian_casual_1/civ_male_asian_casual_1"/>
+		<sequence_manager path="units/payday2/characters/ragdoll"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_chas/characters/civ_male_asian_casual_2/civ_male_asian_casual_2" type="unit">
+		<unit load="true" path="units/pd2_dlc_chas/characters/civ_male_asian_casual_2/civ_male_asian_casual_2"/>
+		<animation_state_machine path="anims/units/enemies/cop/cop_machine"/>
+		<animation_states path="anims/units/enemies/cop/std"/>
+		<animation_states path="anims/units/enemies/cop/civilian"/>
+		<object path="units/pd2_dlc_chas/characters/civ_male_asian_casual_2/civ_male_asian_casual_2"/>
+		<material_config path="units/pd2_dlc_chas/characters/civ_male_asian_casual_2/civ_male_asian_casual_2"/>
+		<sequence_manager path="units/payday2/characters/ragdoll"/>
+		<animation_def path="anims/units/enemies/cop/cop_def"/>
+		<animation_subset path="anims/units/enemies/cop/std"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_legs"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_legs"/>
+		<animation_subset path="anims/units/enemies/cop/combat_rifle"/>
+		<animation_subset path="anims/units/enemies/cop/combat_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_shield"/>
+		<animation_subset path="anims/units/enemies/cop/civilian"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/combat_akimbo_pistol"/>
+		<animation_subset path="anims/units/enemies/cop/hostile_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bow"/>
+		<animation_subset path="anims/units/enemies/cop/combat_bullpup"/>
+		<unit load="true" path="units/pd2_dlc_chas/characters/civ_male_asian_casual_2/civ_male_asian_casual_2_husk"/>
 	</add>
 </table>

@@ -559,7 +559,7 @@
 					<entry key="interval" type="number" value="0"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="8275 -1725 534.937"/>
+					<entry key="position" type="vector3" value="8275 -2350 534.937"/>
 					<entry key="preferred_spawn_groups" type="table">
 						<entry index="1" type="string" value="tac_shield_wall_charge"/>
 						<entry index="2" type="string" value="FBI_spoocs"/>
@@ -593,9 +593,9 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="8025 -1725 264.937"/>
+					<entry key="position" type="vector3" value="8025 -2350 264.937"/>
 					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
-					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
+					<entry key="spawn_action" type="string" value="e_sp_boat_climb"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="voice" type="number" value="0"/>
@@ -618,9 +618,9 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="8025 -1825 264.937"/>
+					<entry key="position" type="vector3" value="8025 -2450 264.937"/>
 					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
-					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
+					<entry key="spawn_action" type="string" value="e_sp_boat_climb"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="voice" type="number" value="0"/>
@@ -643,9 +643,9 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="8025 -1925 264.937"/>
+					<entry key="position" type="vector3" value="8025 -2550 264.937"/>
 					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
-					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
+					<entry key="spawn_action" type="string" value="e_sp_boat_climb"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="voice" type="number" value="0"/>
@@ -668,9 +668,9 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="8025 -2025 264.937"/>
+					<entry key="position" type="vector3" value="8025 -2650 264.937"/>
 					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
-					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
+					<entry key="spawn_action" type="string" value="e_sp_boat_climb"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="voice" type="number" value="0"/>
@@ -693,9 +693,9 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="8025 -2125 264.937"/>
-					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
-					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
+					<entry key="position" type="vector3" value="8025 -2750 264.937"/>
+					<entry key="rotation" type="quaternion" value="6.20916e-009 -6.17004e-009 -0.707107 -0.707107"/>
+					<entry key="spawn_action" type="string" value="e_sp_boat_climb"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="voice" type="number" value="0"/>
@@ -1283,7 +1283,7 @@
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
 					<entry key="position" type="vector3" value="8000 -150 270.443"/>
 					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
-					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
+					<entry key="spawn_action" type="string" value="e_sp_boat_climb"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="voice" type="number" value="0"/>
@@ -1308,7 +1308,7 @@
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
 					<entry key="position" type="vector3" value="8000 -250 270.443"/>
 					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
-					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
+					<entry key="spawn_action" type="string" value="e_sp_boat_climb"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="voice" type="number" value="0"/>
@@ -1333,7 +1333,7 @@
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
 					<entry key="position" type="vector3" value="8000 -350 270.443"/>
 					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
-					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
+					<entry key="spawn_action" type="string" value="e_sp_boat_climb"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="voice" type="number" value="0"/>
@@ -1358,7 +1358,7 @@
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
 					<entry key="position" type="vector3" value="8000 -450 270.443"/>
 					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
-					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
+					<entry key="spawn_action" type="string" value="e_sp_boat_climb"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="voice" type="number" value="0"/>
@@ -1383,7 +1383,7 @@
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
 					<entry key="position" type="vector3" value="8000 -550 270.443"/>
 					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
-					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
+					<entry key="spawn_action" type="string" value="e_sp_boat_climb"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="voice" type="number" value="0"/>
@@ -27704,6 +27704,194 @@
 					<entry key="position" type="vector3" value="6200 -1075 460.991"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="827" type="table">
+				<entry key="class" type="string" value="ElementSpawnCivilian"/>
+				<entry key="editor_name" type="string" value="spawn_civilian_001"/>
+				<entry key="id" type="number" value="100802"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enemy" type="string" value="units/pd2_dlc_sand/characters/civ_male_dockworker_01/civ_male_dockworker_01"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="force_pickup" type="string" value="none"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="4991.66 -4379.71 100"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.996195 0.0871557"/>
+					<entry key="state" type="string" value="cm_sp_talking_upset"/>
+					<entry key="team" type="string" value="default"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="828" type="table">
+				<entry key="class" type="string" value="ElementSpawnCivilian"/>
+				<entry key="editor_name" type="string" value="spawn_civilian_002"/>
+				<entry key="id" type="number" value="100806"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enemy" type="string" value="units/pd2_dlc_sand/characters/civ_male_dockworker_02/civ_male_dockworker_02"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="force_pickup" type="string" value="none"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="4988.73 -4554.4 100"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.173648 -0.984808"/>
+					<entry key="state" type="string" value="cm_sp_clean_floor"/>
+					<entry key="team" type="string" value="default"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="829" type="table">
+				<entry key="class" type="string" value="ElementSpawnCivilian"/>
+				<entry key="editor_name" type="string" value="spawn_civilian_003"/>
+				<entry key="id" type="number" value="100807"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enemy" type="string" value="units/pd2_dlc_sand/characters/civ_male_dockworker_01/civ_male_dockworker_01"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="force_pickup" type="string" value="none"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="1698.33 -6254.07 100"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.14781 -0.989016"/>
+					<entry key="state" type="string" value="cm_sp_lean_desk_1_2m_01"/>
+					<entry key="team" type="string" value="default"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="830" type="table">
+				<entry key="class" type="string" value="ElementSpawnCivilian"/>
+				<entry key="editor_name" type="string" value="spawn_civilian_004"/>
+				<entry key="id" type="number" value="100808"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enemy" type="string" value="units/pd2_dlc_sand/characters/civ_male_dockworker_01/civ_male_dockworker_01"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="force_pickup" type="string" value="none"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="1027.41 -6297.56 0"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.999048 0.0436194"/>
+					<entry key="state" type="string" value="cm_sp_investigate_low"/>
+					<entry key="team" type="string" value="default"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="831" type="table">
+				<entry key="class" type="string" value="ElementSpawnCivilian"/>
+				<entry key="editor_name" type="string" value="spawn_civilian_005"/>
+				<entry key="id" type="number" value="100830"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_casual_8/civ_male_casual_8"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="force_pickup" type="string" value="none"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="911.389 -3829.6 500"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.317305 -0.948324"/>
+					<entry key="state" type="string" value="cm_sp_sit_talk_table"/>
+					<entry key="team" type="string" value="default"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="832" type="table">
+				<entry key="class" type="string" value="ElementSpawnCivilian"/>
+				<entry key="editor_name" type="string" value="spawn_civilian_006"/>
+				<entry key="id" type="number" value="100831"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_female_casual_2/civ_female_casual_2"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="force_pickup" type="string" value="none"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="1149.27 -3663.19 500"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.894934 0.446198"/>
+					<entry key="state" type="string" value="cf_sp_lean_wall_back"/>
+					<entry key="team" type="string" value="default"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="833" type="table">
+				<entry key="class" type="string" value="ElementSpawnCivilian"/>
+				<entry key="editor_name" type="string" value="spawn_civilian_007"/>
+				<entry key="id" type="number" value="100832"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enemy" type="string" value="units/pd2_dlc_sand/characters/civ_male_dockworker_03/civ_male_dockworker_03"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="force_pickup" type="string" value="none"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="3525 -4575 100"/>
+					<entry key="rotation" type="quaternion" value="0 0 1 -4.37114e-008"/>
+					<entry key="state" type="string" value="cm_sp_stand_idle"/>
+					<entry key="team" type="string" value="default"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="834" type="table">
+				<entry key="class" type="string" value="ElementSpecialObjective"/>
+				<entry key="editor_name" type="string" value="so_patrol001"/>
+				<entry key="id" type="number" value="100833"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="SO_access" type="string" value="3"/>
+					<entry key="action_duration_max" type="number" value="5"/>
+					<entry key="action_duration_min" type="number" value="3"/>
+					<entry key="ai_group" type="string" value="enemies"/>
+					<entry key="align_position" type="boolean" value="true"/>
+					<entry key="align_rotation" type="boolean" value="false"/>
+					<entry key="attitude" type="string" value="none"/>
+					<entry key="base_chance" type="number" value="1"/>
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="chance_inc" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="followup_elements" type="table">
+					</entry>
+					<entry key="interaction_voice" type="string" value="none"/>
+					<entry key="interrupt_dis" type="number" value="-1"/>
+					<entry key="interrupt_dmg" type="number" value="0"/>
+					<entry key="interrupt_objective" type="boolean" value="false"/>
+					<entry key="interval" type="number" value="-1"/>
+					<entry key="needs_pos_rsrv" type="boolean" value="true"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="path_haste" type="string" value="walk"/>
+					<entry key="path_stance" type="string" value="none"/>
+					<entry key="path_style" type="string" value="destination"/>
+					<entry key="patrol_path" type="string" value="none"/>
+					<entry key="pose" type="string" value="none"/>
+					<entry key="position" type="vector3" value="2956.89 -8350.97 100"/>
+					<entry key="repeatable" type="boolean" value="true"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.139173 -0.990268"/>
+					<entry key="scan" type="boolean" value="true"/>
+					<entry key="search_distance" type="number" value="0"/>
+					<entry key="search_position" type="vector3" value="0 0 0"/>
+					<entry key="so_action" type="string" value="so_chains_write"/>
+					<entry key="spawn_instigator_ids" type="table">
+					</entry>
+					<entry key="test_unit" type="string" value="default"/>
+					<entry key="trigger_on" type="string" value="none"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="use_instigator" type="boolean" value="true"/>
 				</entry>
 			</entry>
 		</entry>
