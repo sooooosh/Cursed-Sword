@@ -2106,8 +2106,13 @@
 		<unit path="units/pd2_dlc_pent/architecture/ext/pent_ext_far_backdrop/pent_ext_bdrop_ship"/>
 	</add>
 	<add from_db="true" path="units/pd2_dlc_cro/vehicles/veh_cargo_ship/veh_cargo_ship_shoutoutraid" type="unit">
-		<unit path="units/pd2_dlc_cro/vehicles/veh_cargo_ship/veh_cargo_ship_shoutoutraid"/>
-		<object path="units/pd2_dlc_cro/vehicles/veh_cargo_ship/veh_cargo_ship_shoutoutraid"/>
 		<material_config path="units/pd2_dlc_cro/vehicles/veh_cargo_ship/veh_cargo_ship_shoutoutraid"/>
+		<object path="units/pd2_dlc_cro/vehicles/veh_cargo_ship/veh_cargo_ship_shoutoutraid"/>
+		<unit path="units/pd2_dlc_cro/vehicles/veh_cargo_ship/veh_cargo_ship_shoutoutraid"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/gen_prop_container_a/gen_prop_container_a_yellow" type="unit">
+		<unit path="units/payday2/props/gen_prop_container_a/gen_prop_container_a_yellow"/>
+		<object path="units/payday2/props/gen_prop_container_a/gen_prop_container_a_yellow"/>
+		<material_config path="units/payday2/props/gen_prop_container_a/gen_prop_container_a"/>
 	</add>
 </table>

@@ -559,7 +559,7 @@
 					<entry key="interval" type="number" value="0"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="7675 -1725 384.937"/>
+					<entry key="position" type="vector3" value="8275 -1725 534.937"/>
 					<entry key="preferred_spawn_groups" type="table">
 						<entry index="1" type="string" value="tac_shield_wall_charge"/>
 						<entry index="2" type="string" value="FBI_spoocs"/>
@@ -593,8 +593,8 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="7825 -1725 284.937"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="position" type="vector3" value="8025 -1725 264.937"/>
+					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -618,8 +618,8 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="7825 -1825 284.937"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="position" type="vector3" value="8025 -1825 264.937"/>
+					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -643,8 +643,8 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="7825 -1925 284.937"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="position" type="vector3" value="8025 -1925 264.937"/>
+					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -668,8 +668,8 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="7825 -2025 284.937"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="position" type="vector3" value="8025 -2025 264.937"/>
+					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -693,8 +693,8 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="7825 -2125 284.937"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="position" type="vector3" value="8025 -2125 264.937"/>
+					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -1247,7 +1247,7 @@
 					<entry key="interval" type="number" value="0"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="7500 -150 390.443"/>
+					<entry key="position" type="vector3" value="8175 -150 465.443"/>
 					<entry key="preferred_spawn_groups" type="table">
 						<entry index="1" type="string" value="tac_shield_wall_charge"/>
 						<entry index="2" type="string" value="FBI_spoocs"/>
@@ -1281,8 +1281,8 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="7650 -150 290.443"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="position" type="vector3" value="8000 -150 270.443"/>
+					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -1306,8 +1306,8 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="7650 -250 290.443"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="position" type="vector3" value="8000 -250 270.443"/>
+					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -1331,8 +1331,8 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="7650 -350 290.443"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="position" type="vector3" value="8000 -350 270.443"/>
+					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -1356,8 +1356,8 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="7650 -450 290.443"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="position" type="vector3" value="8000 -450 270.443"/>
+					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -1381,8 +1381,8 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="7650 -550 290.443"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="position" type="vector3" value="8000 -550 270.443"/>
+					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -3939,279 +3939,227 @@
 						</entry>
 						<entry index="54" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100034"/>
+							<entry key="id" type="number" value="100123"/>
 						</entry>
 						<entry index="55" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100035"/>
+							<entry key="id" type="number" value="100124"/>
 						</entry>
 						<entry index="56" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100036"/>
+							<entry key="id" type="number" value="100125"/>
 						</entry>
 						<entry index="57" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100037"/>
+							<entry key="id" type="number" value="100126"/>
 						</entry>
 						<entry index="58" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100080"/>
+							<entry key="id" type="number" value="100127"/>
 						</entry>
 						<entry index="59" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100107"/>
+							<entry key="id" type="number" value="100128"/>
 						</entry>
 						<entry index="60" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100116"/>
+							<entry key="id" type="number" value="100129"/>
 						</entry>
 						<entry index="61" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100117"/>
+							<entry key="id" type="number" value="100130"/>
 						</entry>
 						<entry index="62" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100118"/>
+							<entry key="id" type="number" value="100131"/>
 						</entry>
 						<entry index="63" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100119"/>
+							<entry key="id" type="number" value="100132"/>
 						</entry>
 						<entry index="64" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100123"/>
+							<entry key="id" type="number" value="100133"/>
 						</entry>
 						<entry index="65" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100124"/>
+							<entry key="id" type="number" value="100134"/>
 						</entry>
 						<entry index="66" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100125"/>
+							<entry key="id" type="number" value="100192"/>
 						</entry>
 						<entry index="67" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100126"/>
+							<entry key="id" type="number" value="100193"/>
 						</entry>
 						<entry index="68" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100127"/>
+							<entry key="id" type="number" value="100555"/>
 						</entry>
 						<entry index="69" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100128"/>
+							<entry key="id" type="number" value="100556"/>
 						</entry>
 						<entry index="70" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100129"/>
+							<entry key="id" type="number" value="100557"/>
 						</entry>
 						<entry index="71" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100130"/>
+							<entry key="id" type="number" value="100558"/>
 						</entry>
 						<entry index="72" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100131"/>
+							<entry key="id" type="number" value="100559"/>
 						</entry>
 						<entry index="73" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100132"/>
+							<entry key="id" type="number" value="100561"/>
 						</entry>
 						<entry index="74" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100133"/>
+							<entry key="id" type="number" value="100560"/>
 						</entry>
 						<entry index="75" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100134"/>
+							<entry key="id" type="number" value="100273"/>
 						</entry>
 						<entry index="76" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100185"/>
+							<entry key="id" type="number" value="100319"/>
 						</entry>
 						<entry index="77" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100184"/>
+							<entry key="id" type="number" value="100482"/>
 						</entry>
 						<entry index="78" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100192"/>
+							<entry key="id" type="number" value="100320"/>
 						</entry>
 						<entry index="79" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100193"/>
+							<entry key="id" type="number" value="100578"/>
 						</entry>
 						<entry index="80" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100555"/>
+							<entry key="id" type="number" value="100321"/>
 						</entry>
 						<entry index="81" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100556"/>
+							<entry key="id" type="number" value="100481"/>
 						</entry>
 						<entry index="82" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100557"/>
+							<entry key="id" type="number" value="100352"/>
 						</entry>
 						<entry index="83" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100558"/>
+							<entry key="id" type="number" value="100353"/>
 						</entry>
 						<entry index="84" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100559"/>
+							<entry key="id" type="number" value="100354"/>
 						</entry>
 						<entry index="85" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100561"/>
+							<entry key="id" type="number" value="100660"/>
 						</entry>
 						<entry index="86" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100560"/>
+							<entry key="id" type="number" value="100658"/>
 						</entry>
 						<entry index="87" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100273"/>
+							<entry key="id" type="number" value="100659"/>
 						</entry>
 						<entry index="88" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100319"/>
+							<entry key="id" type="number" value="100635"/>
 						</entry>
 						<entry index="89" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100482"/>
+							<entry key="id" type="number" value="100634"/>
 						</entry>
 						<entry index="90" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100320"/>
+							<entry key="id" type="number" value="100636"/>
 						</entry>
 						<entry index="91" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100578"/>
+							<entry key="id" type="number" value="100637"/>
 						</entry>
 						<entry index="92" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100321"/>
+							<entry key="id" type="number" value="100638"/>
 						</entry>
 						<entry index="93" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100481"/>
+							<entry key="id" type="number" value="100639"/>
 						</entry>
 						<entry index="94" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100352"/>
+							<entry key="id" type="number" value="100640"/>
 						</entry>
 						<entry index="95" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100353"/>
+							<entry key="id" type="number" value="100641"/>
 						</entry>
 						<entry index="96" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100354"/>
+							<entry key="id" type="number" value="100642"/>
 						</entry>
 						<entry index="97" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100660"/>
+							<entry key="id" type="number" value="100643"/>
 						</entry>
 						<entry index="98" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100658"/>
+							<entry key="id" type="number" value="100139"/>
 						</entry>
 						<entry index="99" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100659"/>
+							<entry key="id" type="number" value="100138"/>
 						</entry>
 						<entry index="100" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100635"/>
+							<entry key="id" type="number" value="100821"/>
 						</entry>
 						<entry index="101" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100634"/>
+							<entry key="id" type="number" value="100822"/>
 						</entry>
 						<entry index="102" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100636"/>
+							<entry key="id" type="number" value="100824"/>
 						</entry>
 						<entry index="103" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100637"/>
+							<entry key="id" type="number" value="100823"/>
 						</entry>
 						<entry index="104" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100638"/>
+							<entry key="id" type="number" value="100828"/>
 						</entry>
 						<entry index="105" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100639"/>
+							<entry key="id" type="number" value="100827"/>
 						</entry>
 						<entry index="106" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100640"/>
+							<entry key="id" type="number" value="100826"/>
 						</entry>
 						<entry index="107" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100641"/>
+							<entry key="id" type="number" value="100825"/>
 						</entry>
 						<entry index="108" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100642"/>
+							<entry key="id" type="number" value="100714"/>
 						</entry>
 						<entry index="109" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100643"/>
-						</entry>
-						<entry index="110" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100645"/>
-						</entry>
-						<entry index="111" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100644"/>
-						</entry>
-						<entry index="112" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100139"/>
-						</entry>
-						<entry index="113" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100138"/>
-						</entry>
-						<entry index="114" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100821"/>
-						</entry>
-						<entry index="115" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100822"/>
-						</entry>
-						<entry index="116" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100824"/>
-						</entry>
-						<entry index="117" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100823"/>
-						</entry>
-						<entry index="118" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100828"/>
-						</entry>
-						<entry index="119" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100827"/>
-						</entry>
-						<entry index="120" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100826"/>
-						</entry>
-						<entry index="121" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100825"/>
-						</entry>
-						<entry index="122" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100714"/>
+							<entry key="id" type="number" value="100801"/>
 						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="-2900 4700 10002.5"/>
@@ -27345,8 +27293,8 @@
 					<entry key="path_style" type="string" value="none"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="6795.81 -1649.22 285.404"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="position" type="vector3" value="6795.81 -1649.22 265.404"/>
+					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
 					<entry key="scan" type="boolean" value="true"/>
 					<entry key="search_distance" type="number" value="0"/>
 					<entry key="search_position" type="vector3" value="6495 -1648 15"/>
@@ -27392,8 +27340,8 @@
 					<entry key="path_style" type="string" value="none"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="6795.81 -1424.22 285.404"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="position" type="vector3" value="6795.81 -1424.22 265.404"/>
+					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
 					<entry key="scan" type="boolean" value="true"/>
 					<entry key="search_distance" type="number" value="0"/>
 					<entry key="search_position" type="vector3" value="6495 -1423 15"/>
@@ -27439,8 +27387,8 @@
 					<entry key="path_style" type="string" value="none"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="6795.81 -1174.22 285.404"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="position" type="vector3" value="6795.81 -1174.22 265.404"/>
+					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
 					<entry key="scan" type="boolean" value="true"/>
 					<entry key="search_distance" type="number" value="0"/>
 					<entry key="search_position" type="vector3" value="6495 -1173 15"/>
@@ -27486,8 +27434,8 @@
 					<entry key="path_style" type="string" value="none"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="6795.81 -949.218 285.404"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="position" type="vector3" value="6795.81 -949.218 265.404"/>
+					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
 					<entry key="scan" type="boolean" value="true"/>
 					<entry key="search_distance" type="number" value="0"/>
 					<entry key="search_position" type="vector3" value="6495 -948 15"/>
@@ -27533,8 +27481,8 @@
 					<entry key="path_style" type="string" value="none"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="6795.81 -749.218 285.404"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="position" type="vector3" value="6795.81 -749.218 265.404"/>
+					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
 					<entry key="scan" type="boolean" value="true"/>
 					<entry key="search_distance" type="number" value="0"/>
 					<entry key="search_position" type="vector3" value="6495 -748 15"/>
@@ -27580,8 +27528,8 @@
 					<entry key="path_style" type="string" value="none"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="6795.81 -574.218 285.404"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="position" type="vector3" value="6795.81 -574.218 265.404"/>
+					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
 					<entry key="scan" type="boolean" value="true"/>
 					<entry key="search_distance" type="number" value="0"/>
 					<entry key="search_position" type="vector3" value="6495 -573 15"/>
@@ -27627,8 +27575,8 @@
 					<entry key="path_style" type="string" value="none"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="6795.81 -374.218 285.404"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="position" type="vector3" value="6795.81 -374.218 265.404"/>
+					<entry key="rotation" type="quaternion" value="6.20912e-009 -6.17001e-009 -0.707107 -0.707107"/>
 					<entry key="scan" type="boolean" value="true"/>
 					<entry key="search_distance" type="number" value="0"/>
 					<entry key="search_position" type="vector3" value="6495 -373 15"/>
@@ -27642,7 +27590,7 @@
 			</entry>
 			<entry index="825" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
-				<entry key="editor_name" type="string" value="mission_script_018"/>
+				<entry key="editor_name" type="string" value="navlinks_ship"/>
 				<entry key="id" type="number" value="100714"/>
 				<entry key="module" type="string" value="CoreMissionScriptElement"/>
 				<entry key="script" type="string" value="default"/>
@@ -27680,7 +27628,80 @@
 							<entry key="id" type="number" value="100251"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="6900 -275 440.06"/>
+					<entry key="position" type="vector3" value="6575 -275 440.06"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="826" type="table">
+				<entry key="class" type="string" value="MissionScriptElement"/>
+				<entry key="editor_name" type="string" value="navlinks_office_containers"/>
+				<entry key="id" type="number" value="100801"/>
+				<entry key="module" type="string" value="CoreMissionScriptElement"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100037"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100185"/>
+						</entry>
+						<entry index="3" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100184"/>
+						</entry>
+						<entry index="4" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100118"/>
+						</entry>
+						<entry index="5" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100117"/>
+						</entry>
+						<entry index="6" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100116"/>
+						</entry>
+						<entry index="7" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100107"/>
+						</entry>
+						<entry index="8" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100080"/>
+						</entry>
+						<entry index="9" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100034"/>
+						</entry>
+						<entry index="10" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100035"/>
+						</entry>
+						<entry index="11" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100036"/>
+						</entry>
+						<entry index="12" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100119"/>
+						</entry>
+						<entry index="13" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100645"/>
+						</entry>
+						<entry index="14" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100644"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="6200 -1075 460.991"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>

@@ -3818,7 +3818,7 @@
 			<unit_data _prev_pos="1142.83 613.526 304" _prev_rot="0 0 -0.0261764 -0.999657" continent="world" local_pos="0 0 90" local_rot="0 0 0 1" name="units/world/props/pallet_01/pallet_pile_01" name_id="pallet_pile_01_032" position="1142.04 628.505 304" rotation="0 0 -0.0261764 -0.999657" unit_id="101269"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1053.41 634.742 394" _prev_rot="0 0 0.675591 -0.737277" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_pdm/props/mantle_indicator_rope_short/mantle_indicator_rope_short" name_id="mantle_indicator_rope_short_004" position="1053.59 632.749 394" rotation="0 0 0.675591 -0.737277" unit_id="101238"/>
+			<unit_data _prev_pos="1050.6 632.47 392" _prev_rot="0 0 0.669131 -0.743144" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_pdm/props/mantle_indicator_rope_short/mantle_indicator_rope_short" name_id="mantle_indicator_rope_short_004" position="1050.6 632.47 392" rotation="0 0 0.669131 -0.743144" unit_id="101238"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="1114.08 640.621 416.198" _prev_rot="0 0 0.681998 -0.731354" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="set_range_2" name="units/pd2_mod_pdm/props/mantle_point/mantle_point" name_id="mantle_point_004" position="1109.09 640.272 416.198" rotation="0 0 0.681998 -0.731354" unit_id="101239"/>
@@ -4307,10 +4307,10 @@
 			<unit_data _prev_pos="6500 -5300 43" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="disable_interaction" name="units/pd2_dlc_wwh/props/wwh_prop_ropes/wwh_prop_rope_03" name_id="wwh_prop_rope_03_001" position="6500 -5300 43" rotation="0 0 0.707107 -0.707107" unit_id="101414"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="9885 -6974 -290" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vehicles/tst_cargoship/tst_cargoship" name_id="tst_cargoship_002" position="9885 -6974 -290" rotation="0 0 1 -4.37114e-008" unit_id="101415"/>
+			<unit_data _prev_pos="9885 -6974 -290" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vehicles/tst_cargoship/tst_cargoship" name_id="tst_cargoship_002" position="9885 -6674 -290" rotation="0 0 1 -4.37114e-008" unit_id="101415"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="7430.25 -1203.27 -91.0893" _prev_rot="-0.0017453 -1.06615e-005 -0.00610861 -0.99998" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_wwh/architecture/ext/wwh_ext_cargo_ship/wwh_cargo_ship" name_id="wwh_cargo_ship_001" position="7430.25 -1203.27 -91.0893" rotation="-0.0017453 -1.06615e-005 -0.00610861 -0.99998" unit_id="101416"/>
+			<unit_data _prev_pos="7430.25 -1203.27 -111.089" _prev_rot="-0.0017453 -1.06615e-005 -0.00610861 -0.99998" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_wwh/architecture/ext/wwh_ext_cargo_ship/wwh_cargo_ship" name_id="wwh_cargo_ship_001" position="7430.25 -1203.27 -111.089" rotation="-0.0017453 -1.06615e-005 -0.00610861 -0.99998" unit_id="101416"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="6500 700 50" _prev_rot="0 0 0.92388 -0.382683" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="disable_interaction" name="units/pd2_dlc_wwh/props/wwh_prop_ropes/wwh_prop_rope_04" name_id="wwh_prop_rope_04_001" position="6500 700 50" rotation="0 0 0.92388 -0.382683" unit_id="101418"/>
@@ -4335,6 +4335,24 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="2960.48 -8281.38 100" _prev_rot="3.68786e-008 -3.68785e-008 0.156435 -0.987688" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_crate_wood/gen_prop_crate_wood_a" name_id="gen_prop_crate_wood_a_032" position="2960.48 -8281.38 100" rotation="3.68786e-008 -3.68785e-008 0.156435 -0.987688" unit_id="101424"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7103 -2575.01 254.039" _prev_rot="-0.00174545 -1.06623e-005 -0.00610918 -0.99998" continent="world" local_pos="-343.985 -1366.34 374.9" local_rot="1.3993e-007 9.99535e-010 5.94184e-007 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_blue" name_id="gen_prop_container_a_red_023" position="7103 -2575.01 259.039" rotation="-0.00174544 -1.06624e-005 -0.0061092 -0.99998" unit_id="101425"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7095.36 -1950.06 256.22" _prev_rot="-0.00174533 -1.06617e-005 -0.00610867 -0.99998" continent="world" local_pos="-343.991 -741.341 374.9" local_rot="2.02564e-008 2.01908e-010 8.61472e-008 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="gen_prop_container_a_red_024" position="7095.36 -1950.06 261.221" rotation="-0.00174532 -1.06617e-005 -0.00610869 -0.99998" unit_id="101426"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7087.72 -1325.11 258.403" _prev_rot="-0.00174552 -1.06627e-005 -0.00610942 -0.99998" continent="world" local_pos="-343.996 -116.34 374.9" local_rot="2.10244e-007 1.33514e-009 8.32603e-007 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_yellow" name_id="gen_prop_container_a_yellow_001" position="7087.72 -1325.11 263.403" rotation="-0.00174551 -1.06627e-005 -0.00610944 -0.99998" unit_id="101427"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7078.86 -600.171 260.933" _prev_rot="-0.00174534 -1.06618e-005 -0.00610879 -0.99998" continent="world" local_pos="-343.997 608.66 374.9" local_rot="3.38768e-008 5.02041e-010 2.05356e-007 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_yellow" name_id="gen_prop_container_a_yellow_002" position="7078.86 -600.171 265.934" rotation="-0.00174533 -1.06619e-005 -0.00610881 -0.99998" unit_id="101428"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7071.23 24.7782 263.115" _prev_rot="-0.00174536 -1.06618e-005 -0.00610882 -0.99998" continent="world" local_pos="-343.994 1233.66 374.9" local_rot="5.12224e-008 4.52019e-010 2.36556e-007 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="gen_prop_container_a_red_026" position="7071.23 24.7782 268.115" rotation="-0.00174535 -1.06619e-005 -0.00610885 -0.99998" unit_id="101429"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7063.59 649.728 265.297" _prev_rot="-0.0017454 -1.06621e-005 -0.00610903 -0.99998" continent="world" local_pos="-343.994 1858.66 374.9" local_rot="9.25494e-008 8.49468e-010 4.43775e-007 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="gen_prop_container_a_red_027" position="7063.59 649.728 270.297" rotation="-0.00174539 -1.06622e-005 -0.00610905 -0.99998" unit_id="101430"/>
 		</table>
 	</statics>
 	<values>
