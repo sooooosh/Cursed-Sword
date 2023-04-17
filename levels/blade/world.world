@@ -1550,6 +1550,10 @@
 	<entry key="ai_settings" type="table">
 		<entry key="ai_data" type="table">
 			<entry key="patrol_paths" type="table">
+				<entry key="test" type="table">
+					<entry key="points" type="table">
+					</entry>
+				</entry>
 			</entry>
 		</entry>
 		<entry key="ai_settings" type="table">
