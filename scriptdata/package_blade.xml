@@ -1,31 +1,31 @@
 <table directory="assets">
 	<add>
-		<unit 				path="units/pd2_mod_blade/props/garage_door_button/garage_door_button" load="true"/>
+		<unit				path="units/pd2_mod_blade/props/garage_door_button/garage_door_button" load="true"/>
 	</add>
 	<add>
-		<unit 				path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone" load="true"/>
-		<object 			path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
-		<model 				path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
-		<material_config 	path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
-		<sequence_manager 	path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
+		<unit				path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone" load="true"/>
+		<object				path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
+		<model				path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
+		<material_config	path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
+		<sequence_manager	path="units/pd2_mod_blade/equipment/blade_iphone/blade_iphone"/>
 	</add>
 	<add>
-		<unit 				path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick" load="true"/>
-		<object 			path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick"/>
-		<model 				path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick"/>
-		<material_config 	path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick"/>
-		<material_config 	path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick_outline"/>
-		<sequence_manager 	path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick"/>
+		<unit				path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick" load="true"/>
+		<object				path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick"/>
+		<model				path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick"/>
+		<material_config	path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick"/>
+		<material_config	path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick_outline"/>
+		<sequence_manager	path="units/pd2_mod_blade/props/prop_blade_usb_stick/prop_blade_usb_stick"/>
 
-		<unit		 		path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick" load="true"/>
-		<object 			path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick"/>
-		<model 				path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick"/>
-		<material_config 	path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick"/>
-		<sequence_manager 	path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick"/>
+		<unit				path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick" load="true"/>
+		<object				path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick"/>
+		<model				path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick"/>
+		<material_config	path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick"/>
+		<sequence_manager	path="units/pd2_mod_blade/props/prop_blade_usb_stick/pku_blade_usb_stick"/>
 
-		<unit 				path="units/pd2_mod_blade/props/prop_blade_laptop/prop_blade_laptop" load="true"/>
+		<unit				path="units/pd2_mod_blade/props/prop_blade_laptop/prop_blade_laptop" load="true"/>
 		<object				path="units/pd2_mod_blade/props/prop_blade_laptop/prop_blade_laptop"/>
-		<model 				path="units/pd2_mod_blade/props/prop_blade_laptop/prop_blade_laptop"/>
+		<model				path="units/pd2_mod_blade/props/prop_blade_laptop/prop_blade_laptop"/>
 		<material_config	path="units/pd2_mod_blade/props/prop_blade_laptop/prop_blade_laptop"/>
 		<sequence_manager	path="units/pd2_mod_blade/props/prop_blade_laptop/prop_blade_laptop"/>
 	</add>
