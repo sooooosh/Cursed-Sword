@@ -3,33 +3,6 @@
 	<instances/>
 	<statics>
 		<table>
-			<unit_data _prev_pos="5575 -1200 600" _prev_rot="0.270598 0.270598 -0.653282 -0.653282" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_005" position="5575 -1200 600" rotation="0.270598 0.270598 -0.653282 -0.653282" unit_id="200004"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="5575 -1300 600" _prev_rot="0.270598 0.270598 -0.653282 -0.653282" continent="editor_only" local_pos="-100 -5.96046e-006 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_006" position="5575 -1300 600" rotation="0.270598 0.270598 -0.653282 -0.653282" unit_id="200005"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="5575 -1400 600" _prev_rot="0.270598 0.270598 -0.653282 -0.653282" continent="editor_only" local_pos="-200 -1.19209e-005 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_007" position="5575 -1400 600" rotation="0.270598 0.270598 -0.653282 -0.653282" unit_id="200006"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="5575 -1400 600" _prev_rot="0.270598 0.270598 -0.653282 -0.653282" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_008" position="5504.29 -1400 529.289" rotation="0.270598 0.270598 -0.653282 -0.653282" unit_id="200007"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="5575 -1300 600" _prev_rot="0.270598 0.270598 -0.653282 -0.653282" continent="editor_only" local_pos="100 5.96046e-006 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_009" position="5504.29 -1300 529.289" rotation="0.270598 0.270598 -0.653282 -0.653282" unit_id="200008"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="5575 -1200 600" _prev_rot="0.270598 0.270598 -0.653282 -0.653282" continent="editor_only" local_pos="200 1.19209e-005 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_010" position="5504.29 -1200 529.289" rotation="0.270598 0.270598 -0.653282 -0.653282" unit_id="200009"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="5600 -1300 600" _prev_rot="1.49012e-008 -4.47035e-008 0.707107 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_011" position="5600 -1300 600" rotation="0.218508 -0.218508 0.672498 -0.672499" unit_id="200010"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="5600 -1200 600" _prev_rot="1.49012e-008 -4.47035e-008 0.707107 -0.707107" continent="editor_only" local_pos="-100 2.38419e-005 1.19209e-005" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_012" position="5600 -1200 600" rotation="0.218508 -0.218508 0.672498 -0.672499" unit_id="200011"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="5600 -1100 600" _prev_rot="1.49012e-008 -4.47035e-008 0.707107 -0.707107" continent="editor_only" local_pos="-200 4.76837e-005 2.38419e-005" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_013" position="5600 -1100 600" rotation="0.218508 -0.218508 0.672498 -0.672499" unit_id="200012"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="5650 -800 547.404" _prev_rot="0.382683 0 0 -0.92388" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" name_id="mkp_int_floor_1x1m_a_003" position="5650 -800 547.404" rotation="0.317305 0 0 -0.948324" unit_id="200002"/>
 		</table>
 		<table>
@@ -646,6 +619,18 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="-4200 6000 10000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_017" position="-4150 6000 10000" rotation="0 0 0 -1" unit_id="200097"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2700 -800 100" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_005" position="2700 -800 101" rotation="0 0 1 4.37114e-008" unit_id="200004">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.59" render_template="diffuse_vc_decal" text="yippiiiiiiii" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
 		</table>
 	</statics>
 	<values>
