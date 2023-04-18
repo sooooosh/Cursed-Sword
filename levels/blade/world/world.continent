@@ -3692,9 +3692,6 @@
 			<unit_data _prev_pos="3128.24 700.653 188.23" _prev_rot="3.66884e-006 7.06077e-006 -0.699461 -0.714671" continent="world" local_pos="83.9877 -0.470854 -5.80281e-006" local_rot="-8.54925e-011 -2.50111e-011 -0.0261769 0.999657" name="units/pd2_dlc_flat/props/flt_prop_wood_crate_75x110x75/flt_prop_wood_crate_75x110x75" name_id="flt_prop_wood_crate_75x110x75_036" position="3300.15 705.958 188.233" rotation="3.66884e-006 7.06077e-006 -0.699461 -0.714671" unit_id="101227"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="3724.79 798.377 0.00576782" _prev_rot="3.73035e-006 7.02857e-006 -0.705671 -0.70854" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_wood_crate_75x110x75/flt_prop_wood_crate_75x110x75" name_id="flt_prop_wood_crate_75x110x75_037" position="3724.79 798.377 0.00576782" rotation="-2.83708e-007 7.95209e-006 -0.256859 -0.966449" unit_id="101228"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="4050 475 0" _prev_rot="0 0 -0.0348999 -0.999391" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/pallet_01/pallet_pile_01" name_id="pallet_pile_01_019" position="4050.35 470.012 0" rotation="0 0 -0.0348999 -0.999391" unit_id="101229"/>
 		</table>
 		<table>
@@ -4814,6 +4811,18 @@
 			<unit_data _prev_pos="5050 400 525" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/dev_ladder/dev_ladder" name_id="dev_ladder_007" only_visible_in_editor="true" position="5075 400 525" rotation="0 0 1 -4.37114e-008" unit_id="101581">
 				<ladder height="75" width="150"/>
 			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="600 -9511 554.006" _prev_rot="-0.425548 0.425548 0.564721 -0.564721" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/pallet_01/pallet_01" name_id="pallet_01_035" position="614 -9511 554.006" rotation="-0.425548 0.425548 0.564721 -0.564721" unit_id="101582"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="4964 -2286 354.006" _prev_rot="2.63062e-008 0.601815 0.798635 3.49095e-008" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/pallet_01/pallet_01" name_id="pallet_01_036" position="4964 -2289 354.006" rotation="2.63062e-008 0.601815 0.798635 3.49095e-008" unit_id="101583"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3760.88 793.564 -55" _prev_rot="0 0 0.492423 -0.870356" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/pallet_01/pallet_pile_01" name_id="pallet_pile_01_042" position="3739.45 780.688 -55" rotation="0 0 0.492423 -0.870356" unit_id="101585"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3715.33 811.119 35" _prev_rot="0 0 -0.199368 -0.979925" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/yacht/cardboard_boxes/lxy_prop_cardboardbox_small_c" name_id="lxy_prop_cardboardbox_small_c_001" position="3710.73 809.165 35" rotation="0 0 -0.199368 -0.979925" unit_id="101228"/>
 		</table>
 	</statics>
 	<values>

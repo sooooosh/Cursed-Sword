@@ -1,5 +1,11 @@
 <table directory="assets">
 	<add>
+		<unit 				path="units/pd2_mod_blade/characters/npc_male_mechanic/npc_male_mechanic" load="true"/>
+		<unit 				path="units/pd2_mod_blade/characters/npc_male_mechanic/npc_male_mechanic_husk" load="true"/>
+		<object				path="units/pd2_mod_blade/characters/npc_male_mechanic/npc_male_mechanic"/>
+		<model				path="units/pd2_mod_blade/characters/npc_male_mechanic/npc_male_mechanic"/>
+	</add>
+	<add>
 		<unit				path="units/pd2_mod_blade/props/garage_door_button/garage_door_button" load="true"/>
 	</add>
 	<add>

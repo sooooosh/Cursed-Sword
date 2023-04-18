@@ -632,6 +632,9 @@
 				</editable_gui>
 			</unit_data>
 		</table>
+		<table>
+			<unit_data _prev_pos="-4700 4900 10000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_018" position="-5700 4900 10000" rotation="0 0 0 -1" unit_id="200005"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

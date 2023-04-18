@@ -1635,9 +1635,6 @@
 			<unit_data _prev_pos="600 -5050 514.006" _prev_rot="0 0 0.987087 0.160182" continent="nav" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_318" only_exists_in_editor="true" position="584.189 -4939.32 514.006" rotation="0 0 0.987087 0.160182" unit_id="500392"/>
 		</table>
 		<table>
-			<unit_data continent="nav" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_695" only_exists_in_editor="true" position="5125 150 100" rotation="0 0 0.952296 0.305177" unit_id="500393"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="4925 -1350 500" _prev_rot="0 0 0 -1" continent="nav" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_088" only_exists_in_editor="true" position="4925 -1350 500" rotation="0 -0 -0.707107 -0.707107" unit_id="500394"/>
 		</table>
 		<table>
