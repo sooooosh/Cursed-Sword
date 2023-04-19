@@ -3082,8 +3082,108 @@
 		<unit path="units/world/props/train/tra_cover_cardboardbox/tra_cover_cardboardbox_1"/>
 	</add>
 	<add from_db="true" path="units/world/props/yacht/cardboard_boxes/lxy_prop_cardboardbox_small_c" type="unit">
-		<unit path="units/world/props/yacht/cardboard_boxes/lxy_prop_cardboardbox_small_c"/>
-		<object path="units/world/props/yacht/cardboard_boxes/lxy_prop_cardboardbox_small_c"/>
 		<material_config path="units/world/props/yacht/cardboard_boxes/cardboard_boxes"/>
+		<object path="units/world/props/yacht/cardboard_boxes/lxy_prop_cardboardbox_small_c"/>
+		<unit path="units/world/props/yacht/cardboard_boxes/lxy_prop_cardboardbox_small_c"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_ai_vis_blocker_1x1/dev_ai_vis_blocker_1x1" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/dev_ai_vis_blocker_1x1/dev_ai_vis_blocker_1x1"/>
+		<sequence_manager path="units/dev_tools/level_tools/dev_ai_vis_blocker_1x1/dev_ai_vis_blocker_1x1"/>
+		<unit path="units/dev_tools/level_tools/dev_ai_vis_blocker_1x1/dev_ai_vis_blocker_1x1"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2"/>
+		<sequence_manager path="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2"/>
+		<unit path="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/csgo_models/props_interiors/chair_office2" type="unit">
+		<material_config path="units/pd2_dlc2/csgo_models/props_interiors/chair_office2"/>
+		<object path="units/pd2_dlc2/csgo_models/props_interiors/chair_office2"/>
+		<unit path="units/pd2_dlc2/csgo_models/props_interiors/chair_office2"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_dah/props/dah_prop_chair/dah_prop_chair_a" type="unit">
+		<material_config path="units/pd2_dlc_dah/props/dah_prop_chair/dah_prop_chair_a"/>
+		<object path="units/pd2_dlc_dah/props/dah_prop_chair/dah_prop_chair_a"/>
+		<unit path="units/pd2_dlc_dah/props/dah_prop_chair/dah_prop_chair_a"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_dah/props/dah_prop_chair/dah_prop_chair_b" type="unit">
+		<material_config path="units/pd2_dlc_dah/props/dah_prop_chair/dah_prop_chair_b"/>
+		<object path="units/pd2_dlc_dah/props/dah_prop_chair/dah_prop_chair_b"/>
+		<unit path="units/pd2_dlc_dah/props/dah_prop_chair/dah_prop_chair_b"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_friend/props/sfm_prop_office_armchair/sfm_prop_office_armchair" type="unit">
+		<material_config path="units/pd2_dlc_friend/props/sfm_prop_office_armchair/sfm_prop_office_armchair"/>
+		<object path="units/pd2_dlc_friend/props/sfm_prop_office_armchair/sfm_prop_office_armchair"/>
+		<unit path="units/pd2_dlc_friend/props/sfm_prop_office_armchair/sfm_prop_office_armchair"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_friend/props/sfm_prop_office_chair_simple/sfm_prop_office_chair_simple" type="unit">
+		<material_config path="units/pd2_dlc_friend/props/sfm_prop_office_chair_simple/sfm_prop_office_chair_simple"/>
+		<object path="units/pd2_dlc_friend/props/sfm_prop_office_chair_simple/sfm_prop_office_chair_simple"/>
+		<unit path="units/pd2_dlc_friend/props/sfm_prop_office_chair_simple/sfm_prop_office_chair_simple"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_moon/props/moo_prop_vip_chair/moo_prop_vip_chair" type="unit">
+		<material_config path="units/pd2_dlc_moon/props/moo_prop_vip_chair/moo_prop_vip_chair"/>
+		<object path="units/pd2_dlc_moon/props/moo_prop_vip_chair/moo_prop_vip_chair"/>
+		<unit path="units/pd2_dlc_moon/props/moo_prop_vip_chair/moo_prop_vip_chair"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_mad/props/mad_prop_medical_chair/mad_prop_medical_chair" type="unit">
+		<material_config path="units/pd2_dlc_mad/props/mad_prop_medical_chair/mad_prop_medical_chair"/>
+		<object path="units/pd2_dlc_mad/props/mad_prop_medical_chair/mad_prop_medical_chair"/>
+		<sequence_manager path="units/pd2_dlc_mad/props/mad_prop_medical_chair/mad_prop_medical_chair"/>
+		<unit path="units/pd2_dlc_mad/props/mad_prop_medical_chair/mad_prop_medical_chair"/>
+	</add>
+	<add from_db="true" path="units/world/props/office/chair/chair_02" type="unit">
+		<material_config path="units/world/props/office/chair/chairs"/>
+		<object path="units/world/props/office/chair/chair_02"/>
+		<unit path="units/world/props/office/chair/chair_02"/>
+	</add>
+	<add from_db="true" path="units/world/props/office/chair/chair_03" type="unit">
+		<material_config path="units/world/props/office/chair/chair_03"/>
+		<object path="units/world/props/office/chair/chair_03"/>
+		<unit path="units/world/props/office/chair/chair_03"/>
+	</add>
+	<add from_db="true" path="units/world/props/office/chair/office_chair_boss" type="unit">
+		<material_config path="units/world/props/office/chair/office_chair_boss"/>
+		<object path="units/world/props/office/chair/office_chair_boss"/>
+		<unit path="units/world/props/office/chair/office_chair_boss"/>
+	</add>
+	<add from_db="true" path="units/world/props/office/chair/office_chair_boss_noarms" type="unit">
+		<material_config path="units/world/props/office/chair/office_chair_boss"/>
+		<object path="units/world/props/office/chair/office_chair_boss_noarms"/>
+		<unit path="units/world/props/office/chair/office_chair_boss_noarms"/>
+	</add>
+	<add from_db="true" path="units/world/props/office/chair/office_chair_briefing" type="unit">
+		<material_config path="units/world/props/office/chair/office_chair_briefing"/>
+		<object path="units/world/props/office/chair/office_chair_briefing"/>
+		<unit path="units/world/props/office/chair/office_chair_briefing"/>
+	</add>
+	<add from_db="true" path="units/world/props/western/wst_prop_int_chair/wst_prop_int_chair" type="unit">
+		<material_config path="units/world/props/western/wst_prop_int_chair/wst_prop_int_chair"/>
+		<object path="units/world/props/western/wst_prop_int_chair/wst_prop_int_chair"/>
+		<unit path="units/world/props/western/wst_prop_int_chair/wst_prop_int_chair"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_chca/props/chca_prop_bulletproof_windows/chca_prop_bulletproof_windows" type="unit">
+		<material_config path="units/pd2_dlc_chca/props/chca_prop_bulletproof_windows/chca_prop_bulletproof_windows"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<effect load="true" path="effects/payday2/particles/window/panorama_window"/>
+		<object path="units/pd2_dlc_chca/props/chca_prop_bulletproof_windows/chca_prop_bulletproof_windows"/>
+		<sequence_manager path="units/pd2_dlc_chca/props/chca_prop_bulletproof_windows/chca_prop_bulletproof_windows"/>
+		<unit path="units/pd2_dlc_chca/props/chca_prop_bulletproof_windows/chca_prop_bulletproof_windows"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_arena/architecture/are_lobby/are_window_glass" type="unit">
+		<material_config path="units/pd2_dlc_arena/architecture/are_lobby/are_window_glass"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
+		<object path="units/pd2_dlc_arena/architecture/are_lobby/are_window_glass"/>
+		<sequence_manager path="units/pd2_dlc_arena/architecture/are_lobby/are_window_glass"/>
+		<unit path="units/pd2_dlc_arena/architecture/are_lobby/are_window_glass"/>
+	</add>
+	<add from_db="true" path="units/payday2/equipment/gen_equipment_security_camera/gen_equipment_security_camera" type="unit">
+		<unit path="units/payday2/equipment/gen_equipment_security_camera/gen_equipment_security_camera"/>
+		<object path="units/payday2/equipment/gen_equipment_security_camera/gen_equipment_security_camera"/>
+		<material_config path="units/payday2/equipment/gen_equipment_security_camera/gen_equipment_security_camera"/>
+		<sequence_manager path="units/payday2/equipment/gen_equipment_security_camera/gen_equipment_security_camera"/>
 	</add>
 </table>

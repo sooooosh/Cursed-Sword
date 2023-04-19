@@ -2249,6 +2249,18 @@
 		<table>
 			<unit_data _prev_pos="1125 -10100 800" _prev_rot="-0.707107 0.707107 0 0" continent="mkp_ext" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_1m_a" name_id="mkp_int_wall_1m_a_406" position="1200 -10100 900" rotation="-0.707107 0.707107 0 0" unit_id="400019"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="1175 -8800 500" _prev_rot="-0.707107 0 0 -0.707107" continent="mkp_ext" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_1m_a" name_id="mkp_int_wall_1m_a_151" position="1175 -8800 600" rotation="-0.707107 0 0 -0.707107" unit_id="400020"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1175 -8500 500" _prev_rot="-0.707107 0 0 -0.707107" continent="mkp_ext" local_pos="0 0 -300" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_1m_a" name_id="mkp_int_wall_1m_a_155" position="1175 -8500 600" rotation="-0.707107 0 0 -0.707107" unit_id="400021"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1175 -8800 600" _prev_rot="-0.707107 0 0 -0.707107" continent="mkp_ext" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_1m_a" name_id="mkp_int_wall_1m_a_156" position="1175 -8800 700" rotation="-0.707107 0 0 -0.707107" unit_id="400022"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1175 -8500 600" _prev_rot="-0.707107 0 0 -0.707107" continent="mkp_ext" local_pos="0 0 -300" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_1m_a" name_id="mkp_int_wall_1m_a_157" position="1175 -8500 700" rotation="-0.707107 0 0 -0.707107" unit_id="400023"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

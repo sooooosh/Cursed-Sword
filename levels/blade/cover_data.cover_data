@@ -297,10 +297,10 @@
 		<value_node value="1500 -3575 100"/>
 		<value_node value="3875 125 100"/>
 		<value_node value="3875 -300 100"/>
-		<value_node value="3800 825 0"/>
 		<value_node value="3675 1250 -300"/>
 		<value_node value="3575 -1525 372"/>
 		<value_node value="-375 -3900 0"/>
+		<value_node value="3825 900 0"/>
 		<value_node value="1270 -3718 100"/>
 		<value_node value="1400 -3675 100"/>
 		<value_node value="525 -3900 0"/>
@@ -311,8 +311,8 @@
 		<value_node value="3750 -1375 100"/>
 		<value_node value="725 -3900 500"/>
 		<value_node value="2150 -3375 100"/>
-		<value_node value="3975 600 0"/>
 		<value_node value="950 -3875 500"/>
+		<value_node value="3972 650 0"/>
 		<value_node value="3600 -1725 514"/>
 		<value_node value="900 -3925 0"/>
 		<value_node value="1475 -3775 100"/>
@@ -327,9 +327,9 @@
 		<value_node value="1130 -3950 500"/>
 		<value_node value="2200 -3325 1118"/>
 		<value_node value="1700 -3775 100"/>
-		<value_node value="4100 625 0"/>
 		<value_node value="4150 100 31"/>
 		<value_node value="2150 -3550 100"/>
+		<value_node value="4097 675 0"/>
 		<value_node value="4125 -475 100"/>
 		<value_node value="2925 -2950 100"/>
 		<value_node value="3900 -1475 100"/>
@@ -1348,10 +1348,10 @@
 		<value_node value="63"/>
 		<value_node value="-72"/>
 		<value_node value="-72"/>
-		<value_node value="72"/>
 		<value_node value="101"/>
 		<value_node value="-2"/>
 		<value_node value="159"/>
+		<value_node value="72"/>
 		<value_node value="166"/>
 		<value_node value="0"/>
 		<value_node value="-18"/>
@@ -1362,8 +1362,8 @@
 		<value_node value="-135"/>
 		<value_node value="143"/>
 		<value_node value="18"/>
-		<value_node value="163"/>
 		<value_node value="162"/>
+		<value_node value="163"/>
 		<value_node value="0"/>
 		<value_node value="-18"/>
 		<value_node value="146"/>
@@ -1378,9 +1378,9 @@
 		<value_node value="-63"/>
 		<value_node value="27"/>
 		<value_node value="-135"/>
-		<value_node value="-168"/>
 		<value_node value="117"/>
 		<value_node value="45"/>
+		<value_node value="-168"/>
 		<value_node value="180"/>
 		<value_node value="-63"/>
 		<value_node value="45"/>
