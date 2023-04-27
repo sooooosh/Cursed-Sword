@@ -1699,8 +1699,4 @@
 		<sequence_manager path="units/payday2/pickups/gen_pku_gold/gen_pku_gold"/>
 		<unit path="units/payday2/pickups/gen_pku_gold/gen_pku_gold"/>
 	</add>
-	<!-- <add from_db="true" path="effects/payday2/particles/grab/grab_coke" type="effect">
-		<effect load="true" path="effects/payday2/particles/grab/grab_coke"/>
-		<effect load="true" path="effects/payday2/particles/grab/parts/coke_smoke"/>
-	</add> -->
 </table>

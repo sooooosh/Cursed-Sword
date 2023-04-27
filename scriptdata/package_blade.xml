@@ -105,6 +105,13 @@
 		<effect path="effects/payday2/particles/explosions/sparks/sparks"/>
 		<effect path="effects/payday2/particles/explosions/smoke_explosion/dark_smoke_big"/>
 	</add>
+
+	<add from_db="true" load="true">
+		<unit path="units/dev_tools/mission_elements/point_interaction/interaction_dummy"/>
+		<unit path="units/pd2_dlc_chas/vehicles/fps_vehicle_forklift_chas/fps_vehicle_forklift_chas"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_debris"/>
+	</add>
+
 	<add from_db="true">
 		<object path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
 		<unit path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
@@ -115,11 +122,12 @@
 		<material_config path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
 		<sequence_manager path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
 	</add>
-
-	<add from_db="true" load="true">
-		<unit path="units/dev_tools/mission_elements/point_interaction/interaction_dummy"/>
-		<unit path="units/pd2_dlc_chas/vehicles/fps_vehicle_forklift_chas/fps_vehicle_forklift_chas"/>
-		<unit path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_debris"/>
+	<add from_db="true"> <!-- why is this blowtorch not loaded by default overkill please -->
+		<unit path="units/pd2_dlc_dark/character/ene_acc_dark_blowtorch/ene_acc_dark_blowtorch"/>
+		<object path="units/pd2_dlc_dark/character/ene_acc_dark_blowtorch/ene_acc_dark_blowtorch"/>
+		<material_config path="units/pd2_dlc_dark/pickups/drk_pku_blowtorch/drk_pku_blowtorch"/>
+		<effect load="true" path="effects/payday2/particles/equipment/welding_effect_blowtorch"/>
+		<effect load="true" path="effects/payday2/particles/equipment/sparks_random_slow"/>
 	</add>
 
 	<!-- mantle/grapple points (thanks Xeletron :flushed:) -->

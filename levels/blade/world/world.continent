@@ -4945,6 +4945,12 @@
 		<table>
 			<unit_data _prev_pos="650 -1900 750" _prev_rot="0 0 -1.58933e-008 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/equipment/gen_equipment_security_camera/gen_equipment_security_camera" name_id="gen_equipment_security_camera_009" position="750 -1900 750" rotation="0 0 -1.58933e-008 -1" unit_id="101624"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="2776.45 1127.53 0.000549316" _prev_rot="-5.81538e-006 -5.43115e-006 0.897903 0.440194" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_wood_crate_75x110x75/flt_prop_wood_crate_75x110x75" name_id="flt_prop_wood_crate_75x110x75_037" position="2826.09 1125.51 0.001297" rotation="-5.81538e-006 -5.43115e-006 0.897903 0.440194" unit_id="101625"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2646.27 1112.69 -0.00149536" _prev_rot="3.35738e-006 7.21416e-006 -0.667621 -0.744501" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_wood_crate_75x110x75/flt_prop_wood_crate_75x110x75" name_id="flt_prop_wood_crate_75x110x75_078" position="2600.74 1128.73 -0.0020752" rotation="3.3574e-006 7.21419e-006 -0.667621 -0.744501" unit_id="101626"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
