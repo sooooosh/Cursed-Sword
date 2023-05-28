@@ -1699,4 +1699,25 @@
 		<sequence_manager path="units/payday2/pickups/gen_pku_gold/gen_pku_gold"/>
 		<unit path="units/payday2/pickups/gen_pku_gold/gen_pku_gold"/>
 	</add>
+	<add from_db="true" path="units/payday2/equipment/gen_equipment_camera_hackingtool/gen_equipment_camera_hackingtool" type="unit">
+		<material_config path="units/payday2/equipment/gen_equipment_camera_hackingtool/gen_equipment_camera_hackingtool"/>
+		<object path="units/payday2/equipment/gen_equipment_camera_hackingtool/gen_equipment_camera_hackingtool"/>
+		<sequence_manager path="units/payday2/equipment/gen_equipment_camera_hackingtool/gen_equipment_camera_hackingtool"/>
+		<unit path="units/payday2/equipment/gen_equipment_camera_hackingtool/gen_equipment_camera_hackingtool"/>
+	</add>
+	<add from_db="true" path="units/world/props/train/tra_cover_cardboardbox/tra_cover_cardboardbox" type="unit">
+		<material_config path="units/world/props/train/tra_cover_cardboardbox/tra_cover_cardboardbox"/>
+		<object path="units/world/props/train/tra_cover_cardboardbox/tra_cover_cardboardbox"/>
+		<unit path="units/world/props/train/tra_cover_cardboardbox/tra_cover_cardboardbox"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_flat/props/flt_prop_cover_cardboardbox/flt_cover_cardboardbox_2" type="unit">
+		<material_config path="units/pd2_dlc_flat/props/flt_prop_cover_cardboardbox/flt_cover_cardboardbox"/>
+		<object path="units/pd2_dlc_flat/props/flt_prop_cover_cardboardbox/flt_cover_cardboardbox_2"/>
+		<unit path="units/pd2_dlc_flat/props/flt_prop_cover_cardboardbox/flt_cover_cardboardbox_2"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_flat/props/flt_prop_cover_cardboardbox/flt_cover_cardboardbox_1" type="unit">
+		<unit path="units/pd2_dlc_flat/props/flt_prop_cover_cardboardbox/flt_cover_cardboardbox_1"/>
+		<object path="units/pd2_dlc_flat/props/flt_prop_cover_cardboardbox/flt_cover_cardboardbox_1"/>
+		<material_config path="units/pd2_dlc_flat/props/flt_prop_cover_cardboardbox/flt_cover_cardboardbox"/>
+	</add>
 </table>

@@ -782,6 +782,36 @@
 		<table>
 			<unit_data _prev_pos="2500 450 457" _prev_rot="0 0 -0.707107 -0.707107" continent="collisions" local_pos="50 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision/dev_collision_1x1m" name_id="dev_collision_1x1m_015" only_visible_in_editor="true" position="1000 450 457" rotation="0 0 -0.707107 -0.707107" unit_id="800259"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="1625 -2200 100" _prev_rot="0 0 1 -0" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_vehicle_only_collision/dev_vehicle_only_collision_4x3m" name_id="dev_vehicle_only_collision_4x3m_015" only_visible_in_editor="true" position="1325 -1900 100" rotation="0 0 1 -0" unit_id="800260"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1325 -2350 100" _prev_rot="0 0 -0.707107 -0.707107" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_vehicle_only_collision/dev_vehicle_only_collision_4x3m" name_id="dev_vehicle_only_collision_4x3m_016" only_visible_in_editor="true" position="1325 -2300 100" rotation="0 0 -0.707107 -0.707107" unit_id="800261"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1275 -2300 100" _prev_rot="0 0 1 -0" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_vehicle_only_collision/dev_vehicle_only_collision_4x3m" name_id="dev_vehicle_only_collision_4x3m_020" only_visible_in_editor="true" position="1225 -2300 100" rotation="0 0 1 -0" unit_id="800262"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1225 -2300 100" _prev_rot="0 0 1 -0" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_vehicle_only_collision/dev_vehicle_only_collision_4x3m" name_id="dev_vehicle_only_collision_4x3m_021" only_visible_in_editor="true" position="1225 -2700 100" rotation="0 0 1 -0" unit_id="800263"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1225 -2700 100" _prev_rot="0 0 1 -0" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_vehicle_only_collision/dev_vehicle_only_collision_4x3m" name_id="dev_vehicle_only_collision_4x3m_022" only_visible_in_editor="true" position="1400 -2800 100" rotation="0 0 1 -0" unit_id="800264"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1400 -2750 100" _prev_rot="0 0 -0.707107 -0.707107" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_vehicle_only_collision/dev_vehicle_only_collision_4x3m" name_id="dev_vehicle_only_collision_4x3m_023" only_visible_in_editor="true" position="1400 -2825 100" rotation="0 0 -0.707107 -0.707107" unit_id="800265"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1400 -2825 100" _prev_rot="0 0 -0.707107 -0.707107" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_vehicle_only_collision/dev_vehicle_only_collision_4x3m" name_id="dev_vehicle_only_collision_4x3m_024" only_visible_in_editor="true" position="1725 -2925 100" rotation="0 0 -0.707107 -0.707107" unit_id="800266"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1725 -2950 100" _prev_rot="0 0 0.92388 -0.382683" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_vehicle_only_collision/dev_vehicle_only_collision_4x3m" name_id="dev_vehicle_only_collision_4x3m_025" only_visible_in_editor="true" position="1725 -2900 100" rotation="0 0 0.92388 -0.382683" unit_id="800267"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2007.84 -3182.84 100" _prev_rot="0 0 0.92388 -0.382683" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_vehicle_only_collision/dev_vehicle_only_collision_4x3m" name_id="dev_vehicle_only_collision_4x3m_026" only_visible_in_editor="true" position="2007.84 -3182.84 100" rotation="0 0 0.87462 -0.48481" unit_id="800268"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2325.86 -3381.56 100" _prev_rot="0 0 0.993572 -0.113203" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_vehicle_only_collision/dev_vehicle_only_collision_4x3m" name_id="dev_vehicle_only_collision_4x3m_027" only_visible_in_editor="true" position="2325.86 -3381.56 100" rotation="0 0 0.993572 -0.113203" unit_id="800269"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

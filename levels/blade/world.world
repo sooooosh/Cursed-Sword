@@ -1566,9 +1566,17 @@
 		</entry>
 	</entry>
 	<entry key="camera_bookmarks" type="table">
+		<entry key="lumber" type="table">
+			<entry key="position" type="vector3" value="2114.49 -2645.97 607.469"/>
+			<entry key="rotation" type="quaternion" value="0.0724556 0.0886859 -0.769314 -0.628523"/>
+		</entry>
 		<entry key="script" type="table">
 			<entry key="position" type="vector3" value="-2181.45 6006.92 11717.7"/>
 			<entry key="rotation" type="quaternion" value="-0.0970939 -0.517566 0.835541 0.156745"/>
+		</entry>
+		<entry key="todo" type="table">
+			<entry key="position" type="vector3" value="-4291.2 3919.23 10346.8"/>
+			<entry key="rotation" type="quaternion" value="-0.0946419 -0.36204 0.897196 0.234538"/>
 		</entry>
 	</entry>
 	<entry key="environment" type="table">
