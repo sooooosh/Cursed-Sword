@@ -812,6 +812,21 @@
 		<table>
 			<unit_data _prev_pos="2325.86 -3381.56 100" _prev_rot="0 0 0.993572 -0.113203" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_vehicle_only_collision/dev_vehicle_only_collision_4x3m" name_id="dev_vehicle_only_collision_4x3m_027" only_visible_in_editor="true" position="2325.86 -3381.56 100" rotation="0 0 0.993572 -0.113203" unit_id="800269"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="1925 1188 16" _prev_rot="0.270598 -0.653282 0.270598 -0.653282" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision/dev_collision_1x1m" name_id="dev_collision_1x1m_016" only_visible_in_editor="true" position="1900 1188 16" rotation="0.270598 -0.653282 0.270598 -0.653282" unit_id="800270"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1900 1188 16" _prev_rot="0.270598 -0.653282 0.270598 -0.653282" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision/dev_collision_1x1m" name_id="dev_collision_1x1m_017" only_visible_in_editor="true" position="2000 1188 16" rotation="0.270598 -0.653282 0.270598 -0.653282" unit_id="800271"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2125 1188 16" _prev_rot="0.270598 -0.653282 0.270598 -0.653282" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision/dev_collision_1x1m" name_id="dev_collision_1x1m_018" only_visible_in_editor="true" position="2100 1188 16" rotation="0.270598 -0.653282 0.270598 -0.653282" unit_id="800272"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2100 1188 16" _prev_rot="0.270598 -0.653282 0.270598 -0.653282" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision/dev_collision_1x1m" name_id="dev_collision_1x1m_019" only_visible_in_editor="true" position="2200 1188 16" rotation="0.270598 -0.653282 0.270598 -0.653282" unit_id="800273"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2300 1188 16" _prev_rot="-0.18991 0.80243 -0.337864 0.453749" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision/dev_collision_1x1m" name_id="dev_collision_1x1m_020" only_visible_in_editor="true" position="2300 1188 16" rotation="-0.18991 0.80243 -0.337864 0.453749" unit_id="800274"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
