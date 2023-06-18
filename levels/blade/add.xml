@@ -1761,8 +1761,18 @@
 		<unit path="units/payday2/architecture/ind/ind_ext_harbour/ind_ext_harbour_side_4m"/>
 	</add>
 	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_harbour/ind_ext_harbour_side_8m" type="unit">
-		<unit path="units/payday2/architecture/ind/ind_ext_harbour/ind_ext_harbour_side_8m"/>
-		<object path="units/payday2/architecture/ind/ind_ext_harbour/ind_ext_harbour_side_8m"/>
 		<material_config path="units/payday2/architecture/ind/ind_ext_harbour/ind_ext_harbour"/>
+		<object path="units/payday2/architecture/ind/ind_ext_harbour/ind_ext_harbour_side_8m"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_harbour/ind_ext_harbour_side_8m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top_window_red_v2" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_v2"/>
+		<object path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top_window_red_v2"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top_window_red_v2"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x_roof_window_closed_v2" type="unit">
+		<unit path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x_roof_window_closed_v2"/>
+		<object path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x_roof_window_closed_v2"/>
+		<material_config path="units/payday2/architecture/ind/ind"/>
 	</add>
 </table>

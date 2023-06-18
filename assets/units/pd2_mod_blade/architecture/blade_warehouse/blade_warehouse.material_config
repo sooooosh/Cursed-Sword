@@ -22,4 +22,15 @@
         <bump_normal_texture file="units/pd2_dlc_trai/architecture/ext/ext_textures/trai_int_concrete_wall/trai_int_concrete_wall_nm"/>
         <material_texture file="units/pd2_dlc_trai/architecture/ext/ext_textures/trai_int_concrete_wall/trai_int_concrete_wall_gsma"/>
     </material>
+    <material render_template="generic:BLEND_DIFFUSE:BLEND_MASK_SEPERATE:BLEND_SMOOTH:DIFFUSE_TEXTURE:NORMALMAP:RL_CORE_ENVIRONMENT:VERTEX_COLOR" name="mat_trai_metal_panels" version="2">
+        <diffuse_texture file="units/pd2_dlc_trai/architecture/ext/ext_textures/trai_ext_corrugated_shed_df"/>
+        <diffuse_layer0_texture file="units/pd2_dlc_trai/architecture/ext/ext_textures/trai_ext_corrugated_shed_dirty_df"/>
+        <diffuse_layer1_texture file="units/pd2_dlc_trai/architecture/ext/ext_textures/trai_ext_corrugated_shed_mask"/>
+        <bump_normal_texture file="units/pd2_dlc_trai/architecture/ext/ext_textures/trai_ext_corrugated_shed_nm"/>
+    </material>
+    <material render_template="opacity:DIFFUSE_TEXTURE:OPACITY_FADE" name="mat_trai_leaks" version="2">
+        <opacity_texture file="units/pd2_dlc_trai/architecture/ext/ext_textures/trai_ext_decals_leaking_mask"/>
+        <diffuse_texture file="units/pd2_dlc_trai/architecture/ext/ext_textures/trai_ext_decals_leaking_df"/>
+        <variable type="vector3" name="opacity_fade" value="354 6906 0"/>
+    </material>
 </materials>

@@ -4,7 +4,6 @@
 	<mkp_ext file="mkp_ext/mkp_ext"/>
 	<mkp_int file="mkp_int/mkp_int"/>
 	<mkp_props file="mkp_props/mkp_props"/>
-	<mkp_roof file="mkp_roof/mkp_roof"/>
 	<nav file="nav/nav"/>
 	<world file="world/world"/>
 </table>
