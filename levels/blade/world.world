@@ -1370,15 +1370,15 @@
 				</entry>
 			</entry>
 			<entry key="unit_data" type="table">
-				<entry key="_prev_pos" type="vector3" value="3800 1300 -300"/>
-				<entry key="_prev_rot" type="quaternion" value="0 0 0 -1"/>
+				<entry key="_prev_pos" type="vector3" value="3800 1300 -245"/>
+				<entry key="_prev_rot" type="quaternion" value="-0 0 -0 -1"/>
 				<entry key="continent" type="string" value="mkp_ext"/>
 				<entry key="local_pos" type="vector3" value="0 0 0"/>
 				<entry key="local_rot" type="quaternion" value="0 0 0 1"/>
 				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
 				<entry key="name_id" type="string" value="nav_surface_065"/>
-				<entry key="position" type="vector3" value="3800 1300 -300"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+				<entry key="position" type="vector3" value="3800 1300 -244"/>
+				<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
 				<entry key="unit_id" type="number" value="65"/>
 			</entry>
 		</entry>

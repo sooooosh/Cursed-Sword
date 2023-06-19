@@ -7,6 +7,10 @@
 			<object collision_type="box" name="c_ext_ground_02" padding="-2.5"/>
 			<object collision_type="box" name="c_ext_ground_03" padding="-2.5"/>
 			<object collision_type="box" name="c_ext_ground_04" padding="-2.5"/>
+			<object collision_type="box" name="c_ext_ground_05" padding="-2.5"/>
+			<object collision_type="box" name="c_ext_ground_06" padding="-2.5"/>
+			<object collision_type="box" name="c_ext_ground_07" padding="-2.5"/>
+			<object collision_type="box" name="c_ext_ground_08" padding="-2.5"/>
 		</body>
 	</bodies>
 
