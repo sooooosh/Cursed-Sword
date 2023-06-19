@@ -1,0 +1,28 @@
+<dynamic_object>
+    <diesel orientation_object="rp_bnk_ext_garage_door" materials="units/pd2_dlc1/architecture/bnk_ext_garage/bnk_ext_garage_door" />
+
+	<bodies>
+		<body enabled="true" template="static" name="body_static" >
+			<object collision_type="box" name="c_door_frame" padding="-2.5"/>
+			<object collision_type="box" name="s_door_01" padding="-2.5"/>
+		</body>
+	</bodies>
+
+	<decal_surfaces default_material="metal">
+		<decal_mesh name="s_door_01" enabled="true" material="metal"/>
+		<decal_mesh name="g_door_frame" enabled="true" material="metal"/>
+		<decal_mesh name="g_door_roll" enabled="true" material="metal"/>
+	</decal_surfaces>
+
+	<graphics>
+		<object name="g_door_frame" enabled="true"/>
+		<object name="g_door_roll" enabled="true"/>
+		
+		<object name="g_door_01" enabled="true"/>
+		<object name="g_door_02" enabled="true"/>
+		<object name="g_door_03" enabled="true"/>
+		<object name="g_door_04" enabled="true"/>
+		
+		<object name="s_door_01" enabled="true" shadow_caster="true"/>
+    </graphics>
+</dynamic_object>

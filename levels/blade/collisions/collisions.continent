@@ -827,6 +827,9 @@
 		<table>
 			<unit_data _prev_pos="2300 1188 16" _prev_rot="-0.18991 0.80243 -0.337864 0.453749" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision/dev_collision_1x1m" name_id="dev_collision_1x1m_020" only_visible_in_editor="true" position="2300 1188 16" rotation="-0.18991 0.80243 -0.337864 0.453749" unit_id="800274"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="4746.9 1087.96 -55.3077" _prev_rot="0.210646 0.791978 0.316876 0.477481" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision/dev_collision_1x1m" name_id="dev_collision_1x1m_021" only_visible_in_editor="true" position="4746.9 1087.96 -55.3077" rotation="0.260057 0.702309 0.277764 0.601647" unit_id="800275"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

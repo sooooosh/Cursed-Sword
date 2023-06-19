@@ -33,4 +33,8 @@
         <diffuse_texture file="units/pd2_dlc_trai/architecture/ext/ext_textures/trai_ext_decals_leaking_df"/>
         <variable type="vector3" name="opacity_fade" value="354 6906 0"/>
     </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:RL_ENVIRONMENT" name="mat_str_01_concrete_ground" version="2">
+        <diffuse_texture file="units/payday2/architecture/str/str_01_concrete_ground_df"/>
+        <bump_normal_texture file="units/payday2/architecture/str/str_01_concrete_ground_nm"/>
+    </material>
 </materials>

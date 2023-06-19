@@ -1,0 +1,20 @@
+<dynamic_object>
+    <diesel orientation_object="rp_ext_ground" materials="units/pd2_mod_blade/architecture/blade_warehouse/blade_warehouse" />
+
+	<bodies>
+		<body enabled="true" template="static" name="body_static" >
+			<object collision_type="box" name="c_ext_ground_01" padding="-2.5"/>
+			<object collision_type="box" name="c_ext_ground_02" padding="-2.5"/>
+			<object collision_type="box" name="c_ext_ground_03" padding="-2.5"/>
+			<object collision_type="box" name="c_ext_ground_04" padding="-2.5"/>
+		</body>
+	</bodies>
+
+	<decal_surfaces default_material="concrete">
+		<decal_mesh name="dm_ext_ground" enabled="true" material="concrete"/>
+	</decal_surfaces>
+
+	<graphics>
+		<object name="g_ext_ground" enabled="true"/>
+    </graphics>
+</dynamic_object>
