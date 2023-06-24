@@ -4,16 +4,174 @@
   <bodies>
     <body name="body_mkp" enabled="true" template="static">
       <!-- <object name="g_ext_ground" enabled="true" collision_type="mesh_mopp" /> -->
-      <object name="g_ext_wall_mkp" enabled="true" collision_type="mesh_mopp" />
+      <!-- <object name="g_ext_wall_mkp" enabled="true" collision_type="mesh_mopp" /> -->
       <object name="g_int_wall" enabled="true" collision_type="mesh_mopp" />
       <!-- <object name="g_ext_roof" enabled="true" collision_type="mesh_mopp" /> -->
-      <object name="g_int_ground" enabled="true" collision_type="mesh_mopp" />
+      <!-- <object name="g_int_ground" enabled="true" collision_type="mesh_mopp" /> -->
+    </body>
+
+    <body name="body_roof" enabled="true" template="static">
+      <object name="c_warehouse_roof_01" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_02" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_03" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_04" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_05" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_06" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_07" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_08" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_09" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_10" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_11" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_12" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_13" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_14" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_15" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_16" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_17" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_18" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_19" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_20" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_21" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_22" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_23" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_24" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_25" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_26" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_27" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_28" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_warehouse_roof_29" enabled="true" collision_type="box" padding="-2.5"/>
+    </body>
+      
+    <body name="body_walls" enabled="true" template="static">
+      <object name="c_ext_wall_01" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_02" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_03" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_04" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_05" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_06" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_07" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_08" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_09" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_10" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_11" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_12" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_13" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_14" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_15" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_16" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_17" enabled="true" collision_type="box" padding="-2.5"/>
+      <!-- <object name="c_ext_wall_18" enabled="true" collision_type="box" padding="-2.5"/> -->
+      <object name="c_ext_wall_19" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_20" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_21" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_22" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_23" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_24" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_25" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_26" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_27" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_28" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_29" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_30" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_31" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_32" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_33" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_34" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_35" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_36" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_37" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_38" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_39" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_40" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_41" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_42" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_43" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_44" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_45" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_46" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_47" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_48" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_49" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_50" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_51" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_52" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_53" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_54" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_55" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_56" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_57" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_58" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_59" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_60" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_61" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_62" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_63" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_64" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_65" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_66" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_67" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_68" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_69" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_70" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_71" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_72" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_73" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_74" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_75" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_76" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_77" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_78" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_79" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_80" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_81" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_82" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_83" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_84" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_85" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_86" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_wall_87" enabled="true" collision_type="box" padding="-2.5"/>
+
+      <object name="c_concrete_01" enabled="true" collision_type="convex" padding="-2.5"/>
+      <object name="c_concrete_02" enabled="true" collision_type="convex" padding="-2.5"/>
+      <object name="c_concrete_03" enabled="true" collision_type="convex" padding="-2.5"/>
+      <object name="c_concrete_04" enabled="true" collision_type="convex" padding="-2.5"/>
+      <object name="c_concrete_05" enabled="true" collision_type="convex" padding="-2.5"/>
+      <object name="c_concrete_06" enabled="true" collision_type="convex" padding="-2.5"/>
+      <object name="c_concrete_07" enabled="true" collision_type="convex" padding="-2.5"/>
+      <object name="c_concrete_08" enabled="true" collision_type="convex" padding="-2.5"/>
+      <object name="c_concrete_09" enabled="true" collision_type="convex" padding="-2.5"/>
+      <object name="c_concrete_10" enabled="true" collision_type="convex" padding="-2.5"/>
+      <object name="c_concrete_11" enabled="true" collision_type="convex" padding="-2.5"/>
+      <object name="c_concrete_12" enabled="true" collision_type="convex" padding="-2.5"/>
+      <object name="c_concrete_13" enabled="true" collision_type="convex" padding="-2.5"/>
+      <object name="c_concrete_14" enabled="true" collision_type="convex" padding="-2.5"/>
+      <object name="c_concrete_15" enabled="true" collision_type="convex" padding="-2.5"/>
+      <object name="c_concrete_16" enabled="true" collision_type="convex" padding="-2.5"/>
+      <object name="c_concrete_17" enabled="true" collision_type="convex" padding="-2.5"/>
+      <object name="c_concrete_18" enabled="true" collision_type="convex" padding="-2.5"/>
+      <object name="c_concrete_19" enabled="true" collision_type="convex" padding="-2.5"/>
+
+      <object name="c_ext_beams_01" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_beams_02" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_beams_03" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_beams_04" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_beams_05" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_beams_06" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_beams_07" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_beams_08" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_beams_09" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_beams_10" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_ext_beams_11" enabled="true" collision_type="box" padding="-2.5"/>
     </body>
   </bodies>
   
-  <!-- <decal_surfaces default_material="plastic">
-    <decal_mesh name="g_glow" enabled="true" material="plastic" />
-  </decal_surfaces> -->
+  <decal_surfaces default_material="metal">
+		<decal_mesh name="g_ext_roof" enabled="true" material="metal"/>
+    <decal_mesh name="g_ext_wall" enabled="true" material="metal"/>
+    <decal_mesh name="g_ext_beams" enabled="true" material="metal"/>
+
+    <decal_mesh name="g_concrete" enabled="true" material="concrete"/>
+	</decal_surfaces>
   
   <graphics>
     <graphic_group name="grp_mkp" enabled="true">
@@ -24,9 +182,9 @@
       <object name="g_concrete" enabled="true"/>
       <object name="g_ext_beams" enabled="true"/>
       <object name="g_ext_beams2" enabled="true"/>
-      <object name="g_int_wall" enabled="true"/>
+      <!-- <object name="g_int_wall" enabled="true"/> -->
       <object name="g_ext_roof" enabled="true"/>
-      <object name="g_int_ground" enabled="true"/>
+      <!-- <object name="g_int_ground" enabled="true"/> -->
       <object name="g_windowframe" enabled="true"/>
       <object name="g_ext_roof_winframe" enabled="true"/>
       <object name="g_leaks" enabled="true"/>

@@ -9,7 +9,7 @@
         <diffuse_texture file="units/pd2_dlc_trai/architecture/ext/ext_textures/trai_ext_corrugated_shed_dirty_df"/>
         <material_texture file="units/pd2_dlc_trai/architecture/ext/ext_textures/trai_ext_corrugated_shed_gsma"/>
         <bump_normal_texture file="units/pd2_dlc_trai/architecture/ext/ext_textures/trai_ext_corrugated_shed_nm"/>
-        <variable type="vector3" name="tint_color" value="0.37254902720451 0.43529415130615 0.49803924560547"/>
+        <variable type="vector3" name="tint_color" value="0.4588235616684 0.70196080207825 0.85098046064377"/>
     </material>
     <material render_template="generic:BLEND_DIFFUSE:BLEND_MASK_SEPERATE:BLEND_SMOOTH:DIFFUSE_TEXTURE:NORMALMAP:RL_CORE_ENVIRONMENT:VERTEX_COLOR" name="mat_autre_metal" version="2">
         <diffuse_texture file="units/pd2_dlc_trai/architecture/ext/ext_textures/metal_trim_01/trai_int_metal_trim_01_df"/>
@@ -36,5 +36,15 @@
     <material render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:RL_ENVIRONMENT" name="mat_str_01_concrete_ground" version="2">
         <diffuse_texture file="units/payday2/architecture/str/str_01_concrete_ground_df"/>
         <bump_normal_texture file="units/payday2/architecture/str/str_01_concrete_ground_nm"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:GSMA_TEXTURE:NORMALMAP:SIMPLE_TINT" name="mat_floor" version="2">
+        <diffuse_texture file="units/pd2_dlc_trai/architecture/ext/ext_textures/concrete_floor/trai_workshop_concrete_floor_clean_df"/>
+        <bump_normal_texture file="units/pd2_dlc_trai/architecture/ext/ext_textures/concrete_floor/trai_workshop_concrete_floor_clean_nm"/>
+        <material_texture file="units/pd2_dlc_trai/architecture/ext/ext_textures/concrete_floor/trai_workshop_concrete_floor_clean_gsma"/>
+        <variable type="vector3" name="tint_color" value="0.49803924560547 0.53725492954254 0.55294120311737"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:RL_ENVIRONMENT" name="mat_ind_ext_level_0" version="2">
+        <diffuse_texture file="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_0_df"/>
+        <bump_normal_texture file="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_0_nm"/>
     </material>
 </materials>

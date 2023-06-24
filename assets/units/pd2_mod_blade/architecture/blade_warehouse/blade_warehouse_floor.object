@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<dynamic_object>
+  <diesel materials="units/pd2_mod_blade/architecture/blade_warehouse/blade_warehouse" orientation_object="rp_warehouse_int" />
+
+  <bodies>
+    <body name="body_mkp" enabled="true" template="static">
+      <object name="g_int_ground" enabled="true" collision_type="mesh_mopp"/>
+
+      <object name="c_bottom_trims_01" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_02" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_03" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_04" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_05" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_06" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_07" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_08" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_09" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_10" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_11" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_12" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_13" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_14" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_15" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_16" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_17" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_18" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_19" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_20" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_21" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_22" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_23" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_24" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_25" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_26" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_27" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_28" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_29" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_30" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_31" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_32" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_33" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_34" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_35" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_36" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_37" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_38" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_39" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_40" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_41" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_42" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_43" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_44" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_45" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_46" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_47" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_48" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_49" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_50" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_51" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_52" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_bottom_trims_53" enabled="true" collision_type="box" padding="-2.5"/>
+    </body>
+      
+  </bodies>
+  
+  <decal_surfaces default_material="metal">
+		<decal_mesh name="dm_metal" enabled="true" material="metal"/>
+    <decal_mesh name="dm_concrete" enabled="true" material="concrete"/>
+	</decal_surfaces>
+  
+  <graphics>
+    <graphic_group name="grp_mkp" enabled="true">
+      <object name="g_int_ground" enabled="true"/>
+      <object name="g_bottom_trims" enabled="true"/>
+
+      <object name="g_int_wall" enabled="true"/>
+    </graphic_group>
+  </graphics>
+</dynamic_object>
