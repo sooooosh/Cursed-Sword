@@ -3,7 +3,7 @@
   <diesel materials="units/pd2_mod_blade/architecture/blade_warehouse/blade_warehouse" orientation_object="rp_warehouse_int" />
 
   <bodies>
-    <body name="body_mkp" enabled="true" template="static">
+    <body name="body_static" enabled="true" template="static">
       <object name="g_int_ground" enabled="true" collision_type="mesh_mopp"/>
 
       <object name="c_bottom_trims_01" enabled="true" collision_type="box" padding="-2.5"/>
@@ -59,6 +59,66 @@
       <object name="c_bottom_trims_51" enabled="true" collision_type="box" padding="-2.5"/>
       <object name="c_bottom_trims_52" enabled="true" collision_type="box" padding="-2.5"/>
       <object name="c_bottom_trims_53" enabled="true" collision_type="box" padding="-2.5"/>
+
+      <object name="c_int_wall_01" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_02" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_03" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_04" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_05" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_06" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_07" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_08" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_09" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_10" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_11" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_12" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_13" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_14" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_15" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_16" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_17" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_18" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_19" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_20" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_21" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_22" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_23" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_24" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_25" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_26" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_27" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_wall_28" enabled="true" collision_type="box" padding="-2.5"/>
+
+      <object name="c_int_beams_01" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_02" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_03" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_04" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_05" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_06" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_07" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_08" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_09" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_10" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_11" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_12" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_13" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_14" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_15" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_16" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_17" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_18" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_19" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_20" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_21" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_22" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_23" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_24" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_25" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_26" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_27" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_28" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_29" enabled="true" collision_type="box" padding="-2.5"/>
+      <object name="c_int_beams_30" enabled="true" collision_type="box" padding="-2.5"/>
     </body>
       
   </bodies>
@@ -66,6 +126,8 @@
   <decal_surfaces default_material="metal">
 		<decal_mesh name="dm_metal" enabled="true" material="metal"/>
     <decal_mesh name="dm_concrete" enabled="true" material="concrete"/>
+    <decal_mesh name="g_int_wall" enabled="true" material="metal"/>
+    <decal_mesh name="g_int_beams" enabled="true" material="metal"/> 
 	</decal_surfaces>
   
   <graphics>
@@ -74,6 +136,8 @@
       <object name="g_bottom_trims" enabled="true"/>
 
       <object name="g_int_wall" enabled="true"/>
+      <object name="g_int_beams" enabled="true"/>
+      <object name="g_int_windowframe" enabled="true"/>
     </graphic_group>
   </graphics>
 </dynamic_object>

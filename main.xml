@@ -52,7 +52,7 @@
 	</Localization>
 	<Package file="scriptdata/package_blade.xml" id="package_blade" unload_on_restart="true"/>
 	<Package file="scriptdata/package_kat.xml" id="package_kat" unload_on_restart="true"/>
-	<level ai_group_type="america" id="blade" max_bags="54">
+	<level ai_group_type="america" id="blade" max_bags="54" ai_marshal_spawns_disabled="true">
 		<assets>
 			<asset name="ammo_bag"/>
 			<asset name="health_bag"/>

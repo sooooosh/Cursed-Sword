@@ -5269,11 +5269,11 @@
 					<entry key="path_style" type="string" value="none"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="3023 -4050 1520.67"/>
+					<entry key="position" type="vector3" value="3023 -3900 1520.67"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707106"/>
 					<entry key="scan" type="boolean" value="true"/>
 					<entry key="search_distance" type="number" value="0"/>
-					<entry key="search_position" type="vector3" value="2828 -4068 1187"/>
+					<entry key="search_position" type="vector3" value="2851 -3918 1175"/>
 					<entry key="so_action" type="string" value="e_nl_dwn_3_5m"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
@@ -20971,7 +20971,6 @@
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="counter_target" type="number" value="0"/>
 					<entry key="digital_gui_unit_ids" type="table">
-						<entry index="1" type="number" value="200085"/>
 					</entry>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
@@ -22021,7 +22020,7 @@
 						</entry>
 					</entry>
 					<entry key="override_timer" type="number" value="-1"/>
-					<entry key="position" type="vector3" value="1675 -3850 1090.52"/>
+					<entry key="position" type="vector3" value="850 -2550 1040.28"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="tweak_data_id" type="string" value="press_to_interact"/>
@@ -22042,7 +22041,7 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="1725 -3875 1092.42"/>
+					<entry key="position" type="vector3" value="900 -2575 1042.18"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="set_trigger_times" type="number" value="-1"/>
 					<entry key="toggle" type="string" value="on"/>
@@ -22066,7 +22065,7 @@
 							<entry key="id" type="number" value="100719"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="1675 -3925 1106.44"/>
+					<entry key="position" type="vector3" value="850 -2625 1056.2"/>
 					<entry key="push_multiplier" type="number" value="0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="spawn_dir" type="vector3" value="0 0 1"/>
@@ -22298,7 +22297,6 @@
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="counter_target" type="number" value="0"/>
 					<entry key="digital_gui_unit_ids" type="table">
-						<entry index="1" type="number" value="200087"/>
 					</entry>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
@@ -38624,7 +38622,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="pitch_limit" type="number" value="25"/>
-					<entry key="position" type="vector3" value="2950 -1000 625"/>
+					<entry key="position" type="vector3" value="2978 -1000 625"/>
 					<entry key="rotation" type="quaternion" value="-0.0477747 -0.184731 0.95036 0.24578"/>
 					<entry key="text_id" type="string" value="dock_access_pillar_south"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -38644,7 +38642,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="pitch_limit" type="number" value="25"/>
-					<entry key="position" type="vector3" value="3050 -1000 625"/>
+					<entry key="position" type="vector3" value="3045 -1000 625"/>
 					<entry key="rotation" type="quaternion" value="0.110616 -0.110616 0.698401 -0.698401"/>
 					<entry key="text_id" type="string" value="dock_access_pillar_north"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -38937,7 +38935,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="pitch_limit" type="number" value="25"/>
-					<entry key="position" type="vector3" value="2950 -3000 625"/>
+					<entry key="position" type="vector3" value="2978 -3000 625"/>
 					<entry key="rotation" type="quaternion" value="0.150465 0.130797 -0.642888 -0.739559"/>
 					<entry key="text_id" type="string" value="lumber_catwalk_west"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -38957,7 +38955,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="pitch_limit" type="number" value="25"/>
-					<entry key="position" type="vector3" value="2950 -5000 625"/>
+					<entry key="position" type="vector3" value="2978 -5000 625"/>
 					<entry key="rotation" type="quaternion" value="-0.0129495 -0.164539 0.983245 0.0773829"/>
 					<entry key="text_id" type="string" value="lumber_catwalk_west"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -38977,7 +38975,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="pitch_limit" type="number" value="25"/>
-					<entry key="position" type="vector3" value="2950 -7000 625"/>
+					<entry key="position" type="vector3" value="2978 -7000 625"/>
 					<entry key="rotation" type="quaternion" value="-0.0142981 -0.181674 0.980224 0.0771451"/>
 					<entry key="text_id" type="string" value="lumber_catwalk_west"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -38997,7 +38995,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="pitch_limit" type="number" value="25"/>
-					<entry key="position" type="vector3" value="2950 -9000 625"/>
+					<entry key="position" type="vector3" value="2978 -9000 625"/>
 					<entry key="rotation" type="quaternion" value="0.151358 0.0658126 -0.393281 -0.904483"/>
 					<entry key="text_id" type="string" value="lumber_catwalk_west"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -39017,7 +39015,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="pitch_limit" type="number" value="25"/>
-					<entry key="position" type="vector3" value="4750 -9000 625"/>
+					<entry key="position" type="vector3" value="4745 -9000 625"/>
 					<entry key="rotation" type="quaternion" value="0.0664523 -0.160429 0.909844 -0.37687"/>
 					<entry key="text_id" type="string" value="lumber_catwalk_west"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -39037,7 +39035,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="pitch_limit" type="number" value="25"/>
-					<entry key="position" type="vector3" value="4750 -7000 625"/>
+					<entry key="position" type="vector3" value="4746 -7000 625"/>
 					<entry key="rotation" type="quaternion" value="0.147 -0.0535038 0.337809 -0.928124"/>
 					<entry key="text_id" type="string" value="lumber_catwalk_west"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -39057,7 +39055,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="pitch_limit" type="number" value="25"/>
-					<entry key="position" type="vector3" value="4750 -5000 625"/>
+					<entry key="position" type="vector3" value="4746 -5000 625"/>
 					<entry key="rotation" type="quaternion" value="0.0798431 -0.219366 0.913729 -0.33257"/>
 					<entry key="text_id" type="string" value="lumber_catwalk_west"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -39077,7 +39075,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="pitch_limit" type="number" value="25"/>
-					<entry key="position" type="vector3" value="4750 -3000 625"/>
+					<entry key="position" type="vector3" value="4746 -3000 625"/>
 					<entry key="rotation" type="quaternion" value="0.19864 -0.152422 0.589371 -0.768083"/>
 					<entry key="text_id" type="string" value="lumber_catwalk_west"/>
 					<entry key="trigger_times" type="number" value="0"/>
