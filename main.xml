@@ -44,6 +44,32 @@
 			<file path="scriptdata/customstuff.xml"/>
 		</xml>
 	</instance>
+	<HUDIcon id="yeet_test1" texture="guis/textures/blade_equipment">
+		<texture_rect>
+			<value_node value="0"/>
+			<value_node value="0"/>
+			<value_node value="32"/>
+			<value_node value="32"/>
+		</texture_rect>
+	</HUDIcon>
+
+	<!-- <hudicon id="yeet_test3" texture="guis/textures/blade_equipment">
+		<texture_rect>
+			<value_node value="0"/>
+			<value_node value="32"/>
+			<value_node value="32"/>
+			<value_node value="32"/>
+		</texture_rect>
+	</hudicon>
+
+	<hudicon id="yeet_test4" texture="guis/textures/blade_equipment">
+		<texture_rect>
+			<value_node value="32"/>
+			<value_node value="32"/>
+			<value_node value="32"/>
+			<value_node value="32"/>
+		</texture_rect>
+	</hudicon> -->
 	<AddFiles directory="assets">
 		<dds path="guis/textures/cn_map/cn_blade"/>
 	</AddFiles>
@@ -53,6 +79,14 @@
 	<Package file="scriptdata/package_blade.xml" id="package_blade" unload_on_restart="true"/>
 	<Package file="scriptdata/package_kat.xml" id="package_kat" unload_on_restart="true"/>
 	<level ai_group_type="america" id="blade" max_bags="54" ai_marshal_spawns_disabled="true">
+		<hudicon id="yeet_test2" texture="guis/textures/blade_equipment">
+			<texture_rect>
+				<value_node value="32"/>
+				<value_node value="32"/>
+				<value_node value="32"/>
+				<value_node value="32"/>
+			</texture_rect>
+		</hudicon>
 		<assets>
 			<asset name="ammo_bag"/>
 			<asset name="health_bag"/>

@@ -1886,6 +1886,33 @@
 		<table>
 			<unit_data _prev_pos="1175 -8500 600" _prev_rot="-0.707107 0 0 -0.707107" continent="mkp_ext" local_pos="0 0 -300" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_1m_a" name_id="mkp_int_wall_1m_a_157" position="1175 -8500 700" rotation="-0.707107 0 0 -0.707107" unit_id="400023"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="-4100 -2100 0" _prev_rot="0 0 0 -1" continent="mkp_ext" local_pos="6400 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_019" position="-4100 -2100 0" rotation="0 0 0 -1" unit_id="400001"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-7300 -2100 0" _prev_rot="0 0 0 -1" continent="mkp_ext" local_pos="3200 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_020" position="-7300 -2100 0" rotation="0 0 0 -1" unit_id="400005"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10500 -2100 0" _prev_rot="0 0 0 -1" continent="mkp_ext" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_021" position="-10500 -2100 0" rotation="0 0 0 -1" unit_id="400006"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10500 -2100 0" _prev_rot="0 0 0 -1" continent="mkp_ext" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_022" position="-10500 -5300 0" rotation="0 0 0 -1" unit_id="400007"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-7300 -2100 0" _prev_rot="0 0 0 -1" continent="mkp_ext" local_pos="3200 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_023" position="-7300 -5300 0" rotation="0 0 0 -1" unit_id="400008"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4100 -2100 0" _prev_rot="0 0 0 -1" continent="mkp_ext" local_pos="6400 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_024" position="-4100 -5300 0" rotation="0 0 0 -1" unit_id="400009"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10500 -5300 0" _prev_rot="0 0 0 -1" continent="mkp_ext" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_025" position="-10500 1100 0" rotation="0 0 0 -1" unit_id="400010"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-7300 -5300 0" _prev_rot="0 0 0 -1" continent="mkp_ext" local_pos="3200 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_026" position="-7300 1100 0" rotation="0 0 0 -1" unit_id="400011"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4100 -5300 0" _prev_rot="0 0 0 -1" continent="mkp_ext" local_pos="6400 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_32x32_a" name_id="mkp_int_floor_32x32_a_027" position="-4100 1100 0" rotation="0 0 0 -1" unit_id="400012"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

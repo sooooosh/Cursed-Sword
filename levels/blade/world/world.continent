@@ -6387,6 +6387,44 @@
 		<table>
 			<unit_data _prev_pos="5625 -901 761" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/csgo_models/props/cs_assault/acunit02" name_id="acunit02_005" position="5625 174 761" rotation="0 0 0 -1" unit_id="101724"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="-2900 300 0" _prev_rot="-0.707107 0 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_001" position="-2900 300 0" rotation="-0.707107 0 0 -0.707107" unit_id="101726"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2900 600 -100" _prev_rot="-0.707107 0 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_002" position="-2900 600 -100" rotation="-0.707107 0 0 -0.707107" unit_id="101727"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2900 600 -100" _prev_rot="-0.707107 0 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_003" position="-2900 900 -200" rotation="-0.707107 0 0 -0.707107" unit_id="101728"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2900 900 -200" _prev_rot="-0.707107 0 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_004" position="-2900 1200 -300" rotation="-0.707107 0 0 -0.707107" unit_id="101729"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2900 400 300" _prev_rot="-4.0339e-008 1.05367e-008 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="set_range_2" name="units/pd2_mod_pdm/props/mantle_point/mantle_point" name_id="mantle_point_007" position="-2900 450 300" rotation="-4.0339e-008 1.05367e-008 -0.707107 -0.707107" unit_id="101730"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2900 750 300" _prev_rot="-4.0339e-008 1.05367e-008 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="set_range_2" name="units/pd2_mod_pdm/props/mantle_point/mantle_point" name_id="mantle_point_008" position="-2900 750 200" rotation="-4.0339e-008 1.05367e-008 -0.707107 -0.707107" unit_id="101731"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2900 750 200" _prev_rot="-4.0339e-008 1.05367e-008 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="set_range_2" name="units/pd2_mod_pdm/props/mantle_point/mantle_point" name_id="mantle_point_009" position="-2900 150 400" rotation="-4.0339e-008 1.05367e-008 -0.707107 -0.707107" unit_id="101732"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2900 300 0" _prev_rot="-0.707107 0 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_005" position="-2900 0 0" rotation="-0.707107 0 0 -0.707107" unit_id="101733"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2900 0 400" _prev_rot="-0.707107 0 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_4m_a" name_id="mkp_int_wall_4m_a_006" position="-2900 0 400" rotation="-0.707107 0 0 -0.707107" unit_id="102100"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2914 -150 800" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_pdm/props/grapple_point/grapple_point" name_id="grapple_point_001" position="-2914 -150 800" rotation="-0 0 -0 -1" unit_id="102101">
+				<zipline ai_ignores_bag="true" end_pos="-2864 -150 125" slack="0" speed="300" usage_type="person"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2900 0 800" _prev_rot="-0.5 0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_1m_a" name_id="mkp_int_wall_1m_a_005" position="-2875 0 775" rotation="-0.5 0.5 -0.5 -0.5" unit_id="102102"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2800 125 0" _prev_rot="0 0 -0.694658 -0.71934" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/pallet_01/pallet_pile_01" name_id="pallet_pile_01_045" position="-2800 125 0" rotation="0 0 -0.694658 -0.71934" unit_id="102103"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
